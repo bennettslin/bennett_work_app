@@ -6,12 +6,9 @@
   "scripts": {
     "clean": "gatsby clean",
     "build:staging": "gatsby build",
-    "build:production": "BUILD=production gatsby build",
-    "deploy": "gatsby-plugin-s3 deploy --yes",
-    "start": "npm run clean && DESTINATION=local BUILD=runtime gatsby develop --port 1111",
-    "serve": "gatsby serve --port 1111",
+    "start": "npm run clean && DESTINATION=local BUILD=runtime gatsby develop --port 1110",
+    "serve": "gatsby serve --port 1110",
     "stage": "npm run clean && DESTINATION=local npm run build:staging && npm run serve",
-    "release:production": "npm run clean && DESTINATION=production npm run build:production && npm run deploy",
     "lint": "eslint --ext js,jsx src",
     "lint:fix": "eslint --ext js,jsx --fix src"
   },
@@ -31,12 +28,8 @@
     "prop-types": "^15.7.2",
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
-    "react-helmet": "^6.1.0",
-    "react-redux": "^7.2.4",
     "react-router": "^5.2.0",
-    "react-router-dom": "^5.2.0",
-    "react-tooltip": "^4.2.21",
-    "redux": "^4.1.1"
+    "react-router-dom": "^5.2.0"
   },
   "devDependencies": {
     "@babel/core": "^7.15.0",
@@ -51,11 +44,9 @@
     "esm": "^3.2.25",
     "gatsby": "^3.12.0",
     "gatsby-plugin-manifest": "^3.12.0",
-    "gatsby-plugin-react-helmet": "^4.12.0",
     "gatsby-plugin-remove-trailing-slashes": "^3.12.0",
     "gatsby-plugin-sass": "^4.12.0",
     "jsdom": "^16.7.0",
-    "redux-devtools-extension": "^2.13.9",
     "sass": "^1.38.0",
     "webpack": "^5.51.1"
   }
