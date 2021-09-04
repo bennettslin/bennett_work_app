@@ -1,0 +1,13 @@
+@import './classes/font';
+@import './classes/global';
+
+@font-face {
+    font-family: PTSansNarrow;
+    src: url('../assets/fonts/PTSansNarrow/PTSansNarrow-Regular.ttf');
+}
+
+@font-face {
+    font-family: PTSansNarrow;
+    src: url('../assets/fonts/PTSansNarrow/PTSansNarrow-Bold.ttf');
+    font-weight: bold;
+}
