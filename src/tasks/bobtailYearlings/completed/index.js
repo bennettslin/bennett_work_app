@@ -1,6 +1,6 @@
 export default [
     {
-        taskName: `initial work`,
-        workedHours: 250,
+        taskName: `Initial work.`,
+        workedHours: 150,
     },
 ]

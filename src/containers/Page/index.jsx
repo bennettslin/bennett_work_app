@@ -3,6 +3,8 @@ import cx from 'classnames'
 import Project from './Project'
 import bobtailDominoes from '../../tasks/bobtailDominoes'
 import bobtailYearlings from '../../tasks/bobtailYearlings'
+import byCombo from '../../tasks/byCombo'
+import yearlingsBobtail from '../../tasks/yearlingsBobtail'
 import './style'
 
 const Page = () => {
@@ -23,6 +25,18 @@ const Page = () => {
                 {...{
                     name: 'Bobtail Yearlings',
                     tasks: bobtailYearlings,
+                }}
+            />
+            <Project
+                {...{
+                    name: 'BYCombo',
+                    tasks: byCombo,
+                }}
+            />
+            <Project
+                {...{
+                    name: 'Yearling\'s Bobtail',
+                    tasks: yearlingsBobtail,
                 }}
             />
         </div>
