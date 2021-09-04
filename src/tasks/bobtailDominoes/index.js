@@ -1,6 +1,7 @@
+import completed from './completed'
+import remaining from './remaining'
+
 export default [
-    {
-        taskName: `general work`,
-        workedHours: 50,
-    },
+    ...completed,
+    ...remaining,
 ]
