@@ -10,14 +10,9 @@ export default [
         neededHours: 2,
     },
     {
-        taskName: `Links page for all websites.`,
-        workedHours: 0,
-        neededHours: 5,
-    },
-    {
         taskName: `Initial modal with follow buttons on all websites.`,
         workedHours: 0,
-        neededHours: 5,
+        neededHours: 4,
     },
     {
         taskName: `Finish music getting worse essay. Post on social media, and pin tweet.`,
