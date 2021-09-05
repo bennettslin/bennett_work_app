@@ -1,13 +1,17 @@
-import { getFaviconFileName } from './src/utils/server'
+import {
+    APP_DESCRIPTION,
+    APP_TITLE,
+    getFaviconFileName,
+} from './src/utils/server'
 
 export default {
     plugins: [
         {
             resolve: `gatsby-plugin-manifest`,
             options: {
-                name: `Bennett's work`,
-                short_name: `Bennett's work`,
-                description: `Bennett's personal work tracker`,
+                name: APP_TITLE,
+                short_name: APP_TITLE,
+                description: APP_DESCRIPTION,
                 start_url: '/',
                 background_color: '#e6e6ad',
                 theme_color: '#b38e6b',

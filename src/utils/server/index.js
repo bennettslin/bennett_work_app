@@ -1,3 +1,7 @@
+export const APP_TITLE = 'Bennett\'s work tracker'
+export const APP_DESCRIPTION =
+    'Bennett\'s personal work tracker.'
+
 export const getIsRuntimeBuild = () => (
     process.env.BUILD === 'runtime'
 )
