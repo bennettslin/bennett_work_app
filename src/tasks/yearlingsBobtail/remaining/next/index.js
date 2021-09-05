@@ -4,9 +4,4 @@ export default [
         workedHours: 0,
         neededHours: 1,
     },
-    {
-        taskName: `Remove artup2.`,
-        workedHours: 0,
-        neededHours: 1,
-    },
 ]
