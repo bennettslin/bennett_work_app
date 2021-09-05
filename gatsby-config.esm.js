@@ -7,7 +7,7 @@ export default {
             options: {
                 name: `Bennett's work`,
                 short_name: `Bennett's work`,
-                description: 'Bennett\'s personal work tracker',
+                description: `Bennett's personal work tracker`,
                 start_url: '/',
                 background_color: '#e6e6ad',
                 theme_color: '#b38e6b',
@@ -15,6 +15,7 @@ export default {
                 icon: `src/assets/favicon/${getFaviconFileName()}.png`,
             },
         },
+        `gatsby-plugin-react-helmet`,
         `gatsby-plugin-remove-trailing-slashes`,
         `gatsby-plugin-sass`,
     ],

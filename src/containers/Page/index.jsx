@@ -1,10 +1,12 @@
 import React from 'react'
 import cx from 'classnames'
 import Project from './Project'
+import Helmet from '../../components/Helmet'
 import bobtailDominoes from '../../tasks/bobtailDominoes'
 import bobtailYearlings from '../../tasks/bobtailYearlings'
 import byCombo from '../../tasks/byCombo'
 import yearlingsBobtail from '../../tasks/yearlingsBobtail'
+import { replaceStraightWithSmartQuotes } from '../../utils/format/smartQuote'
 import './style'
 
 const Page = () => {
@@ -15,6 +17,7 @@ const Page = () => {
                 'font__text',
             )}
         >
+            <Helmet />
             <Project
                 {...{
                     name: 'Bobtail Dominoes',
@@ -35,7 +38,7 @@ const Page = () => {
             />
             <Project
                 {...{
-                    name: 'Yearling\'s Bobtail',
+                    name: replaceStraightWithSmartQuotes(`Yearling's Bobtail`),
                     tasks: yearlingsBobtail,
                 }}
             />
