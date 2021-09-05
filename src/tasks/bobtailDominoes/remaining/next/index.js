@@ -5,6 +5,11 @@ export default [
         neededHours: 2,
     },
     {
+        taskName: `Website colours.`,
+        workedHours: 0,
+        neededHours: 1,
+    },
+    {
         taskName: `Have setup for creating daily puzzle pngs and svgs. Need random piece generator. Include documentation.`,
         workedHours: 0,
         neededHours: 10,

@@ -1,11 +1,6 @@
 export default [
     {
-        taskName: `Make visit buttons actual follow buttons. Just YB left. Make YB social media buttons more like others.`,
-        workedHours: 2,
-        neededHours: 4,
-    },
-    {
-        taskName: `Initial modal with follow buttons on all websites.`,
+        taskName: `Initial modal with follow buttons on all websites. YB share buttons have text to be more clear?`,
         workedHours: 0,
         neededHours: 4,
     },
