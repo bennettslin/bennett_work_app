@@ -15,4 +15,12 @@ export default [
         taskName: `Footer with mailing list and follow buttons on main websites.`,
         workedHours: 1,
     },
+    {
+        taskName: `Consolidate apps.`,
+        workedHours: 1,
+    },
+    {
+        taskName: `Show next tasks in work app.`,
+        workedHours: 1,
+    },
 ]

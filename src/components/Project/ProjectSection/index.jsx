@@ -7,6 +7,7 @@ import {
     getSumOfTasks,
 } from './helper'
 import './style'
+import ProjectSectionRow from './Row'
 
 const ProjectSection = ({
     isV2 = false,
@@ -23,21 +24,36 @@ const ProjectSection = ({
         finishDate = getFinishDateFromHours(remainingHours)
 
     return (
-        <div className={cx(
-            'ProjectSection',
-            isV2 && 'ProgressSection__v2',
-        )}>
+        <div
+            {...{
+                className: cx(
+                    'ProjectSection',
+                    isV2 && 'ProgressSection__v2',
+                ),
+            }}
+        >
             {isV2 && (
                 <h5>v2</h5>
             )}
-            <p>
-                {parseInt(neededHours)}h - {parseInt(workedHours)}h = {parseInt(remainingHours)}h
-            </p>
-            <p>needed time: {neededTime}</p>
-            <p>worked time: {workedTime}</p>
-            <p>remaining time: {remainingTime}</p>
+            <ProjectSectionRow
+                {...{
+                    label: `${parseInt(neededHours)}h - ${parseInt(workedHours)}h =`,
+                    value: `${parseInt(remainingHours)}h`,
+                }}
+            />
+            <ProjectSectionRow
+                {...{ label: 'needed time', value: neededTime }}
+            />
+            <ProjectSectionRow
+                {...{ label: 'worked time', value: workedTime }}
+            />
+            <ProjectSectionRow
+                {...{ label: 'remaining time', value: remainingTime }}
+            />
             {!isV2 && (
-                <p>finish date: {finishDate}</p>
+                <ProjectSectionRow
+                    {...{ label: 'finish date', value: finishDate }}
+                />
             )}
         </div>
     )

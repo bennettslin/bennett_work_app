@@ -65,13 +65,11 @@ export const getTimeStringFromHours = (hours = 0) => {
             days,
         } = remainingTimeObject
 
-    if (!months && !weeks && !days) {
-        return '0d'
-    } else {
-        return (months ? months + 'm' : '') +
-            (months && weeks ? ', ' : '') +
-            (weeks ? weeks + 'w' : '') +
-            ((months || weeks) && days ? ', ' : '') +
-            (days ? days + 'd' : '')
-    }
+    return [
+        months && `${months}m`,
+        weeks && `${weeks}w`,
+        days && `${days}d`,
+    ]
+        .filter(value => Boolean(value))
+        .join(', ') || '0d'
 }

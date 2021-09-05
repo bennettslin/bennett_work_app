@@ -1,8 +1,8 @@
 export default [
     {
-        taskName: `Redo website with menu. Should have puzzles with individual pages, like essays.`,
+        taskName: `Setup for essays and puzzles needs to be better and more efficient.`,
         workedHours: 0,
-        neededHours: 8,
+        neededHours: 2,
     },
     {
         taskName: `Have setup for creating daily puzzle pngs and svgs. Need random piece generator. Include documentation.`,

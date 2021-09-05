@@ -1,8 +1,13 @@
 export default [
     {
-        taskName: `Show immediate tasks in work app.`,
+        taskName: `Make visit buttons actual follow buttons.`,
         workedHours: 0,
         neededHours: 2,
+    },
+    {
+        taskName: `Figure out how to create pages from configs in Gatsby. For URL shortener, YB, and BY.`,
+        workedHours: 0,
+        neededHours: 5,
     },
     {
         taskName: `Consolidate and improve work app.`,
@@ -21,11 +26,6 @@ export default [
     },
     {
         taskName: `Redo band bio, put on BY website.`,
-        workedHours: 0,
-        neededHours: 5,
-    },
-    {
-        taskName: `Figure out how to create pages from configs in Gatsby. For URL shortener, YB, and BY.`,
         workedHours: 0,
         neededHours: 5,
     },

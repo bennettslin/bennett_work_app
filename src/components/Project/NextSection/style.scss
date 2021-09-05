@@ -1,0 +1,9 @@
+.NextSection {
+    margin-top: 8px;
+}
+
+.NextSection__row {
+    &:not(:first-child) {
+        margin-top: 8px;
+    }
+}

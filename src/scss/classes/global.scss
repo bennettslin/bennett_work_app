@@ -1,3 +1,9 @@
+@import '../constants/colours';
+
+body {
+    color: $colour__text__dark;
+}
+
 h3, h5, p {
     margin: 0;
 }
