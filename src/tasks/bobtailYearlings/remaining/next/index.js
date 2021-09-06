@@ -1,10 +1,5 @@
 export default [
     {
-        taskName: `Initial modal with follow buttons on all websites. YB share buttons have text to be more clear?`,
-        workedHours: 0,
-        neededHours: 4,
-    },
-    {
         taskName: `Figure out how to create pages from configs in Gatsby. For URL shortener, YB, and BY.`,
         workedHours: 0,
         neededHours: 5,
