@@ -1,11 +1,16 @@
 export default [
     {
+        taskName: `Rules page content.`,
+        workedHours: 0,
+        neededHours: 10,
+    },
+    {
         taskName: `Setup for essays and puzzles needs to be better and more efficient.`,
         workedHours: 0,
         neededHours: 2,
     },
     {
-        taskName: `Website colours.`,
+        taskName: `Create icons`,
         workedHours: 0,
         neededHours: 1,
     },
@@ -16,11 +21,6 @@ export default [
     },
     {
         taskName: `Have setup for posting daily puzzle to website, and posting on social media. Have config ready now. Include documentation.`,
-        workedHours: 0,
-        neededHours: 10,
-    },
-    {
-        taskName: `Rules page content.`,
         workedHours: 0,
         neededHours: 10,
     },
