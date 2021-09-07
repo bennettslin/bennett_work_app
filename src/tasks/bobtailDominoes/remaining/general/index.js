@@ -1,5 +1,10 @@
 export default [
     {
+        taskName: `Create a nice, more permanent chord checker.`,
+        workedHours: 0,
+        neededHours: 20,
+    },
+    {
         taskName: `Box cover images.`,
         workedHours: 0,
         neededHours: 20,

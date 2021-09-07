@@ -36,4 +36,8 @@ export default [
         taskName: `Replace with Facebook thumb icon for follow button, adjust padding, fix Facebook follow button, make Facebook window taller?`,
         workedHours: 2,
     },
+    {
+        taskName: `Have a better system for multi pages.`,
+        workedHours: 5,
+    },
 ]

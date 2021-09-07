@@ -1,18 +1,18 @@
 export default [
     {
-        taskName: `Rules page content.`,
-        workedHours: 0,
-        neededHours: 10,
-    },
-    {
-        taskName: `Setup for essays and puzzles needs to be better and more efficient.`,
+        taskName: `Delete nested letters in Illustrator.`,
         workedHours: 0,
         neededHours: 2,
     },
     {
-        taskName: `Create icons`,
+        taskName: `Create single faces for web. Include hollow versions for pdfs.`,
         workedHours: 0,
-        neededHours: 1,
+        neededHours: 2,
+    },
+    {
+        taskName: `Create images for rules and patent.`,
+        workedHours: 0,
+        neededHours: 2,
     },
     {
         taskName: `Have setup for creating daily puzzle pngs and svgs. Need random piece generator. Include documentation.`,
