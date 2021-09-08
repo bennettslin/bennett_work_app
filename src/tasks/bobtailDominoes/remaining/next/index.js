@@ -1,6 +1,6 @@
 export default [
     {
-        taskName: `Delete nested letters in Illustrator.`,
+        taskName: `Embed image on rules page.`,
         workedHours: 0,
         neededHours: 2,
     },
@@ -10,9 +10,9 @@ export default [
         neededHours: 2,
     },
     {
-        taskName: `Create images for rules and patent.`,
+        taskName: `Example play page, with embedded images. Do after general footer work.`,
         workedHours: 0,
-        neededHours: 2,
+        neededHours: 4,
     },
     {
         taskName: `Have setup for creating daily puzzle pngs and svgs. Need random piece generator. Include documentation.`,

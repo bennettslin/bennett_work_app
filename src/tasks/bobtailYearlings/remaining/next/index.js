@@ -1,11 +1,16 @@
 export default [
     {
-        taskName: `Pass truncated description to Helmet for all websites. Pass essay and puzzle titles as well.`,
+        taskName: `Render essay and puzzles links from content.`,
         workedHours: 0,
         neededHours: 1,
     },
     {
-        taskName: `Render essay and puzzles links from content.`,
+        taskName: `Footer should have more options. Just shared buttons, just back page, just next page, or any combination.`,
+        workedHours: 0,
+        neededHours: 3,
+    },
+    {
+        taskName: `Pass truncated description to Helmet for all websites. Pass essay and puzzle titles as well.`,
         workedHours: 0,
         neededHours: 1,
     },

@@ -27,4 +27,8 @@ export default [
         taskName: `Create basic chord checker page.`,
         workedHours: 2,
     },
+    {
+        taskName: `Create images for rules and patent.`,
+        neededHours: 5,
+    },
 ]
