@@ -40,4 +40,12 @@ export default [
         taskName: `Have a better system for multi pages.`,
         workedHours: 5,
     },
+    {
+        taskName: `Render essay and puzzles links from content.`,
+        workedHours: 1,
+    },
+    {
+        taskName: `Footer has just shared buttons, just root page, just direction pages, or any combination.`,
+        workedHours: 2,
+    },
 ]

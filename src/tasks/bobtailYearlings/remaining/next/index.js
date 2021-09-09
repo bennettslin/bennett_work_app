@@ -1,16 +1,11 @@
 export default [
     {
-        taskName: `Render essay and puzzles links from content.`,
-        workedHours: 0,
-        neededHours: 1,
-    },
-    {
-        taskName: `Footer should have more options. Just shared buttons, just back page, just next page, or any combination.`,
+        taskName: `Figure out how to display root page for nested pages. Should it be the h1 header?`,
         workedHours: 0,
         neededHours: 3,
     },
     {
-        taskName: `Pass truncated description to Helmet for all websites. Pass essay and puzzle titles as well.`,
+        taskName: `Pass meta tag description from content.`,
         workedHours: 0,
         neededHours: 1,
     },

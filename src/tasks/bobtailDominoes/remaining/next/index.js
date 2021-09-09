@@ -1,6 +1,6 @@
 export default [
     {
-        taskName: `Embed image on rules page.`,
+        taskName: `Home button logo`,
         workedHours: 0,
         neededHours: 2,
     },
@@ -10,7 +10,12 @@ export default [
         neededHours: 2,
     },
     {
-        taskName: `Example play page, with embedded images. Do after general footer work.`,
+        taskName: `Embed image on rules page.`,
+        workedHours: 0,
+        neededHours: 2,
+    },
+    {
+        taskName: `Example play page, with embedded images.`,
         workedHours: 0,
         neededHours: 4,
     },
