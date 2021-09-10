@@ -1,18 +1,18 @@
 export default [
     {
-        taskName: `Initial work.`,
-        workedHours: 50,
-    },
-    {
-        taskName: `Redo website with menu. Puzzles page should allow for individual pages, like essays.`,
-        workedHours: 2,
-    },
-    {
-        taskName: `Website font and colours.`,
+        taskName: `Create print versions of rules images for patent.`,
         workedHours: 1,
     },
     {
-        taskName: `Create icons`,
+        taskName: `Create images for rules and patent.`,
+        neededHours: 5,
+    },
+    {
+        taskName: `Create basic chord checker page.`,
+        workedHours: 2,
+    },
+    {
+        taskName: `Allow pages to alternate between markdown and others.`,
         workedHours: 1,
     },
     {
@@ -20,15 +20,19 @@ export default [
         workedHours: 5,
     },
     {
-        taskName: `Allow pages to alternate between markdown and others.`,
+        taskName: `Create icons`,
         workedHours: 1,
     },
     {
-        taskName: `Create basic chord checker page.`,
+        taskName: `Website font and colours.`,
+        workedHours: 1,
+    },
+    {
+        taskName: `Redo website with menu. Puzzles page should allow for individual pages, like essays.`,
         workedHours: 2,
     },
     {
-        taskName: `Create images for rules and patent.`,
-        neededHours: 5,
+        taskName: `Initial work.`,
+        workedHours: 50,
     },
 ]

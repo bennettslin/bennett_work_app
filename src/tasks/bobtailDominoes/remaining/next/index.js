@@ -1,23 +1,18 @@
 export default [
     {
+        taskName: `Create image files for rules and patent.`,
+        workedHours: 0,
+        neededHours: 1,
+    },
+    {
+        taskName: `Consolidate rules pages, with embedded images.`,
+        workedHours: 0,
+        neededHours: 5,
+    },
+    {
         taskName: `Home button logo`,
         workedHours: 0,
         neededHours: 2,
-    },
-    {
-        taskName: `Create single faces for web. Include hollow versions for pdfs.`,
-        workedHours: 0,
-        neededHours: 2,
-    },
-    {
-        taskName: `Embed image on rules page.`,
-        workedHours: 0,
-        neededHours: 2,
-    },
-    {
-        taskName: `Example play page, with embedded images.`,
-        workedHours: 0,
-        neededHours: 4,
     },
     {
         taskName: `Have setup for creating daily puzzle pngs and svgs. Need random piece generator. Include documentation.`,

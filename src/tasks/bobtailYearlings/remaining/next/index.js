@@ -15,6 +15,11 @@ export default [
         neededHours: 5,
     },
     {
+        taskName: `Pass page config info from pages as GraphQL queries?`,
+        workedHours: 0,
+        neededHours: 3,
+    },
+    {
         taskName: `Finish music getting worse essay. Post on social media, and pin tweet.`,
         workedHours: 1,
         neededHours: 10,
