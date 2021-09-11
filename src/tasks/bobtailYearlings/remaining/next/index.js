@@ -1,8 +1,13 @@
 export default [
     {
-        taskName: `Figure out how to display root page for nested pages. Should it be the h1 header?`,
+        taskName: `Have Page component own blog index list and article section list.`,
         workedHours: 0,
-        neededHours: 3,
+        neededHours: 1,
+    },
+    {
+        taskName: `Get back to Nelson.`,
+        workedHours: 0,
+        neededHours: 1,
     },
     {
         taskName: `Pass meta tag description from content.`,

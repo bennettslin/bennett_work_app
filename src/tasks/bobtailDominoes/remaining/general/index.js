@@ -1,10 +1,5 @@
 export default [
     {
-        taskName: `Revamp website. Choose different font `,
-        workedHours: 0,
-        neededHours: 10,
-    },
-    {
         taskName: `Create a nice, more permanent chord checker.`,
         workedHours: 0,
         neededHours: 20,
