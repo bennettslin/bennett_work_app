@@ -1,5 +1,25 @@
 export default [
     {
+        taskName: `Direction page links not working with first tabbed page that is index.`,
+        workedHours: 2,
+    },
+    {
+        taskName: `Direction page links not working with dates.`,
+        workedHours: 1,
+    },
+    {
+        taskName: `Distinguish tabbed child pages. The root page menu button is still selected, and defaults to the first page instead of having its own index page.`,
+        workedHours: 1,
+    },
+    {
+        taskName: `Do not show titles as h1s.`,
+        workedHours: 1,
+    },
+    {
+        taskName: `Header is always centered. Header, footer, and page have box shadow. Use regular font for headings for now.`,
+        workedHours: 1,
+    },
+    {
         taskName: `Create print versions of rules images for patent.`,
         workedHours: 1,
     },

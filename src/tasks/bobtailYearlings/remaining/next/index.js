@@ -1,5 +1,15 @@
 export default [
     {
+        taskName: `Direction page links no longer work with blog pages.`,
+        workedHours: 0,
+        neededHours: 1,
+    },
+    {
+        taskName: `Helmet title is weird for child pages.`,
+        workedHours: 0,
+        neededHours: 1,
+    },
+    {
         taskName: `Have Page component own blog index list and article section list.`,
         workedHours: 0,
         neededHours: 1,

@@ -1,5 +1,9 @@
 export default [
     {
+        taskName: `General website planning work.`,
+        workedHours: 4,
+    },
+    {
         taskName: `Have content in pages directly.`,
         workedHours: 3,
     },
