@@ -1,5 +1,13 @@
 export default [
     {
+        taskName: `Dynamically create pages for YB and YL.`,
+        workedHours: 3,
+    },
+    {
+        taskName: `Fix hot reloading issue.`,
+        workedHours: 2,
+    },
+    {
         taskName: `Pass page config through context.`,
         workedHours: 1,
     },
