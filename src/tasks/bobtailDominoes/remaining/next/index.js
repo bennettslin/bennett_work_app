@@ -1,21 +1,16 @@
 export default [
     {
-        taskName: `Have page menu buttons that work the same as menu buttons. They belong to the Page component.`,
+        taskName: `Have header and footer float above page, but page content knows header and footer positions. This will fix page not extending to ends of screen.`,
         workedHours: 0,
-        neededHours: 2,
+        neededHours: 1,
     },
     {
-        taskName: `Have header and footer float above page, but page content knows header and footer positions.`,
+        taskName: `Home button logo. Make sure it's centred properly when selected.`,
         workedHours: 0,
         neededHours: 1,
     },
     {
         taskName: `Pick a heading font. Make selected menu buttons more obvious.`,
-        workedHours: 0,
-        neededHours: 1,
-    },
-    {
-        taskName: `Home button logo.`,
         workedHours: 0,
         neededHours: 1,
     },

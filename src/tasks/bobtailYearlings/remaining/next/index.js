@@ -1,8 +1,18 @@
 export default [
     {
-        taskName: `Direction page links no longer work with blog pages.`,
+        taskName: `Figure out how to create pages from configs in Gatsby. For URL shortener, YB, and BY.`,
+        workedHours: 0,
+        neededHours: 5,
+    },
+    {
+        taskName: `Decide on heading levels.`,
         workedHours: 0,
         neededHours: 1,
+    },
+    {
+        taskName: `Pass page config info from pages as GraphQL queries?`,
+        workedHours: 0,
+        neededHours: 3,
     },
     {
         taskName: `Helmet title is weird for child pages.`,
@@ -23,16 +33,6 @@ export default [
         taskName: `Pass meta tag description from content.`,
         workedHours: 0,
         neededHours: 1,
-    },
-    {
-        taskName: `Figure out how to create pages from configs in Gatsby. For URL shortener, YB, and BY.`,
-        workedHours: 0,
-        neededHours: 5,
-    },
-    {
-        taskName: `Pass page config info from pages as GraphQL queries?`,
-        workedHours: 0,
-        neededHours: 3,
     },
     {
         taskName: `Finish music getting worse essay. Post on social media, and pin tweet.`,

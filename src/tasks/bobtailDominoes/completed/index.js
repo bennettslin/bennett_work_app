@@ -1,5 +1,17 @@
 export default [
     {
+        taskName: `Don't render page footer rows if no children.`,
+        workedHours: 1,
+    },
+    {
+        taskName: `Select top level tabbed path.`,
+        workedHours: 1,
+    },
+    {
+        taskName: `Have page menu buttons that work the same as menu buttons.`,
+        workedHours: 1,
+    },
+    {
         taskName: `Direction page links not working with first tabbed page that is index.`,
         workedHours: 2,
     },

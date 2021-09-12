@@ -1,5 +1,13 @@
 export default [
     {
+        taskName: `Pass page config through context.`,
+        workedHours: 1,
+    },
+    {
+        taskName: `Refactor page variables to be consistent.`,
+        workedHours: 1,
+    },
+    {
         taskName: `General website planning work.`,
         workedHours: 4,
     },
