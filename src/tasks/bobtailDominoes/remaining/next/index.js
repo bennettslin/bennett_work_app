@@ -1,28 +1,38 @@
 export default [
     {
-        taskName: `Decide on heading levels.`,
-        workedHours: 0,
-        neededHours: 1,
-    },
-    {
-        taskName: `Have header and footer float above page, but page content knows header and footer positions. This will fix page not extending to ends of screen.`,
-        workedHours: 0,
-        neededHours: 1,
-    },
-    {
-        taskName: `Pick a heading font. Make selected menu buttons more obvious.`,
-        workedHours: 0,
-        neededHours: 1,
-    },
-    {
         taskName: `Home button logo. Make sure it's centred properly when selected.`,
         workedHours: 0,
+        neededHours: 2,
+    },
+    {
+        taskName: `Containers for embedded images.`,
+        workedHours: 0,
+        neededHours: 2,
+    },
+    {
+        taskName: `Create images for illegal and legal moves, and chords for scoring.`,
+        workedHours: 0,
+        neededHours: 3,
+    },
+    {
+        taskName: `Add images to rules.`,
+        workedHours: 0,
         neededHours: 1,
     },
     {
-        taskName: `Content for rules pages, with embedded images.`,
+        taskName: `Create macro to optimize svgs? Or just embed as pngs?`,
         workedHours: 0,
         neededHours: 5,
+    },
+    {
+        taskName: `Figure out styling for selected menu buttons, and header and footer relative to page in general.`,
+        workedHours: 0,
+        neededHours: 4,
+    },
+    {
+        taskName: `Pick a heading font.`,
+        workedHours: 0,
+        neededHours: 1,
     },
     {
         taskName: `Create image files for rules and patent.`,

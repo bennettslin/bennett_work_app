@@ -1,5 +1,21 @@
 export default [
     {
+        taskName: `Content for example page.`,
+        workedHours: 3,
+    },
+    {
+        taskName: `Improve padding all around.`,
+        workedHours: 1,
+    },
+    {
+        taskName: `Global domino colours in scss.`,
+        workedHours: 1,
+    },
+    {
+        taskName: `Create background component.`,
+        workedHours: 1,
+    },
+    {
         taskName: `Don't render page footer rows if no children.`,
         workedHours: 1,
     },

@@ -1,5 +1,9 @@
 export default [
     {
+        taskName: `Helmet title is weird for child pages.`,
+        workedHours: 1,
+    },
+    {
         taskName: `Dynamically create pages for YB and YL.`,
         workedHours: 3,
     },
