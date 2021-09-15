@@ -1,38 +1,33 @@
 export default [
     {
-        taskName: `Home button logo. Make sure it's centred properly when selected. Have text "The Bobtail Yearlings present"`,
+        taskName: `Home button logo. Have text "The Bobtail Yearlings present…," make text rather than svg?`,
         workedHours: 2,
         neededHours: 3,
     },
     {
-        taskName: `Create images for illegal and legal moves. Have default board image.`,
-        workedHours: 3,
-        neededHours: 5,
+        taskName: `Pick font and colour for headings.`,
+        workedHours: 2,
+        neededHours: 3,
     },
     {
-        taskName: `Containers for embedded images.`,
+        taskName: `Implement wrapper background.`,
         workedHours: 0,
         neededHours: 2,
     },
     {
-        taskName: `Add images to rules.`,
-        workedHours: 0,
-        neededHours: 1,
-    },
-    {
-        taskName: `Create macro to optimize svgs? Or just embed as pngs?`,
-        workedHours: 0,
-        neededHours: 5,
-    },
-    {
-        taskName: `Pick font and colour for headings.`,
-        workedHours: 0,
-        neededHours: 1,
+        taskName: `Follow up image work: flatten nesting of dominoes, outlines of text with accidentals, make icons, texts, and outlines same colour, icons and outlines have shadows as well, make text "standard set" and "extended set."`,
+        workedHours: 1,
+        neededHours: 6,
     },
     {
         taskName: `Figure out styling for selected menu buttons, and header and footer relative to page in general.`,
         workedHours: 0,
         neededHours: 4,
+    },
+    {
+        taskName: `Create macro to optimize svgs.`,
+        workedHours: 0,
+        neededHours: 5,
     },
     {
         taskName: `Create image files for rules and patent.`,

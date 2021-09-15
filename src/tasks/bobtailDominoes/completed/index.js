@@ -1,5 +1,13 @@
 export default [
     {
+        taskName: `Create svgs for illegal and legal moves.`,
+        workedHours: 6,
+    },
+    {
+        taskName: `Add svgs to pages.`,
+        workedHours: 1,
+    },
+    {
         taskName: `Content for example page.`,
         workedHours: 3,
     },
