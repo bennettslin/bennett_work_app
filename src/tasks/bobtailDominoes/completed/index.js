@@ -1,5 +1,9 @@
 export default [
     {
+        taskName: `Clean up domino svg images.`,
+        workedHours: 3,
+    },
+    {
         taskName: `Create svgs for illegal and legal moves.`,
         workedHours: 6,
     },

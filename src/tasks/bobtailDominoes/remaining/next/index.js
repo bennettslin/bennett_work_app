@@ -1,8 +1,8 @@
 export default [
     {
         taskName: `Home button logo. Have text "The Bobtail Yearlings present…," make text rather than svg?`,
-        workedHours: 2,
-        neededHours: 3,
+        workedHours: 3,
+        neededHours: 4,
     },
     {
         taskName: `Pick font and colour for headings.`,
@@ -15,9 +15,9 @@ export default [
         neededHours: 2,
     },
     {
-        taskName: `Follow up image work: flatten nesting of dominoes, outlines of text with accidentals, make icons, texts, and outlines same colour, icons and outlines have shadows as well, make text "standard set" and "extended set."`,
+        taskName: `Follow up image work: flatten nesting of dominoes.`,
         workedHours: 1,
-        neededHours: 6,
+        neededHours: 3,
     },
     {
         taskName: `Figure out styling for selected menu buttons, and header and footer relative to page in general.`,
