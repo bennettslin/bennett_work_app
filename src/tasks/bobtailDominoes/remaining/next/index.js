@@ -1,8 +1,8 @@
 export default [
     {
-        taskName: `Make svg images responsive. Figure out border radius issue.`,
-        workedHours: 0,
-        neededHours: 1,
+        taskName: `Figure out border radius issue.`,
+        workedHours: 0.5,
+        neededHours: 2,
     },
     {
         taskName: `Inline styling of svgs. Allow for strokes and other styling. Have hsla helpers. Hash class names. Do for social media buttons. Copy to other projects when done.`,
