@@ -1,5 +1,9 @@
 export default [
     {
+        taskName: `Flatten nesting of dominoes.`,
+        workedHours: 3,
+    },
+    {
         taskName: `Clean up domino svg images.`,
         workedHours: 3,
     },

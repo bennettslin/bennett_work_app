@@ -1,6 +1,21 @@
 export default [
     {
-        taskName: `Home button logo. Have text "The Bobtail Yearlings present…," make text rather than svg?`,
+        taskName: `Make svg images responsive. Figure out border radius issue.`,
+        workedHours: 0,
+        neededHours: 1,
+    },
+    {
+        taskName: `Inline styling of svgs. Allow for strokes and other styling. Have hsla helpers. Hash class names. Do for social media buttons. Copy to other projects when done.`,
+        workedHours: 2,
+        neededHours: 6,
+    },
+    {
+        taskName: `More svg work in Illustrator. Outline shadows below all outlines. Change felt text and outlines, and make shadowed as well. Illustrator file with all chord names. Remove extra tritone dominoes, rename semitone file.`,
+        workedHours: 0,
+        neededHours: 1,
+    },
+    {
+        taskName: `Home button logo. Have reflection on letters.`,
         workedHours: 3,
         neededHours: 4,
     },
@@ -10,14 +25,19 @@ export default [
         neededHours: 3,
     },
     {
+        taskName: `Create macro to optimize domino svgs. Remove transform translate 0 0. Delete base class.`,
+        workedHours: 0,
+        neededHours: 3,
+    },
+    {
+        taskName: `Have played board. Create an svg from it.`,
+        workedHours: 0,
+        neededHours: 5,
+    },
+    {
         taskName: `Implement wrapper background.`,
         workedHours: 0,
         neededHours: 2,
-    },
-    {
-        taskName: `Follow up image work: flatten nesting of dominoes.`,
-        workedHours: 1,
-        neededHours: 3,
     },
     {
         taskName: `Figure out styling for selected menu buttons, and header and footer relative to page in general.`,
@@ -25,14 +45,14 @@ export default [
         neededHours: 4,
     },
     {
-        taskName: `Create macro to optimize svgs.`,
-        workedHours: 0,
-        neededHours: 5,
-    },
-    {
         taskName: `Create image files for rules and patent.`,
         workedHours: 0,
         neededHours: 1,
+    },
+    {
+        taskName: `About page.`,
+        workedHours: 0,
+        neededHours: 10,
     },
     {
         taskName: `Get back to Nelson.`,
