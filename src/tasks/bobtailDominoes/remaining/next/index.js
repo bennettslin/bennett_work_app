@@ -1,17 +1,17 @@
 export default [
     {
+        taskName: `Figure out general styling for page and page menu.`,
+        workedHours: 1,
+        neededHours: 4,
+    },
+    {
         taskName: `Have played board. Create an svg from it.`,
         workedHours: 0,
         neededHours: 5,
     },
     {
-        taskName: `Home button logo. Have reflection on letters.`,
-        workedHours: 3,
-        neededHours: 4,
-    },
-    {
-        taskName: `Pick font and colour for headings.`,
-        workedHours: 2,
+        taskName: `Audit colours, fonts, and styling.`,
+        workedHours: 0,
         neededHours: 3,
     },
     {
@@ -20,7 +20,7 @@ export default [
         neededHours: 2,
     },
     {
-        taskName: `Figure out styling for selected menu buttons, and header and footer relative to page in general.`,
+        taskName: `Make styled frame responsive. Fix the extra width.`,
         workedHours: 0,
         neededHours: 4,
     },
@@ -30,7 +30,12 @@ export default [
         neededHours: 1,
     },
     {
-        taskName: `About page.`,
+        taskName: `Home page content.`,
+        workedHours: 0,
+        neededHours: 5,
+    },
+    {
+        taskName: `About page content.`,
         workedHours: 0,
         neededHours: 10,
     },

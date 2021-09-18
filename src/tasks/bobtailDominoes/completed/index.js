@@ -1,5 +1,17 @@
 export default [
     {
+        taskName: `Figure out general styling for header, footer.`,
+        workedHours: 4,
+    },
+    {
+        taskName: `Home button logo.`,
+        workedHours: 3,
+    },
+    {
+        taskName: `Pick font and colour for headings.`,
+        workedHours: 2,
+    },
+    {
         taskName: `Create macro to optimize domino svgs.`,
         workedHours: 2,
     },
