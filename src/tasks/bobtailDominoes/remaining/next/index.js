@@ -1,18 +1,8 @@
 export default [
     {
-        taskName: `Make svg images responsive. Figure out border radius issue.`,
+        taskName: `Have played board. Create an svg from it.`,
         workedHours: 0,
-        neededHours: 1,
-    },
-    {
-        taskName: `Inline styling of svgs. Allow for strokes and other styling. Have hsla helpers. Hash class names. Do for social media buttons. Copy to other projects when done.`,
-        workedHours: 2,
-        neededHours: 6,
-    },
-    {
-        taskName: `More svg work in Illustrator. Outline shadows below all outlines. Change felt text and outlines, and make shadowed as well. Illustrator file with all chord names. Remove extra tritone dominoes, rename semitone file.`,
-        workedHours: 0,
-        neededHours: 1,
+        neededHours: 5,
     },
     {
         taskName: `Home button logo. Have reflection on letters.`,
@@ -23,16 +13,6 @@ export default [
         taskName: `Pick font and colour for headings.`,
         workedHours: 2,
         neededHours: 3,
-    },
-    {
-        taskName: `Create macro to optimize domino svgs. Remove transform translate 0 0. Delete base class.`,
-        workedHours: 0,
-        neededHours: 3,
-    },
-    {
-        taskName: `Have played board. Create an svg from it.`,
-        workedHours: 0,
-        neededHours: 5,
     },
     {
         taskName: `Implement wrapper background.`,

@@ -1,10 +1,5 @@
 export default [
     {
-        taskName: `Get dimensions from svg itself.`,
-        workedHours: 1,
-        neededHours: 2,
-    },
-    {
         taskName: `Smarter strategy for shared files.`,
         workedHours: 0,
         neededHours: 3,

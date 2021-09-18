@@ -1,5 +1,9 @@
 export default [
     {
+        taskName: `Get dimensions from svg itself.`,
+        workedHours: 2,
+    },
+    {
         taskName: `Helmet title is weird for child pages.`,
         workedHours: 1,
     },

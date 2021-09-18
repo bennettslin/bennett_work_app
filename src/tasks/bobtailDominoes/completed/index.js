@@ -1,11 +1,23 @@
 export default [
     {
+        taskName: `Create macro to optimize domino svgs.`,
+        workedHours: 2,
+    },
+    {
+        taskName: `Inline styling of svgs.`,
+        workedHours: 4,
+    },
+    {
+        taskName: `Figure out border radius issue.`,
+        workedHours: 2,
+    },
+    {
         taskName: `Flatten nesting of dominoes.`,
         workedHours: 3,
     },
     {
         taskName: `Clean up domino svg images.`,
-        workedHours: 3,
+        workedHours: 4,
     },
     {
         taskName: `Create svgs for illegal and legal moves.`,
