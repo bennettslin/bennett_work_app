@@ -1,5 +1,9 @@
 export default [
     {
+        taskName: `Fix helmet for multi pages.`,
+        workedHours: 1,
+    },
+    {
         taskName: `Get dimensions from svg itself.`,
         workedHours: 2,
     },

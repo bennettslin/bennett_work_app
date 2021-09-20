@@ -1,5 +1,9 @@
 export default [
     {
+        taskName: `Have played board.`,
+        workedHours: 3,
+    },
+    {
         taskName: `Figure out general styling for header, footer.`,
         workedHours: 4,
     },

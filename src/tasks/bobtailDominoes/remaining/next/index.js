@@ -1,13 +1,28 @@
 export default [
     {
+        taskName: `Domino rotation content. Also move example into scoring. Remove part about strategy in example.`,
+        workedHours: 3,
+        neededHours: 5,
+    },
+    {
+        taskName: `Create svgs for domino rotation.`,
+        workedHours: 5,
+        neededHours: 8,
+    },
+    {
+        taskName: `Create an svg from played board. Place on home page.`,
+        workedHours: 2,
+        neededHours: 5,
+    },
+    {
         taskName: `Figure out general styling for page and page menu.`,
-        workedHours: 1,
+        workedHours: 2,
         neededHours: 4,
     },
     {
-        taskName: `Have played board. Create an svg from it.`,
-        workedHours: 0,
-        neededHours: 5,
+        taskName: `Make styled components responsive.`,
+        workedHours: 1,
+        neededHours: 4,
     },
     {
         taskName: `Audit colours, fonts, and styling.`,
@@ -15,14 +30,9 @@ export default [
         neededHours: 3,
     },
     {
-        taskName: `Implement wrapper background.`,
+        taskName: `Implement wrapper background. Make purple haze exact width.`,
         workedHours: 0,
         neededHours: 2,
-    },
-    {
-        taskName: `Make styled frame responsive. Fix the extra width.`,
-        workedHours: 0,
-        neededHours: 4,
     },
     {
         taskName: `Create image files for rules and patent.`,
@@ -43,11 +53,6 @@ export default [
         taskName: `Get back to Nelson.`,
         workedHours: 0,
         neededHours: 1,
-    },
-    {
-        taskName: `Create images for scoring.`,
-        workedHours: 0,
-        neededHours: 3,
     },
     {
         taskName: `Have setup for creating daily puzzle pngs and svgs. Need random piece generator. Include documentation.`,
