@@ -1,7 +1,7 @@
 export default [
     {
-        taskName: `Arrows in dashed lines. Fix Breaks existing chord outline.`,
-        workedHours: 0,
+        taskName: `Add pivot and spin words. Add valid dyad outline.`,
+        workedHours: 1,
         neededHours: 2,
     },
     {
