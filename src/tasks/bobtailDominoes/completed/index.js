@@ -1,5 +1,13 @@
 export default [
     {
+        taskName: `Create svgs for domino rotation.`,
+        workedHours: 9,
+    },
+    {
+        taskName: `Domino rotation content.`,
+        workedHours: 3,
+    },
+    {
         taskName: `Have played board.`,
         workedHours: 3,
     },

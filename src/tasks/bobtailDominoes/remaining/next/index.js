@@ -1,13 +1,18 @@
 export default [
     {
-        taskName: `Domino rotation content. Also move example into scoring. Remove part about strategy in example.`,
-        workedHours: 3,
-        neededHours: 5,
+        taskName: `Arrows in dashed lines. Fix Breaks existing chord outline.`,
+        workedHours: 0,
+        neededHours: 2,
     },
     {
-        taskName: `Create svgs for domino rotation.`,
-        workedHours: 5,
-        neededHours: 8,
+        taskName: `Move example into scoring. Remove part about strategy in example.`,
+        workedHours: 0,
+        neededHours: 3,
+    },
+    {
+        taskName: `Create svgs for scoring. Figure out accidental symbols. Finalize colors.`,
+        workedHours: 0,
+        neededHours: 5,
     },
     {
         taskName: `Create an svg from played board. Place on home page.`,
@@ -45,11 +50,6 @@ export default [
         neededHours: 5,
     },
     {
-        taskName: `About page content.`,
-        workedHours: 0,
-        neededHours: 10,
-    },
-    {
         taskName: `Get back to Nelson.`,
         workedHours: 0,
         neededHours: 1,
@@ -61,6 +61,11 @@ export default [
     },
     {
         taskName: `Have setup for posting daily puzzle to website, and posting on social media. Have config ready now. Include documentation.`,
+        workedHours: 0,
+        neededHours: 10,
+    },
+    {
+        taskName: `About page content.`,
         workedHours: 0,
         neededHours: 10,
     },
