@@ -1,16 +1,11 @@
 export default [
     {
-        taskName: `Add pivot and spin words. Add valid dyad outline.`,
-        workedHours: 1,
-        neededHours: 2,
-    },
-    {
         taskName: `Move example into scoring. Remove part about strategy in example.`,
         workedHours: 0,
         neededHours: 3,
     },
     {
-        taskName: `Create svgs for scoring. Figure out accidental symbols. Finalize colors.`,
+        taskName: `Create svgs for scoring. Show triad, seventh chord. Sequence of two. Then sequence of two in reverse. Figure out accidental symbols. Finalize colors.`,
         workedHours: 0,
         neededHours: 5,
     },

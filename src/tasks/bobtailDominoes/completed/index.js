@@ -1,5 +1,9 @@
 export default [
     {
+        taskName: `Add valid dyad outline.`,
+        workedHours: 4,
+    },
+    {
         taskName: `Create svgs for domino rotation.`,
         workedHours: 9,
     },
