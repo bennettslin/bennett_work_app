@@ -1,15 +1,5 @@
 export default [
     {
-        taskName: `Move example into scoring. Remove part about strategy in example.`,
-        workedHours: 0,
-        neededHours: 3,
-    },
-    {
-        taskName: `Create svgs for scoring. Show triad, seventh chord. Sequence of two. Then sequence of two in reverse. Figure out accidental symbols. Finalize colors.`,
-        workedHours: 0,
-        neededHours: 5,
-    },
-    {
         taskName: `Create an svg from played board. Place on home page.`,
         workedHours: 2,
         neededHours: 5,
@@ -25,7 +15,7 @@ export default [
         neededHours: 4,
     },
     {
-        taskName: `Audit colours, fonts, and styling.`,
+        taskName: `Audit colours, fonts, and styling. Figure out info colouring. And dyad styling.`,
         workedHours: 0,
         neededHours: 3,
     },
@@ -35,14 +25,14 @@ export default [
         neededHours: 2,
     },
     {
-        taskName: `Create image files for rules and patent.`,
-        workedHours: 0,
-        neededHours: 1,
-    },
-    {
         taskName: `Home page content.`,
         workedHours: 0,
         neededHours: 5,
+    },
+    {
+        taskName: `Create image files for rules and patent.`,
+        workedHours: 0,
+        neededHours: 1,
     },
     {
         taskName: `Get back to Nelson.`,
@@ -61,7 +51,7 @@ export default [
     },
     {
         taskName: `About page content.`,
-        workedHours: 0,
+        workedHours: 2,
         neededHours: 10,
     },
     {

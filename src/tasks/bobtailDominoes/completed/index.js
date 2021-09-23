@@ -1,5 +1,9 @@
 export default [
     {
+        taskName: `Create svgs for scoring.`,
+        workedHours: 5,
+    },
+    {
         taskName: `Add valid dyad outline.`,
         workedHours: 4,
     },
