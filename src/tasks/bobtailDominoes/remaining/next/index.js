@@ -1,10 +1,5 @@
 export default [
     {
-        taskName: `Create an svg from played board. Place on home page.`,
-        workedHours: 2,
-        neededHours: 5,
-    },
-    {
         taskName: `Figure out general styling for page and page menu.`,
         workedHours: 2,
         neededHours: 4,
@@ -15,14 +10,19 @@ export default [
         neededHours: 4,
     },
     {
-        taskName: `Audit colours, fonts, and styling. Figure out info colouring. And dyad styling.`,
-        workedHours: 0,
-        neededHours: 3,
-    },
-    {
         taskName: `Implement wrapper background. Make purple haze exact width.`,
         workedHours: 0,
         neededHours: 2,
+    },
+    {
+        taskName: `Create an svg from played board. Place on home page.`,
+        workedHours: 4,
+        neededHours: 9,
+    },
+    {
+        taskName: `Audit colours, fonts, and styling. Figure out info colouring. And dyad styling.`,
+        workedHours: 0,
+        neededHours: 3,
     },
     {
         taskName: `Home page content.`,
@@ -51,7 +51,7 @@ export default [
     },
     {
         taskName: `About page content.`,
-        workedHours: 2,
+        workedHours: 3,
         neededHours: 10,
     },
     {
