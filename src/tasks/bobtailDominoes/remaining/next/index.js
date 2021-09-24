@@ -1,5 +1,20 @@
 export default [
     {
+        taskName: `Design content. Add contact email. Create design specs svg.`,
+        workedHours: 0,
+        neededHours: 6,
+    },
+    {
+        taskName: `Wrapper background. Make purple haze exact width.`,
+        workedHours: 0,
+        neededHours: 2,
+    },
+    {
+        taskName: `Single page component for home page for all projects.`,
+        workedHours: 0,
+        neededHours: 3,
+    },
+    {
         taskName: `Figure out general styling for page and page menu.`,
         workedHours: 2,
         neededHours: 4,
@@ -10,17 +25,12 @@ export default [
         neededHours: 4,
     },
     {
-        taskName: `Implement wrapper background. Make purple haze exact width.`,
-        workedHours: 0,
-        neededHours: 2,
-    },
-    {
         taskName: `Create an svg from played board. Place on home page.`,
         workedHours: 4,
         neededHours: 9,
     },
     {
-        taskName: `Audit colours, fonts, and styling. Figure out info colouring. And dyad styling.`,
+        taskName: `Audit colours, fonts, and styling. Figure out info colouring. And figure out dyad styling. Remove arrow from first scoring.`,
         workedHours: 0,
         neededHours: 3,
     },
@@ -47,11 +57,6 @@ export default [
     {
         taskName: `Have setup for posting daily puzzle to website, and posting on social media. Have config ready now. Include documentation.`,
         workedHours: 0,
-        neededHours: 10,
-    },
-    {
-        taskName: `About page content.`,
-        workedHours: 3,
         neededHours: 10,
     },
     {

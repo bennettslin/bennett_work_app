@@ -1,5 +1,9 @@
 export default [
     {
+        taskName: `Story content.`,
+        workedHours: 3,
+    },
+    {
         taskName: `Create svgs for scoring.`,
         workedHours: 5,
     },
