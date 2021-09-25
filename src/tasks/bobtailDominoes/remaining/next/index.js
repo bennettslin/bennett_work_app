@@ -1,16 +1,16 @@
 export default [
     {
-        taskName: `Design content. Add contact email. Create design specs svg.`,
-        workedHours: 0,
-        neededHours: 6,
+        taskName: `Create an svg from played board. Place on home page.`,
+        workedHours: 4,
+        neededHours: 9,
     },
     {
-        taskName: `Wrapper background. Make purple haze exact width.`,
+        taskName: `Create design specs svg.`,
         workedHours: 0,
-        neededHours: 2,
+        neededHours: 3,
     },
     {
-        taskName: `Single page component for home page for all projects.`,
+        taskName: `Single page component for home page for all projects. Shared Image component as well.`,
         workedHours: 0,
         neededHours: 3,
     },
@@ -23,11 +23,6 @@ export default [
         taskName: `Make styled components responsive.`,
         workedHours: 1,
         neededHours: 4,
-    },
-    {
-        taskName: `Create an svg from played board. Place on home page.`,
-        workedHours: 4,
-        neededHours: 9,
     },
     {
         taskName: `Audit colours, fonts, and styling. Figure out info colouring. And figure out dyad styling. Remove arrow from first scoring.`,

@@ -1,5 +1,13 @@
 export default [
     {
+        taskName: `Design content`,
+        workedHours: 2,
+    },
+    {
+        taskName: `Wrapper background.`,
+        workedHours: 2,
+    },
+    {
         taskName: `Story content.`,
         workedHours: 3,
     },
