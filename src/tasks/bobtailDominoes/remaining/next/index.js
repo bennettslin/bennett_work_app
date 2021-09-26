@@ -5,18 +5,8 @@ export default [
         neededHours: 9,
     },
     {
-        taskName: `Menu button styling.`,
-        workedHours: 2,
-        neededHours: 3,
-    },
-    {
         taskName: `Audit colours, fonts, and styling. Figure out info colouring.`,
         workedHours: 1,
-        neededHours: 3,
-    },
-    {
-        taskName: `Menu button strategy. Have offset doubled text rather than shadow? Make sure tabbed menu is responsive and never overflows the page. Light text for dark background of tabbed menu?`,
-        workedHours: 0,
         neededHours: 3,
     },
     {

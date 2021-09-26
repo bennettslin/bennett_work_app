@@ -1,5 +1,9 @@
 export default [
     {
+        taskName: `Menu buttons styling and layout.`,
+        workedHours: 7,
+    },
+    {
         taskName: `Create design specs svg.`,
         workedHours: 2,
     },
@@ -25,7 +29,7 @@ export default [
     },
     {
         taskName: `Story content.`,
-        workedHours: 3,
+        workedHours: 4,
     },
     {
         taskName: `Create svgs for scoring.`,
