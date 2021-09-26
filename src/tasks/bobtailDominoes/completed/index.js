@@ -1,6 +1,22 @@
 export default [
     {
-        taskName: `Design content`,
+        taskName: `Create design specs svg.`,
+        workedHours: 2,
+    },
+    {
+        taskName: `Home page component.`,
+        workedHours: 1,
+    },
+    {
+        taskName: `Figure out general styling for page and page menu.`,
+        workedHours: 4,
+    },
+    {
+        taskName: `Make styled components responsive.`,
+        workedHours: 3,
+    },
+    {
+        taskName: `Design page content.`,
         workedHours: 2,
     },
     {

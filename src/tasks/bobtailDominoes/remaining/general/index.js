@@ -15,6 +15,11 @@ export default [
         neededHours: 5,
     },
     {
+        taskName: `Add set theory numbers to design specs`,
+        workedHours: 0,
+        neededHours: 5,
+    },
+    {
         taskName: `Manufacturing notes: have junior and standard editions, six extra pieces to make 72 pieces total, box stacks 3 pieces high and arranged 6 by 4, thick like mahjong pieces for stacking better.`,
         workedHours: 0,
         neededHours: 1,

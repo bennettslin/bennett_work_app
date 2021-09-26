@@ -1,36 +1,26 @@
 export default [
     {
         taskName: `Create an svg from played board. Place on home page.`,
-        workedHours: 4,
+        workedHours: 5,
         neededHours: 9,
     },
     {
-        taskName: `Create design specs svg.`,
-        workedHours: 0,
-        neededHours: 3,
-    },
-    {
-        taskName: `Single page component for home page for all projects. Shared Image component as well.`,
-        workedHours: 0,
-        neededHours: 3,
-    },
-    {
-        taskName: `Figure out general styling for page and page menu.`,
+        taskName: `Menu button styling.`,
         workedHours: 2,
-        neededHours: 4,
+        neededHours: 3,
     },
     {
-        taskName: `Make styled components responsive.`,
+        taskName: `Audit colours, fonts, and styling. Figure out info colouring.`,
         workedHours: 1,
-        neededHours: 4,
+        neededHours: 3,
     },
     {
-        taskName: `Audit colours, fonts, and styling. Figure out info colouring. And figure out dyad styling. Remove arrow from first scoring.`,
+        taskName: `Menu button strategy. Have offset doubled text rather than shadow? Make sure tabbed menu is responsive and never overflows the page. Light text for dark background of tabbed menu?`,
         workedHours: 0,
         neededHours: 3,
     },
     {
-        taskName: `Home page content.`,
+        taskName: `Home page content and styling.`,
         workedHours: 0,
         neededHours: 5,
     },
@@ -43,6 +33,11 @@ export default [
         taskName: `Get back to Nelson.`,
         workedHours: 0,
         neededHours: 1,
+    },
+    {
+        taskName: `Fix accidental issues. Issues in Firefox and Safari.`,
+        workedHours: 0,
+        neededHours: 3,
     },
     {
         taskName: `Have setup for creating daily puzzle pngs and svgs. Need random piece generator. Include documentation.`,
