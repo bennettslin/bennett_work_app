@@ -1,23 +1,23 @@
 export default [
     {
-        taskName: `Create a nice, more permanent chord checker.`,
-        workedHours: 0,
-        neededHours: 20,
-    },
-    {
-        taskName: `Box cover images.`,
-        workedHours: 0,
-        neededHours: 20,
-    },
-    {
         taskName: `Patent!`,
         workedHours: 0,
         neededHours: 5,
     },
     {
+        taskName: `Create a nice, more permanent chord checker.`,
+        workedHours: 0,
+        neededHours: 20,
+    },
+    {
         taskName: `Add set theory numbers to design specs`,
         workedHours: 0,
         neededHours: 5,
+    },
+    {
+        taskName: `Box cover images.`,
+        workedHours: 0,
+        neededHours: 20,
     },
     {
         taskName: `Manufacturing notes: have junior and standard editions, six extra pieces to make 72 pieces total, box stacks 3 pieces high and arranged 6 by 4, thick like mahjong pieces for stacking better.`,

@@ -1,34 +1,28 @@
 export default [
+    // Monday.
     {
-        taskName: `Create an svg from played board. Place on home page.`,
+        taskName: `Home page layout.`,
+        workedHours: 0,
+        neededHours: 2,
+    },
+    {
+        taskName: `Finalise logo.`,
+        workedHours: 0,
+        neededHours: 2,
+    },
+    // Monday, Tuesday.
+    {
+        taskName: `Create played board svg for home page.`,
         workedHours: 5,
-        neededHours: 9,
+        neededHours: 10,
     },
+    // Wednesday.
     {
-        taskName: `Audit colours, fonts, and styling. Figure out info colouring.`,
-        workedHours: 1,
-        neededHours: 3,
-    },
-    {
-        taskName: `Home page content and styling.`,
-        workedHours: 0,
-        neededHours: 5,
-    },
-    {
-        taskName: `Create image files for rules and patent.`,
-        workedHours: 0,
-        neededHours: 1,
-    },
-    {
-        taskName: `Get back to Nelson.`,
-        workedHours: 0,
-        neededHours: 1,
-    },
-    {
-        taskName: `Fix accidental issues. Issues in Firefox and Safari.`,
+        taskName: `Fix accidental issues. Issues in Firefox and Safari. Figure out info colouring.`,
         workedHours: 0,
         neededHours: 3,
     },
+    // Thursday.
     {
         taskName: `Have setup for creating daily puzzle pngs and svgs. Need random piece generator. Include documentation.`,
         workedHours: 0,
@@ -38,6 +32,16 @@ export default [
         taskName: `Have setup for posting daily puzzle to website, and posting on social media. Have config ready now. Include documentation.`,
         workedHours: 0,
         neededHours: 10,
+    },
+    {
+        taskName: `Get back to Nelson.`,
+        workedHours: 0,
+        neededHours: 1,
+    },
+    {
+        taskName: `Create image files for rules and patent.`,
+        workedHours: 0,
+        neededHours: 1,
     },
     {
         taskName: `Look into Panda specs that they sent.`,

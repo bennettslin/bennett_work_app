@@ -1,5 +1,9 @@
 export default [
     {
+        taskName: `General refactoring and styling.`,
+        workedHours: 8,
+    },
+    {
         taskName: `Menu buttons styling and layout.`,
         workedHours: 7,
     },
