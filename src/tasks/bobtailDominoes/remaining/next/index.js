@@ -1,24 +1,13 @@
 export default [
-    // Monday.
-    {
-        taskName: `Home page layout.`,
-        workedHours: 0,
-        neededHours: 2,
-    },
-    {
-        taskName: `Finalise logo.`,
-        workedHours: 0,
-        neededHours: 2,
-    },
-    // Monday, Tuesday.
+    // Tuesday.
     {
         taskName: `Create played board svg for home page.`,
-        workedHours: 5,
+        workedHours: 7,
         neededHours: 10,
     },
     // Wednesday.
     {
-        taskName: `Fix accidental issues. Issues in Firefox and Safari. Figure out info colouring.`,
+        taskName: `Fix accidental issues. Use Maestro? Issues in Firefox and Safari. Figure out info colouring.`,
         workedHours: 0,
         neededHours: 3,
     },
