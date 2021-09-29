@@ -5,7 +5,7 @@ export default [
     },
     {
         taskName: `Home page layout.`,
-        workedHours: 4,
+        workedHours: 5,
     },
     {
         taskName: `Finish logo for now.`,
