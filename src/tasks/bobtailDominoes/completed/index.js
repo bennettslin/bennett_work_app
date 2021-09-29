@@ -1,7 +1,11 @@
 export default [
     {
+        taskName: `Create played board svg for home page.`,
+        workedHours: 10,
+    },
+    {
         taskName: `Home page layout.`,
-        workedHours: 3,
+        workedHours: 4,
     },
     {
         taskName: `Finish logo for now.`,

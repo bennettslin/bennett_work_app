@@ -1,10 +1,4 @@
 export default [
-    // Tuesday.
-    {
-        taskName: `Create played board svg for home page.`,
-        workedHours: 7,
-        neededHours: 10,
-    },
     // Wednesday.
     {
         taskName: `Fix accidental issues. Use Maestro? Issues in Firefox and Safari. Figure out info colouring.`,
