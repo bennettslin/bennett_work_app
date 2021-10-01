@@ -1,5 +1,17 @@
 export default [
     {
+        taskName: `Fix footer once and for all!`,
+        workedHours: 2,
+    },
+    {
+        taskName: `Fix accidental issues, including in Firefox and Safari.`,
+        workedHours: 3,
+    },
+    {
+        taskName: `Make svgs load more smoothly.`,
+        workedHours: 1,
+    },
+    {
         taskName: `Create played board svg for home page.`,
         workedHours: 10,
     },

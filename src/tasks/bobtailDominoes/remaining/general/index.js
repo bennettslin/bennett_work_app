@@ -1,5 +1,15 @@
 export default [
     {
+        taskName: `Look into Panda specs that they sent.`,
+        workedHours: 0,
+        neededHours: 1,
+    },
+    {
+        taskName: `Create image files for rules and patent.`,
+        workedHours: 0,
+        neededHours: 1,
+    },
+    {
         taskName: `Patent!`,
         workedHours: 0,
         neededHours: 5,
