@@ -1,14 +1,13 @@
 export default [
-    // Thursday.
     {
-        taskName: `Have setup for creating daily puzzle pngs and svgs. Need random piece generator. Include documentation.`,
-        workedHours: 0,
+        taskName: `Have setup for creating puzzle svgs, posting daily puzzle to website, and posting on social media.`,
+        workedHours: 8,
         neededHours: 10,
     },
     {
-        taskName: `Have setup for posting daily puzzle to website, and posting on social media. Have config ready now. Include documentation.`,
+        taskName: `Come up with two weeks of puzzles`,
         workedHours: 0,
-        neededHours: 10,
+        neededHours: 5,
     },
     {
         taskName: `Get back to Nelson.`,

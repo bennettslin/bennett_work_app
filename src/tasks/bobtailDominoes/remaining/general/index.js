@@ -45,6 +45,11 @@ export default [
         neededHours: 10,
     },
     {
+        taskName: `Have random piece generator for puzzles. Include documentation.`,
+        workedHours: 0,
+        neededHours: 50,
+    },
+    {
         taskName: `Look into how to create NFTs. Turn svgs into NFTs. OpenSea.`,
         workedHours: 0,
         neededHours: 10,
