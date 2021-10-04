@@ -1,5 +1,13 @@
 export default [
     {
+        taskName: `Have setup for creating puzzle svgs, posting daily puzzle to website, and posting on social media.`,
+        workedHours: 16,
+    },
+    {
+        taskName: `Setup for puzzles pages.`,
+        workedHours: 12,
+    },
+    {
         taskName: `Fix footer once and for all!`,
         workedHours: 2,
     },

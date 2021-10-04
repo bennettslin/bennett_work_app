@@ -1,5 +1,10 @@
 export default [
     {
+        taskName: `Figure out info colouring. Make lines in svgs thicker?`,
+        workedHours: 0,
+        neededHours: 1,
+    },
+    {
         taskName: `Look into Panda specs that they sent.`,
         workedHours: 0,
         neededHours: 1,
@@ -20,7 +25,7 @@ export default [
         neededHours: 20,
     },
     {
-        taskName: `Add set theory numbers to design specs`,
+        taskName: `Add set theory numbers to design specs.`,
         workedHours: 0,
         neededHours: 5,
     },
