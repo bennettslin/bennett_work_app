@@ -2,7 +2,7 @@ export default [
     {
         taskName: `Come up with two weeks of puzzles.`,
         workedHours: 0,
-        neededHours: 10,
+        neededHours: 15,
     },
     {
         taskName: `Get back to Nelson.`,

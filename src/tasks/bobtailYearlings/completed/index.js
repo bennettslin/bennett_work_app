@@ -1,5 +1,9 @@
 export default [
     {
+        taskName: `Have a test Yearl.ink page that doesn't redirect, just has links to various BY projects.`,
+        workedHours: 2,
+    },
+    {
         taskName: `Fix helmet for multi pages.`,
         workedHours: 1,
     },
