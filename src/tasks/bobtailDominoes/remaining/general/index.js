@@ -21,7 +21,7 @@ export default [
     },
     {
         taskName: `Create a nice, more permanent chord checker.`,
-        workedHours: 0,
+        workedHours: 2,
         neededHours: 20,
     },
     {
