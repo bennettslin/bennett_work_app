@@ -10,21 +10,6 @@ export default [
         neededHours: 1,
     },
     {
-        taskName: `Create image files for rules and patent.`,
-        workedHours: 0,
-        neededHours: 1,
-    },
-    {
-        taskName: `Patent!`,
-        workedHours: 0,
-        neededHours: 5,
-    },
-    {
-        taskName: `Create a nice, more permanent chord checker.`,
-        workedHours: 2,
-        neededHours: 20,
-    },
-    {
         taskName: `Add set theory numbers to design specs.`,
         workedHours: 0,
         neededHours: 5,

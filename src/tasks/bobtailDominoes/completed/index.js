@@ -1,7 +1,7 @@
 export default [
     {
         taskName: `Add unit tests.`,
-        workedHours: 3,
+        workedHours: 5,
     },
     {
         taskName: `Have setup for creating puzzle svgs, posting daily puzzle to website, and posting on social media.`,
