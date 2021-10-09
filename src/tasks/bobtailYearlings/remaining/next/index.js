@@ -6,7 +6,7 @@ export default [
     },
     {
         taskName: `Finish music getting worse essay. Post on social media, and pin tweet.`,
-        workedHours: 1,
+        workedHours: 2,
         neededHours: 10,
     },
     {
