@@ -2,7 +2,7 @@ export default [
     // Do this weekend.
     {
         taskName: `Chord checker logic and general UI.`,
-        workedHours: 8,
+        workedHours: 11,
         neededHours: 20,
     },
     {
