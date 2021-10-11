@@ -2,8 +2,8 @@ export default [
     // Do this weekend.
     {
         taskName: `Chord checker logic and general UI.`,
-        workedHours: 11,
-        neededHours: 20,
+        workedHours: 22,
+        neededHours: 30,
     },
     {
         taskName: `Chord checker audio. Logic to sound each sonority as notes are added or removed. Sound on/off button that persists.`,
