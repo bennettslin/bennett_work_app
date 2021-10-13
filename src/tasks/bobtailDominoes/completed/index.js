@@ -1,5 +1,9 @@
 export default [
     {
+        taskName: `Chord checker logic and general UI.`,
+        workedHours: 46,
+    },
+    {
         taskName: `Add unit tests.`,
         workedHours: 5,
     },
