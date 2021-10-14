@@ -1,5 +1,10 @@
 export default [
     {
+        taskName: `Follow buttons don't work in mobile`,
+        workedHours: 0,
+        neededHours: 3,
+    },
+    {
         taskName: `Chord checker audio. Logic to sound each sonority as notes are added or removed. Sound on/off button that persists.`,
         workedHours: 0,
         neededHours: 40,
@@ -12,14 +17,14 @@ export default [
 
     // Do on weekday.
     {
-        taskName: `Create image files for rules and patent.`,
-        workedHours: 0,
-        neededHours: 1,
+        taskName: `Patent!`,
+        workedHours: 2,
+        neededHours: 5,
     },
     {
-        taskName: `Patent!`,
+        taskName: `Add double sharp and double flat to Fresca fonts, modify exclamation point in BD logo, Illustrator should just have accidentals as well, check about sup in Illustrator.`,
         workedHours: 0,
-        neededHours: 5,
+        neededHours: 6,
     },
 
     {
