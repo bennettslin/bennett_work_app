@@ -6,7 +6,7 @@ export default [
     },
     {
         taskName: `Chord checker audio. Logic to sound each sonority as notes are added or removed. Sound on/off button that persists.`,
-        workedHours: 0,
+        workedHours: 5,
         neededHours: 40,
     },
     {
