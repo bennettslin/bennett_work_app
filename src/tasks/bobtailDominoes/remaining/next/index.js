@@ -1,18 +1,8 @@
 export default [
     {
-        taskName: `Follow buttons don't work in mobile`,
-        workedHours: 0,
-        neededHours: 3,
-    },
-    {
-        taskName: `Chord checker audio. Logic to sound each sonority as notes are added or removed. Sound on/off button that persists.`,
-        workedHours: 10,
+        taskName: `Chord checker audio and keyboard layout.`,
+        workedHours: 20,
         neededHours: 40,
-    },
-    {
-        taskName: `Chord checker piano UI.`,
-        workedHours: 0,
-        neededHours: 20,
     },
 
     // Do on weekday.
