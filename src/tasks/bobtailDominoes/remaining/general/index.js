@@ -15,6 +15,11 @@ export default [
         neededHours: 5,
     },
     {
+        taskName: `Guitar layout for checker.`,
+        workedHours: 0,
+        neededHours: 20,
+    },
+    {
         taskName: `Box cover images.`,
         workedHours: 0,
         neededHours: 20,
