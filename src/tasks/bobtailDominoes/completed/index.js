@@ -1,5 +1,9 @@
 export default [
     {
+        taskName: `Chord checker audio and keyboard layout.`,
+        workedHours: 51,
+    },
+    {
         taskName: `Chord checker logic and general UI.`,
         workedHours: 46,
     },
