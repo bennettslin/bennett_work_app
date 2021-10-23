@@ -45,8 +45,8 @@ export default [
         neededHours: 10,
     },
     {
-        taskName: `Have random piece generator for puzzles. Include documentation.`,
-        workedHours: 0,
+        taskName: `Have random piece generator for puzzles.`,
+        workedHours: 3,
         neededHours: 50,
     },
     {
