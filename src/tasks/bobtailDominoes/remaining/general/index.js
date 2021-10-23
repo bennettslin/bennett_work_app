@@ -20,6 +20,11 @@ export default [
         neededHours: 20,
     },
     {
+        taskName: `Figure out audio problems: Firefox, Safari, mobile.`,
+        workedHours: 0,
+        neededHours: 20,
+    },
+    {
         taskName: `Box cover images.`,
         workedHours: 0,
         neededHours: 20,
