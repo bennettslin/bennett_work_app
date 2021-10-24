@@ -1,7 +1,7 @@
 export default [
     {
         taskName: `Have random piece generator for puzzles.`,
-        workedHours: 14,
+        workedHours: 15,
         neededHours: 50,
     },
     // Do on weekday.
@@ -11,11 +11,10 @@ export default [
         neededHours: 20,
     },
     {
-        taskName: `Add double sharp and double flat to Fresca fonts, modify exclamation point in BD logo, Illustrator should just have accidentals as well, check about sup in Illustrator.`,
+        taskName: `Specify in upsell that puzzles will come out on regular basis.`,
         workedHours: 0,
-        neededHours: 6,
+        neededHours: 2,
     },
-
     {
         taskName: `Come up with two weeks of puzzles.`,
         workedHours: 0,
