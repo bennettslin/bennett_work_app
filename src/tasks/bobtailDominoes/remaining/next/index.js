@@ -1,7 +1,7 @@
 export default [
     {
-        taskName: `Have random piece generator for puzzles.`,
-        workedHours: 15,
+        taskName: `Game generator.`,
+        workedHours: 25,
         neededHours: 50,
     },
     // Do on weekday.
