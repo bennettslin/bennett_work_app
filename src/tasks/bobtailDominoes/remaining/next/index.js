@@ -1,8 +1,8 @@
 export default [
     {
         taskName: `Game generator.`,
-        workedHours: 46,
-        neededHours: 50,
+        workedHours: 51,
+        neededHours: 100,
     },
     // Do on weekday.
     {
