@@ -1,7 +1,7 @@
 export default [
     {
         taskName: `Demo page`,
-        workedHours: 31,
+        workedHours: 35,
         neededHours: 50,
     },
     // Do on weekday.
