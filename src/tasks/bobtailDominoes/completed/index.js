@@ -1,5 +1,9 @@
 export default [
     {
+        taskName: `Rough demo page`,
+        workedHours: 61,
+    },
+    {
         taskName: `Demo logic.`,
         workedHours: 54,
     },

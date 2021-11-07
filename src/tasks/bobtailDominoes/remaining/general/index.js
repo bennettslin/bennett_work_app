@@ -1,5 +1,10 @@
 export default [
     {
+        taskName: `Patent!`,
+        workedHours: 2,
+        neededHours: 20,
+    },
+    {
         taskName: `Add double sharp and double flat to Fresca fonts, modify exclamation point in BD logo, Illustrator should just have accidentals as well, check about sup in Illustrator.`,
         workedHours: 0,
         neededHours: 6,
@@ -35,6 +40,11 @@ export default [
         neededHours: 20,
     },
     {
+        taskName: `Figure out puzzle making system.`,
+        workedHours: 0,
+        neededHours: 15,
+    },
+    {
         taskName: `Box cover images.`,
         workedHours: 0,
         neededHours: 20,
@@ -51,11 +61,6 @@ export default [
     },
     {
         taskName: `Figure out marketing, promotion, and social media.`,
-        workedHours: 0,
-        neededHours: 10,
-    },
-    {
-        taskName: `Look into how to create NFTs. Turn svgs into NFTs. OpenSea.`,
         workedHours: 0,
         neededHours: 10,
     },
