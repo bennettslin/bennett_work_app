@@ -1,6 +1,6 @@
 export default [
     {
-        taskName: `Game should not rely on pitch sets to be passed in from moves`,
+        taskName: `Write out tips`,
         workedHours: 0,
         neededHours: 2,
     },
