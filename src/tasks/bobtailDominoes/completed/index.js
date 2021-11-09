@@ -1,6 +1,10 @@
 export default [
     {
-        taskName: `Rough demo page`,
+        taskName: `Board is always square and stays responsive, while allowing for hover without using zIndex.`,
+        workedHours: 7,
+    },
+    {
+        taskName: `Rough demo page.`,
         workedHours: 69,
     },
     {
