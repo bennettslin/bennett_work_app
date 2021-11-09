@@ -7,7 +7,7 @@ export default [
     },
     {
         taskName: `Position and size pool svgs.`,
-        workedHours: 0,
+        workedHours: 1,
         neededHours: 3,
     },
     {
