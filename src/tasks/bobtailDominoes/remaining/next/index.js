@@ -7,7 +7,7 @@ export default [
     },
     {
         taskName: `Position and size pool svgs. Figure out all md media queries with portrait and landscape.`,
-        workedHours: 1,
+        workedHours: 2,
         neededHours: 3,
     },
     {
@@ -27,7 +27,7 @@ export default [
     },
     {
         taskName: `Highlight most recent dominoes and turns.`,
-        workedHours: 0,
+        workedHours: 1,
         neededHours: 3,
     },
     {
