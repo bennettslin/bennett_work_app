@@ -6,14 +6,9 @@ export default [
         neededHours: 10,
     },
     {
-        taskName: `Position and size pool svgs.`,
+        taskName: `Position and size pool svgs. Figure out all md media queries with portrait and landscape.`,
         workedHours: 1,
         neededHours: 3,
-    },
-    {
-        taskName: `Position and size interval svgs. Create interval svgs.`,
-        workedHours: 0,
-        neededHours: 5,
     },
     {
         taskName: `Pool and players need min height and min width.`,

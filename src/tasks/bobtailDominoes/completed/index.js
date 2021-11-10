@@ -1,5 +1,9 @@
 export default [
     {
+        taskName: `Position and size interval svgs. Create interval svgs.`,
+        workedHours: 2,
+    },
+    {
         taskName: `Board is always square and stays responsive, while allowing for hover without using zIndex.`,
         workedHours: 7,
     },
