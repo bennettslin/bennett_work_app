@@ -1,5 +1,9 @@
 export default [
     {
+        taskName: `Highlight most recent turn logs.`,
+        workedHours: 3,
+    },
+    {
         taskName: `Position and size interval svgs. Create interval svgs.`,
         workedHours: 2,
     },

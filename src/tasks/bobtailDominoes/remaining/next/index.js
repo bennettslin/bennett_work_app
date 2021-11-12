@@ -1,9 +1,19 @@
 export default [
     // Bare minimum for patent.
     {
-        taskName: `Centre board as dominoes are added, and zoom out as needed.`,
+        taskName: `Centre board as dominoes are added. Just need unit tests.`,
+        workedHours: 4,
+        neededHours: 5,
+    },
+    {
+        taskName: `Zoom out board as needed.`,
         workedHours: 0,
-        neededHours: 10,
+        neededHours: 5,
+    },
+    {
+        taskName: `Highlight most recent dominoes.`,
+        workedHours: 1,
+        neededHours: 2,
     },
     {
         taskName: `Position and size pool svgs. Figure out all md media queries with portrait and landscape.`,
@@ -19,16 +29,6 @@ export default [
         taskName: `Style player cards.`,
         workedHours: 0,
         neededHours: 5,
-    },
-    {
-        taskName: `Fix auto scrolling of logs.`,
-        workedHours: 0,
-        neededHours: 1,
-    },
-    {
-        taskName: `Highlight most recent dominoes and turns.`,
-        workedHours: 1,
-        neededHours: 3,
     },
     {
         taskName: `Allow for game options, pausing and restarting play.`,
