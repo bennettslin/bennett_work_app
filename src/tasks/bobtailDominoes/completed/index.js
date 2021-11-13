@@ -1,8 +1,11 @@
 export default [
     {
+        taskName: `Centre board as dominoes are added. Just need unit tests.`,
+        workedHours: 5,
+    },
+    {
         taskName: `Highlight most recent dominoes.`,
         workedHours: 2,
-        neededHours: 2,
     },
     {
         taskName: `Highlight most recent turn logs.`,

@@ -1,16 +1,6 @@
 export default [
     // Bare minimum for patent.
     {
-        taskName: `Centre board as dominoes are added. Just need unit tests.`,
-        workedHours: 4,
-        neededHours: 5,
-    },
-    {
-        taskName: `Zoom out board as needed. Need function that determines minimum xRange for a board.`,
-        workedHours: 0,
-        neededHours: 5,
-    },
-    {
         taskName: `Style player cards.`,
         workedHours: 0,
         neededHours: 5,
@@ -24,6 +14,11 @@ export default [
         taskName: `Position and size pool svgs. Figure out all md media queries with portrait and landscape.`,
         workedHours: 2,
         neededHours: 3,
+    },
+    {
+        taskName: `Zoom out board as needed. Need function that determines minimum xRange for a board.`,
+        workedHours: 0,
+        neededHours: 5,
     },
     {
         taskName: `Allow for game options, pausing and restarting play.`,
