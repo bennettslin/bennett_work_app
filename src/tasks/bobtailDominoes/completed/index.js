@@ -1,5 +1,10 @@
 export default [
     {
+        taskName: `Highlight most recent dominoes.`,
+        workedHours: 2,
+        neededHours: 2,
+    },
+    {
         taskName: `Highlight most recent turn logs.`,
         workedHours: 3,
     },
