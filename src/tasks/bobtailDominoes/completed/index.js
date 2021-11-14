@@ -1,5 +1,9 @@
 export default [
     {
+        taskName: `Figure out md media queries with portrait and landscape.`,
+        workedHours: 1,
+    },
+    {
         taskName: `Pool and players need min height and min width.`,
         workedHours: 3,
     },

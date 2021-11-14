@@ -2,13 +2,8 @@ export default [
     // Bare minimum for patent.
     {
         taskName: `Style player cards.`,
-        workedHours: 4,
+        workedHours: 5,
         neededHours: 7,
-    },
-    {
-        taskName: `Figure out all md media queries with portrait and landscape.`,
-        workedHours: 0,
-        neededHours: 1,
     },
     {
         taskName: `Zoom out board as needed. Need function that determines minimum xRange for a board.`,
