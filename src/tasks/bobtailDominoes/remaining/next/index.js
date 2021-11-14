@@ -2,18 +2,13 @@ export default [
     // Bare minimum for patent.
     {
         taskName: `Style player cards.`,
-        workedHours: 0,
-        neededHours: 5,
+        workedHours: 4,
+        neededHours: 7,
     },
     {
-        taskName: `Pool and players need min height and min width.`,
+        taskName: `Figure out all md media queries with portrait and landscape.`,
         workedHours: 0,
-        neededHours: 5,
-    },
-    {
-        taskName: `Position and size pool svgs. Figure out all md media queries with portrait and landscape.`,
-        workedHours: 2,
-        neededHours: 3,
+        neededHours: 1,
     },
     {
         taskName: `Zoom out board as needed. Need function that determines minimum xRange for a board.`,
@@ -22,7 +17,7 @@ export default [
     },
     {
         taskName: `Allow for game options, pausing and restarting play.`,
-        workedHours: 0,
+        workedHours: 2,
         neededHours: 10,
     },
 

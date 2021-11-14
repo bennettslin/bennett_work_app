@@ -1,5 +1,13 @@
 export default [
     {
+        taskName: `Pool and players need min height and min width.`,
+        workedHours: 3,
+    },
+    {
+        taskName: `Position and size pool svgs.`,
+        workedHours: 3,
+    },
+    {
         taskName: `Centre board as dominoes are added. Just need unit tests.`,
         workedHours: 5,
     },
