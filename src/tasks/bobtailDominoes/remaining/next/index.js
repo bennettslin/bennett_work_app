@@ -1,22 +1,17 @@
 export default [
     // Bare minimum for patent.
     {
-        taskName: `Style player cards.`,
-        workedHours: 9,
-        neededHours: 10,
-    },
-    {
-        taskName: `Zoom out board as needed. Need function that determines minimum xRange for a board.`,
+        taskName: `Zoom out board as needed. Need function that determines minimum xRange for a board. Change so that scrolling doesn't happen unless it's needed, or game ends.`,
         workedHours: 0,
         neededHours: 5,
     },
     {
-        taskName: `Allow for game options, pausing and restarting play.`,
+        taskName: `Allow for pausing and restarting play. Button UI.`,
         workedHours: 2,
         neededHours: 10,
     },
 
-    // Later.
+    // Do after contacting patent attorney.
     {
         taskName: `Hover plays audio as Shepard tones.`,
         workedHours: 0,
@@ -27,6 +22,8 @@ export default [
         workedHours: 0,
         neededHours: 20,
     },
+
+    // Later.
     {
         taskName: `Write out tips.`,
         workedHours: 0,

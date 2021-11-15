@@ -1,5 +1,9 @@
 export default [
     {
+        taskName: `Style player cards.`,
+        workedHours: 11,
+    },
+    {
         taskName: `Figure out md media queries with portrait and landscape.`,
         workedHours: 1,
     },
