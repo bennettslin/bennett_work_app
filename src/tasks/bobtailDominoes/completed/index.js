@@ -1,5 +1,9 @@
 export default [
     {
+        taskName: `Promote Yearling's Bobtail in footer.`,
+        workedHours: 2,
+    },
+    {
         taskName: `Style player cards.`,
         workedHours: 11,
     },

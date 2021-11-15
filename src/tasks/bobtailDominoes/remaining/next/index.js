@@ -39,9 +39,4 @@ export default [
         workedHours: 0,
         neededHours: 1,
     },
-    {
-        taskName: `Promote Yearling's Bobtail in footer.`,
-        workedHours: 0,
-        neededHours: 1,
-    },
 ]
