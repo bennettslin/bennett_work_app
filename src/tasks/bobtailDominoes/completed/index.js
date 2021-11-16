@@ -1,5 +1,9 @@
 export default [
     {
+        taskName: `Safari fixes.`,
+        workedHours: 3,
+    },
+    {
         taskName: `Promote Yearling's Bobtail in footer.`,
         workedHours: 2,
     },

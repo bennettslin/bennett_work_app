@@ -1,11 +1,6 @@
 export default [
     // Bare minimum for patent.
     {
-        taskName: `Safari fixes.`,
-        workedHours: 2,
-        neededHours: 5,
-    },
-    {
         taskName: `Zoom out board as needed. Need function that determines minimum xRange for a board. Change so that scrolling doesn't happen unless it's needed, or game ends.`,
         workedHours: 0,
         neededHours: 5,
