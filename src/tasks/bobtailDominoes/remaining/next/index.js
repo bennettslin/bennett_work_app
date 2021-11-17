@@ -7,7 +7,7 @@ export default [
     },
     {
         taskName: `Allow for pausing and restarting play. Button UI.`,
-        workedHours: 2,
+        workedHours: 4,
         neededHours: 10,
     },
 
