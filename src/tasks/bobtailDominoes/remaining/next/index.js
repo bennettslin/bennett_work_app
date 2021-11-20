@@ -5,11 +5,6 @@ export default [
         workedHours: 0,
         neededHours: 5,
     },
-    {
-        taskName: `Controls for pausing and restarting play.`,
-        workedHours: 13,
-        neededHours: 16,
-    },
 
     // Do after contacting patent attorney.
     {

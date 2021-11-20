@@ -1,5 +1,9 @@
 export default [
     {
+        taskName: `Controls for pausing and restarting play.`,
+        workedHours: 19,
+    },
+    {
         taskName: `Safari fixes.`,
         workedHours: 3,
     },
