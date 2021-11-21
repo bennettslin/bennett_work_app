@@ -1,7 +1,12 @@
 export default [
     {
+        taskName: `Make player cards display as grid.`,
+        workedHours: 0,
+        neededHours: 1,
+    },
+    {
         taskName: `Patent!`,
-        workedHours: 2,
+        workedHours: 4,
         neededHours: 20,
     },
     {
@@ -38,11 +43,6 @@ export default [
         taskName: `Figure out audio problems: Firefox, Safari, mobile.`,
         workedHours: 0,
         neededHours: 20,
-    },
-    {
-        taskName: `Figure out puzzle making system.`,
-        workedHours: 0,
-        neededHours: 15,
     },
     {
         taskName: `Box cover images.`,

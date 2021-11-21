@@ -1,5 +1,9 @@
 export default [
     {
+        taskName: `Zoom out board as needed.`,
+        workedHours: 5,
+    },
+    {
         taskName: `Controls for pausing and restarting play.`,
         workedHours: 19,
     },
