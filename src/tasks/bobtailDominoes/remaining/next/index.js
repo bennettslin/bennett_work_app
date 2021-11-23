@@ -1,21 +1,11 @@
 export default [
     // Bare minimum for patent.
-    {
-        taskName: `Fix web worker memory leak.`,
-        workedHours: 2,
-        neededHours: 5,
-    },
 
     // Do after contacting patent attorney.
     {
         taskName: `Write out tips.`,
         workedHours: 0,
         neededHours: 2,
-    },
-    {
-        taskName: `Figure out analytics call.`,
-        workedHours: 0,
-        neededHours: 5,
     },
     {
         taskName: `Bug with initial black domino?`,

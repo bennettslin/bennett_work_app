@@ -1,7 +1,15 @@
 export default [
     {
+        taskName: `Figure out analytics call.`,
+        workedHours: 1,
+    },
+    {
+        taskName: `Fix web worker memory leak.`,
+        workedHours: 3,
+    },
+    {
         taskName: `Zoom out board as needed.`,
-        workedHours: 5,
+        workedHours: 7,
     },
     {
         taskName: `Controls for pausing and restarting play.`,
