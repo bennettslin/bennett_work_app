@@ -5,7 +5,7 @@ export default [
     },
     {
         taskName: `Fix web worker memory leak.`,
-        workedHours: 3,
+        workedHours: 5,
     },
     {
         taskName: `Zoom out board as needed.`,
