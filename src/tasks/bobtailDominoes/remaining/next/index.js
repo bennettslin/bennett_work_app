@@ -1,5 +1,9 @@
 export default [
-    // Bare minimum for patent.
+    {
+        taskName: `Figure out puzzle making system.`,
+        workedHours: 3,
+        neededHours: 15,
+    },
 
     // Do after contacting patent attorney.
     {
@@ -28,10 +32,5 @@ export default [
         taskName: `Specify in upsell that puzzles will come out on regular basis.`,
         workedHours: 0,
         neededHours: 1,
-    },
-    {
-        taskName: `Figure out puzzle making system.`,
-        workedHours: 0,
-        neededHours: 15,
     },
 ]
