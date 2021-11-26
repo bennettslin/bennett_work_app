@@ -1,5 +1,9 @@
 export default [
     {
+        taskName: `Make player cards display as grid.`,
+        workedHours: 1,
+    },
+    {
         taskName: `Figure out analytics call.`,
         workedHours: 1,
     },

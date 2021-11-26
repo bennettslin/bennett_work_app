@@ -1,10 +1,5 @@
 export default [
     {
-        taskName: `Make player cards display as grid.`,
-        workedHours: 0,
-        neededHours: 1,
-    },
-    {
         taskName: `Patent!`,
         workedHours: 4,
         neededHours: 20,
