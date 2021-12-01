@@ -1,10 +1,5 @@
 export default [
     {
-        taskName: `Patent!`,
-        workedHours: 4,
-        neededHours: 20,
-    },
-    {
         taskName: `Add double sharp and double flat to Fresca fonts, modify exclamation point in BD logo, Illustrator should just have accidentals as well, check about sup in Illustrator.`,
         workedHours: 0,
         neededHours: 6,

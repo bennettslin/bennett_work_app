@@ -1,8 +1,13 @@
 export default [
     {
         taskName: `Figure out puzzle making system.`,
-        workedHours: 13,
+        workedHours: 16,
         neededHours: 30,
+    },
+    {
+        taskName: `Patent!`,
+        workedHours: 11,
+        neededHours: 20,
     },
 
     // Do after contacting patent attorney.
