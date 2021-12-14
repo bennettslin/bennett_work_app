@@ -1,7 +1,7 @@
 export default [
     {
         taskName: `Figure out puzzle making system.`,
-        workedHours: 30,
+        workedHours: 42,
         neededHours: 70,
     },
     {
