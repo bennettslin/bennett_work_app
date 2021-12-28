@@ -1,5 +1,9 @@
 export default [
     {
+        taskName: `Bug with unstyled black domino? Maybe fixed by adding key.`,
+        workedHours: 1,
+    },
+    {
         taskName: `Make player cards display as grid.`,
         workedHours: 1,
     },

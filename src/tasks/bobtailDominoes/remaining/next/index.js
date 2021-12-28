@@ -1,7 +1,7 @@
 export default [
     {
         taskName: `Figure out puzzle making system.`,
-        workedHours: 83,
+        workedHours: 95,
         neededHours: 100,
     },
     {
@@ -13,11 +13,6 @@ export default [
         taskName: `Write out tips.`,
         workedHours: 0,
         neededHours: 2,
-    },
-    {
-        taskName: `Bug with initial black domino?`,
-        workedHours: 0,
-        neededHours: 3,
     },
     {
         taskName: `Autoplay chords when played.`,
