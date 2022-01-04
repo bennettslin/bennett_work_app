@@ -1,8 +1,8 @@
 export default [
     {
         taskName: `Figure out puzzle making system.`,
-        workedHours: 140,
-        neededHours: 150,
+        workedHours: 155,
+        neededHours: 160,
     },
     {
         taskName: `Patent!`,
