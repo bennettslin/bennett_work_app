@@ -1,7 +1,7 @@
 export default [
     {
         taskName: `Figure out puzzle making system.`,
-        workedHours: 160,
+        workedHours: 173,
     },
     {
         taskName: `Bug with unstyled black domino? Maybe fixed by adding key.`,
