@@ -1,10 +1,5 @@
 export default [
     {
-        taskName: `Populate puzzles!`,
-        workedHours: 3,
-        neededHours: 20,
-    },
-    {
         taskName: `Patent!`,
         workedHours: 16,
         neededHours: 20,
