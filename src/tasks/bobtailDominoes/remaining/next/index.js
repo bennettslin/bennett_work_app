@@ -1,5 +1,10 @@
 export default [
     {
+        taskName: `Audio function for dominoes.`,
+        workedHours: 5,
+        neededHours: 100,
+    },
+    {
         taskName: `Patent!`,
         workedHours: 16,
         neededHours: 20,
