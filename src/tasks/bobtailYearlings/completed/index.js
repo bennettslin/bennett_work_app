@@ -1,5 +1,9 @@
 export default [
     {
+        taskName: `Promo planning.`,
+        workedHours: 5,
+    },
+    {
         taskName: `Have a test Yearl.ink page that doesn't redirect, just has links to various BY projects.`,
         workedHours: 2,
     },
