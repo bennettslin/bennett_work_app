@@ -1,7 +1,7 @@
 export default [
     {
         taskName: `Find game manufacturer`,
-        workedHours: 3,
+        workedHours: 5,
         neededHours: 10,
     },
     {
