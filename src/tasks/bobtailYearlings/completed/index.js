@@ -1,5 +1,9 @@
 export default [
     {
+        taskName: `Hosting for Asians and Beatles websites.`,
+        workedHours: 2,
+    },
+    {
         taskName: `Promo planning.`,
         workedHours: 5,
     },
