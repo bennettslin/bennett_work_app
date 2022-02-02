@@ -1,8 +1,8 @@
 export default [
     {
-        taskName: `Find game manufacturer`,
-        workedHours: 5,
-        neededHours: 10,
+        taskName: `Work with game manufacturer`,
+        workedHours: 9,
+        neededHours: 20,
     },
     {
         taskName: `Audio function for dominoes.`,
