@@ -1,7 +1,7 @@
 export default [
     {
         taskName: `Work with game manufacturer`,
-        workedHours: 9,
+        workedHours: 13,
         neededHours: 20,
     },
     {
