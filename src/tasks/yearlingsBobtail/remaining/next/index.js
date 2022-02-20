@@ -1,7 +1,7 @@
 export default [
     {
         taskName: `Onesheet revision.`,
-        workedHours: 45,
+        workedHours: 50,
         neededHours: 50,
     },
     {

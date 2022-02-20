@@ -1,5 +1,9 @@
 export default [
     {
+        taskName: `Fun page.`,
+        workedHours: 2,
+    },
+    {
         taskName: `Populate puzzles!`,
         workedHours: 3,
     },
