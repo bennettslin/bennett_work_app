@@ -5,11 +5,6 @@ export default [
         neededHours: 3,
     },
     {
-        taskName: `Onesheet revision.`,
-        workedHours: 58,
-        neededHours: 60,
-    },
-    {
         taskName: `Create upsell modal that renders on load based on stored state. Use existing Popup component.`,
         workedHours: 0,
         neededHours: 5,
