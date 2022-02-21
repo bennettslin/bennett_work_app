@@ -1,8 +1,13 @@
 export default [
     {
+        taskName: `Fix promo pitch page routing.`,
+        workedHours: 0,
+        neededHours: 3,
+    },
+    {
         taskName: `Onesheet revision.`,
-        workedHours: 50,
-        neededHours: 50,
+        workedHours: 58,
+        neededHours: 60,
     },
     {
         taskName: `Create upsell modal that renders on load based on stored state. Use existing Popup component.`,
