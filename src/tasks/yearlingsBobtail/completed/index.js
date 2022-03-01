@@ -1,5 +1,9 @@
 export default [
     {
+        taskName: `Remove gap between pitch presentations.`,
+        workedHours: 2,
+    },
+    {
         taskName: `Onesheet revision.`,
         workedHours: 60,
     },
