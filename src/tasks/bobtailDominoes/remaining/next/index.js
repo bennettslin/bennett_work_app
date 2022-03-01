@@ -1,8 +1,8 @@
 export default [
     {
         taskName: `Work with game manufacturer`,
-        workedHours: 13,
-        neededHours: 20,
+        workedHours: 23,
+        neededHours: 30,
     },
     {
         taskName: `Audio function for dominoes.`,
@@ -11,8 +11,8 @@ export default [
     },
     {
         taskName: `Patent!`,
-        workedHours: 16,
-        neededHours: 20,
+        workedHours: 20,
+        neededHours: 30,
     },
     {
         taskName: `Write out tips.`,
