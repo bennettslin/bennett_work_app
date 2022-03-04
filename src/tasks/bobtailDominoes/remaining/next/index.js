@@ -11,7 +11,7 @@ export default [
     },
     {
         taskName: `Patent!`,
-        workedHours: 23,
+        workedHours: 25,
         neededHours: 30,
     },
     {
