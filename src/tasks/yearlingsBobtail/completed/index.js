@@ -1,5 +1,13 @@
 export default [
     {
+        taskName: `Hawaiian doll.`,
+        workedHours: 2,
+    },
+    {
+        taskName: `Beethoven bust`,
+        workedHours: 1,
+    },
+    {
         taskName: `Remove gap between pitch presentations.`,
         workedHours: 2,
     },
