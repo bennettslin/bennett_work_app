@@ -5,6 +5,7 @@ import BobtailDominoesProject from '../../tasks/bobtailDominoes'
 import BobtailYearlingsProject from '../../tasks/bobtailYearlings'
 import BYComboProject from '../../tasks/byCombo'
 import YearlingsBobtailProject from '../../tasks/yearlingsBobtail'
+// import Drawing from '../../components/Drawing'
 import './style'
 
 const Page = () => (
@@ -19,6 +20,7 @@ const Page = () => (
         <BobtailYearlingsProject />
         <BYComboProject />
         <YearlingsBobtailProject />
+        {/* <Drawing /> */}
     </div>
 )
 

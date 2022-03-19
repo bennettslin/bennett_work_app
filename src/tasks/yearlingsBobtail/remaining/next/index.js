@@ -1,6 +1,19 @@
 export default [
+    // Ongoing, only nice to have.
     {
-        taskName: `Fix promo pitch page routing.`,
+        taskName: `Shared styles work.`,
+        workedHours: 52,
+    },
+    {
+        taskName: `Face fixes.`,
+        workedHours: 21,
+    },
+    {
+        taskName: `Annotation edits.`,
+        workedHours: 10,
+    },
+    {
+        taskName: `Fix page routing.`,
         workedHours: 0,
         neededHours: 3,
     },
