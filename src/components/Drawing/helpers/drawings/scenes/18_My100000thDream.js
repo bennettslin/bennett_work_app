@@ -1,4 +1,4 @@
-import { ACTOR } from '../../../../../constants/scene'
+import { ACTOR } from '../../../constants//scene'
 import {
     BENNETT,
     CATHERINE,
@@ -6,18 +6,18 @@ import {
     LIZ,
     MIRIAM,
     AMY,
-} from '../../../../../constants/scene/actors'
-import { DOCTOR } from '../../../../../constants/scene/actors/amy'
+} from '../../../constants//scene/actors'
+import { DOCTOR } from '../../../constants//scene/actors/amy'
 import {
     EL_TORITO,
     GOPI,
-} from '../../../../../constants/scene/actors/songs'
+} from '../../../constants//scene/actors/songs'
 import {
     PAMPAS,
     GETTING_DARK,
     CLIFF,
     FINAL_DREAM,
-} from '../../../../../constants/scene/actors/bennettLiz'
+} from '../../../constants//scene/actors/bennettLiz'
 
 export default [
     {

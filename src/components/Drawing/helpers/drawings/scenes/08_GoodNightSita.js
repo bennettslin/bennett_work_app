@@ -1,19 +1,19 @@
-import { ACTOR } from '../../../../../constants/scene'
+import { ACTOR } from '../../../constants//scene'
 import {
     BENNETT,
     LIZ,
     KHARI,
     STEPHANIE,
-} from '../../../../../constants/scene/actors'
-import { DOUBLE_ALBERT } from '../../../../../constants/scene/actors/khari'
-import { FLAPPER } from '../../../../../constants/scene/actors/stephanie'
+} from '../../../constants//scene/actors'
+import { DOUBLE_ALBERT } from '../../../constants//scene/actors/khari'
+import { FLAPPER } from '../../../constants//scene/actors/stephanie'
 import {
     DATE_ENDING,
     MUSEUM,
     BACKSTAGE,
     GO_KARTS,
     DATE_ENDED,
-} from '../../../../../constants/scene/actors/songs'
+} from '../../../constants//scene/actors/songs'
 
 export default [
     {

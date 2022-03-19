@@ -1,4 +1,4 @@
-import { ACTOR } from '../../../../../constants/scene'
+import { ACTOR } from '../../../constants//scene'
 import {
     BENNETT,
     KHARI,
@@ -9,23 +9,23 @@ import {
     AMY,
     STEPHANIE,
     WADE,
-} from '../../../../../constants/scene/actors'
+} from '../../../constants//scene/actors'
 import {
     CAMPUS_ASHAMED,
     SHOW_ANNOYED,
     ALLEY,
     BROKEN_HEARTED,
     DEMONSTRATION,
-} from '../../../../../constants/scene/actors/bennett'
+} from '../../../constants//scene/actors/bennett'
 import {
     PROTECTIVE_CONCERNED,
     CARESS,
     CARESS_REFLECTION,
-} from '../../../../../constants/scene/actors/khariLiz'
+} from '../../../constants//scene/actors/khariLiz'
 import {
     GREETING,
     PROTESTER,
-} from '../../../../../constants/scene/actors/songs'
+} from '../../../constants//scene/actors/songs'
 
 export default [
     {

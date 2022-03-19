@@ -1,8 +1,8 @@
-import { ACTOR } from '../../../../../constants/scene'
+import { ACTOR } from '../../../constants//scene'
 import {
     PRETEEN_BENNETT,
     SASHA,
-} from '../../../../../constants/scene/actors'
+} from '../../../constants//scene/actors'
 import {
     MAT,
     STAIRS,
@@ -11,8 +11,8 @@ import {
     SHORE,
     BUOY,
     OCEAN_FLOOR,
-} from '../../../../../constants/scene/actors/preteenBennett'
-import { MERMAID } from '../../../../../constants/scene/actors/sashaBennett'
+} from '../../../constants//scene/actors/preteenBennett'
+import { MERMAID } from '../../../constants//scene/actors/sashaBennett'
 
 export default [
     {

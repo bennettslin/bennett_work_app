@@ -1,13 +1,13 @@
-import { ACTOR } from '../../../../../constants/scene'
+import { ACTOR } from '../../../constants//scene'
 import {
     LIZ,
     KHARI,
-} from '../../../../../constants/scene/actors'
+} from '../../../constants//scene/actors'
 import {
     ARRIVED,
     JUDGMENTAL,
     CONCERNED,
-} from '../../../../../constants/scene/actors/khari'
+} from '../../../constants//scene/actors/khari'
 import {
     PETTING_SEATED,
     PETTING_STANDING,
@@ -16,7 +16,7 @@ import {
     DEFENDING,
     NOT_HUNGRY,
     ASLEEP_COUCH,
-} from '../../../../../constants/scene/actors/liz'
+} from '../../../constants//scene/actors/liz'
 
 export default [
     {

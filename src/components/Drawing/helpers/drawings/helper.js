@@ -1,6 +1,6 @@
 import scenes from './scenes'
 
-import { ACTOR } from '../../../../constants/scene'
+import { ACTOR } from '../../constants/scene'
 
 const
     // The time spent thus far per drawing.

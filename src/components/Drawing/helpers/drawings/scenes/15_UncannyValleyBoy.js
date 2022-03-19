@@ -1,4 +1,4 @@
-import { ACTOR } from '../../../../../constants/scene'
+import { ACTOR } from '../../../constants//scene'
 import {
     BENNETT,
     ESTHER,
@@ -10,28 +10,28 @@ import {
     LIZ,
     MIRIAM,
     STEPHANIE,
-} from '../../../../../constants/scene/actors'
+} from '../../../constants//scene/actors'
 import {
     HURT_CONSOLING,
     SOBBING_SHIELDING,
-} from '../../../../../constants/scene/actors/estherMother'
+} from '../../../constants//scene/actors/estherMother'
 import {
     ACCUSATORY,
     REELING,
-} from '../../../../../constants/scene/actors/father'
-import { JOKING_LAUGHING } from '../../../../../constants/scene/actors/khariLiz'
+} from '../../../constants//scene/actors/father'
+import { JOKING_LAUGHING } from '../../../constants//scene/actors/khariLiz'
 import {
     ASLEEP_FEARFUL,
     FENDING_OFF,
-} from '../../../../../constants/scene/actors/miriamBennett'
-import { MISCHIEVOUS_BANJO } from '../../../../../constants/scene/actors/miriamStephanie'
-import { COMFORTING_HUMILIATED } from '../../../../../constants/scene/actors/sashaBennett'
-import { BENNETT_RECORDING } from '../../../../../constants/scene/actors/stephanie'
+} from '../../../constants//scene/actors/miriamBennett'
+import { MISCHIEVOUS_BANJO } from '../../../constants//scene/actors/miriamStephanie'
+import { COMFORTING_HUMILIATED } from '../../../constants//scene/actors/sashaBennett'
+import { BENNETT_RECORDING } from '../../../constants//scene/actors/stephanie'
 import {
     PAST,
     PRESENT,
     FUTURE,
-} from '../../../../../constants/scene/actors/songs'
+} from '../../../constants//scene/actors/songs'
 
 export default [
     {

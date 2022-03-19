@@ -1,10 +1,10 @@
-import { ACTOR } from '../../../../../constants/scene'
+import { ACTOR } from '../../../constants//scene'
 import {
     BENNETT,
     ANA,
     HOWIE,
     TOMER,
-} from '../../../../../constants/scene/actors'
+} from '../../../constants//scene/actors'
 import {
     ABBEY_ROAD,
     WALGREENS,
@@ -12,7 +12,7 @@ import {
     CEMETERY,
     STATION_WAGON,
     ATTIC,
-} from '../../../../../constants/scene/actors/songs'
+} from '../../../constants//scene/actors/songs'
 
 export default [
     {
