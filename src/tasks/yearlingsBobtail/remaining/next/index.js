@@ -10,12 +10,12 @@ export default [
     },
     {
         taskName: `Annotation edits.`,
-        workedHours: 32,
+        workedHours: 36,
     },
     {
         taskName: `Fix page routing.`,
         workedHours: 0,
-        neededHours: 3,
+        neededHours: 20,
     },
     {
         taskName: `Create upsell modal that renders on load based on stored state. Use existing Popup component.`,
