@@ -10,7 +10,7 @@ export default [
     },
     {
         taskName: `Annotation edits.`,
-        workedHours: 106,
+        workedHours: 108,
     },
     {
         taskName: `Fix page routing.`,
