@@ -6,7 +6,7 @@ export default [
     },
     {
         taskName: `Constellation shadows.`,
-        workedHours: 0,
+        workedHours: 3,
         neededHours: 10,
     },
     {
