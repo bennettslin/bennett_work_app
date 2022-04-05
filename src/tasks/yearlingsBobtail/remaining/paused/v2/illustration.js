@@ -1,15 +1,5 @@
 export default [
     {
-        taskName: `Potted plants and potting tools in bedroom.`,
-        workedHours: 0,
-        neededHours: 4,
-    },
-    {
-        taskName: `Constellation shadows.`,
-        workedHours: 3,
-        neededHours: 10,
-    },
-    {
         taskName: `Blood on demonstrators.`,
         workedHours: 0,
         neededHours: 1,

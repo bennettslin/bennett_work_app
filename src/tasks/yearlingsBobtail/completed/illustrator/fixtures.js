@@ -1,5 +1,9 @@
 export default [
     {
+        taskName: `Flower bulbs.`,
+        workedHours: 1,
+    },
+    {
         taskName: `Hawaiian doll.`,
         workedHours: 2,
     },

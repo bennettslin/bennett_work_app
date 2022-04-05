@@ -1,5 +1,9 @@
 export default [
     {
+        taskName: `Constellation shadows.`,
+        workedHours: 5,
+    },
+    {
         taskName: 'trollShadowLeft',
         workedHours: 1,
     },
