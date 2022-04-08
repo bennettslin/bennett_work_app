@@ -2,7 +2,7 @@ export default [
     // Ongoing, only nice to have.
     {
         taskName: `Pareto content.`,
-        workedHours: 54,
+        workedHours: 64,
     },
     {
         taskName: `Shared styles work.`,
@@ -14,7 +14,7 @@ export default [
     },
     {
         taskName: `Annotation edits.`,
-        workedHours: 119,
+        workedHours: 121,
     },
     {
         taskName: `Fix page routing.`,
