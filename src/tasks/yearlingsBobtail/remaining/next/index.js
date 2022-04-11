@@ -2,7 +2,7 @@ export default [
     // Ongoing, only nice to have.
     {
         taskName: `Pareto content.`,
-        workedHours: 82,
+        workedHours: 92,
     },
     {
         taskName: `Shared styles work.`,
