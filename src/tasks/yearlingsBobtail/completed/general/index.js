@@ -1,5 +1,9 @@
 export default [
     {
+        taskName: `Blood on demonstrators.`,
+        workedHours: 1,
+    },
+    {
         taskName: `Transfer progress.`,
         workedHours: 1,
     },

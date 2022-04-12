@@ -1,10 +1,5 @@
 export default [
     {
-        taskName: `Blood on demonstrators.`,
-        workedHours: 0,
-        neededHours: 1,
-    },
-    {
         taskName: `Backdrops for Uncanny road scenes.`,
         workedHours: 0,
         neededHours: 1,
