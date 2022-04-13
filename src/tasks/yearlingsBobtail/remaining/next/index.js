@@ -1,8 +1,74 @@
 export default [
-    // Ongoing, only nice to have.
+    // Illustrator work.
+
+    // TODO: Wednesday.
+    {
+        taskName: `Darkening logic.`,
+        workedHours: 0,
+        neededHours: 3,
+    },
+    // TODO: Thursday.
+    {
+        taskName: `Foliage for seasons.`,
+        workedHours: 0,
+        neededHours: 2,
+    },
+    // TODO: Friday.
+    {
+        taskName: `Recolour posters.`,
+        workedHours: 0,
+        neededHours: 2,
+    },
+    {
+        taskName: `Hand shovel.`,
+        workedHours: 0,
+        neededHours: 2,
+    },
+    {
+        taskName: `Bennett and Sita shelves.`,
+        workedHours: 0,
+        neededHours: 2,
+    },
+    {
+        taskName: `Bennett books and water glass.`,
+        workedHours: 0,
+        neededHours: 2,
+    },
+    {
+        taskName: `Sita shrine.`,
+        workedHours: 0,
+        neededHours: 3,
+    },
+    {
+        taskName: `Fin cemetery.`,
+        workedHours: 0,
+        neededHours: 2,
+    },
+    {
+        taskName: `Club decorations: curtains, tinsel, Christmas lights.`,
+        workedHours: 0,
+        neededHours: 3,
+    },
+    {
+        taskName: `Aurora borealis.`,
+        workedHours: 0,
+        neededHours: 2,
+    },
+    {
+        taskName: `Space scenes.`,
+        workedHours: 0,
+        neededHours: 2,
+    },
+    {
+        taskName: `Clouds.`,
+        workedHours: 0,
+        neededHours: 3,
+    },
+
+    // Ongoing work.
     {
         taskName: `Pareto content.`,
-        workedHours: 102,
+        workedHours: 110,
     },
     {
         taskName: `Shared styles work.`,
@@ -14,13 +80,15 @@ export default [
     },
     {
         taskName: `Annotation edits.`,
-        workedHours: 123,
+        workedHours: 124,
     },
     {
         taskName: `Fix page routing.`,
         workedHours: 0,
         neededHours: 20,
     },
+
+    // Nice to have.
     {
         taskName: `Create upsell modal that renders on load based on stored state. Use existing Popup component.`,
         workedHours: 0,
