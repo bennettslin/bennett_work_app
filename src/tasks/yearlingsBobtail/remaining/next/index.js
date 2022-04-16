@@ -1,71 +1,9 @@
 export default [
-    // Illustrator work.
-
-    // TODO: Wednesday.
+    // Ongoing work.
     {
         taskName: `Darkening logic.`,
-        workedHours: 0,
-        neededHours: 3,
+        workedHours: 12,
     },
-    // TODO: Thursday.
-    {
-        taskName: `Foliage for seasons.`,
-        workedHours: 0,
-        neededHours: 2,
-    },
-    // TODO: Friday.
-    {
-        taskName: `Recolour posters.`,
-        workedHours: 0,
-        neededHours: 2,
-    },
-    {
-        taskName: `Hand shovel.`,
-        workedHours: 0,
-        neededHours: 2,
-    },
-    {
-        taskName: `Bennett and Sita shelves.`,
-        workedHours: 0,
-        neededHours: 2,
-    },
-    {
-        taskName: `Bennett books and water glass.`,
-        workedHours: 0,
-        neededHours: 2,
-    },
-    {
-        taskName: `Sita shrine.`,
-        workedHours: 0,
-        neededHours: 3,
-    },
-    {
-        taskName: `Fin cemetery.`,
-        workedHours: 0,
-        neededHours: 2,
-    },
-    {
-        taskName: `Club decorations: curtains, tinsel, Christmas lights.`,
-        workedHours: 0,
-        neededHours: 3,
-    },
-    {
-        taskName: `Aurora borealis.`,
-        workedHours: 0,
-        neededHours: 2,
-    },
-    {
-        taskName: `Space scenes.`,
-        workedHours: 0,
-        neededHours: 2,
-    },
-    {
-        taskName: `Clouds.`,
-        workedHours: 0,
-        neededHours: 3,
-    },
-
-    // Ongoing work.
     {
         taskName: `Pareto content.`,
         workedHours: 110,
@@ -80,7 +18,7 @@ export default [
     },
     {
         taskName: `Annotation edits.`,
-        workedHours: 124,
+        workedHours: 138,
     },
     {
         taskName: `Fix page routing.`,
