@@ -1,16 +1,31 @@
 export default [
     {
+        taskName: `Foliage for seasons.`,
+        workedHours: 0,
+        neededHours: 2,
+    },
+    {
+        taskName: `Change Taiwan colours to avoid conflict with past hue.`,
+        workedHours: 0,
+        neededHours: 3,
+    },
+    {
+        taskName: `Darken outdoors for night and twilight.`,
+        workedHours: 0,
+        neededHours: 3,
+    },
+    {
+        taskName: `Make side wall speaker and monitor at far end, wall speaker at edge of stage, and both at correct angle.`,
+        workedHours: 0,
+        neededHours: 5,
+    },
+    {
+        taskName: `Make indoor window for Taiwan mat and stairs, and maybe also outdoor window for iron gate?`,
+        workedHours: 0,
+        neededHours: 3,
+    },
+    {
         taskName: `Bennett and Sita shelves.`,
-        workedHours: 0,
-        neededHours: 2,
-    },
-    {
-        taskName: `Storm drain.`,
-        workedHours: 0,
-        neededHours: 2,
-    },
-    {
-        taskName: `Hand shovel.`,
         workedHours: 0,
         neededHours: 2,
     },
@@ -25,19 +40,24 @@ export default [
         neededHours: 3,
     },
     {
+        taskName: `Storm drain.`,
+        workedHours: 0,
+        neededHours: 2,
+    },
+    {
+        taskName: `Hand shovel.`,
+        workedHours: 0,
+        neededHours: 2,
+    },
+    {
         taskName: `Club decorations: curtains, tinsel, Christmas lights.`,
         workedHours: 0,
         neededHours: 3,
     },
     {
-        taskName: `Lamp lighting logic. Includes new club presences.`,
+        taskName: `Lamp lighting logic. Includes new club presences. Include marquee lights.`,
         workedHours: 0,
         neededHours: 3,
-    },
-    {
-        taskName: `Foliage for seasons.`,
-        workedHours: 0,
-        neededHours: 2,
     },
     {
         taskName: `Warp bubbles.`,
@@ -73,6 +93,16 @@ export default [
         taskName: `Make road floors have path colour?`,
         workedHours: 0,
         neededHours: 1,
+    },
+    {
+        taskName: `Extend Liz blanket?`,
+        workedHours: 0,
+        neededHours: 2,
+    },
+    {
+        taskName: `Improve ocean backdrops, make them darker?`,
+        workedHours: 0,
+        neededHours: 2,
     },
     {
         taskName: `Fruit colours. Painting, trees, garbage can.`,
