@@ -5,19 +5,14 @@ export default [
         neededHours: 2,
     },
     {
-        taskName: `Change Taiwan colours to avoid conflict with past hue.`,
-        workedHours: 0,
-        neededHours: 3,
-    },
-    {
         taskName: `Darken outdoors for night and twilight.`,
         workedHours: 0,
         neededHours: 3,
     },
     {
-        taskName: `Make side wall speaker and monitor at far end, wall speaker at edge of stage, and both at correct angle.`,
+        taskName: `Make side wall speaker and monitor at far end, wall speaker at edge of stage, and different angles for stage and crowd scenes.`,
         workedHours: 0,
-        neededHours: 5,
+        neededHours: 4,
     },
     {
         taskName: `Make indoor window for Taiwan mat and stairs, and maybe also outdoor window for iron gate?`,
@@ -45,11 +40,6 @@ export default [
         neededHours: 2,
     },
     {
-        taskName: `Hand shovel.`,
-        workedHours: 0,
-        neededHours: 2,
-    },
-    {
         taskName: `Club decorations: curtains, tinsel, Christmas lights.`,
         workedHours: 0,
         neededHours: 3,
@@ -61,11 +51,6 @@ export default [
     },
     {
         taskName: `Warp bubbles.`,
-        workedHours: 0,
-        neededHours: 2,
-    },
-    {
-        taskName: `Recolour posters.`,
         workedHours: 0,
         neededHours: 2,
     },
@@ -85,6 +70,26 @@ export default [
         neededHours: 3,
     },
     {
+        taskName: `Buddha painting in Odin mat and stairs scenes.`,
+        workedHours: 0,
+        neededHours: 3,
+    },
+    {
+        taskName: `A laughing Buddha statue in Odin stairs scene.`,
+        workedHours: 0,
+        neededHours: 3,
+    },
+    {
+        taskName: `Fur markings on Odin and Opal.`,
+        workedHours: 0,
+        neededHours: 5,
+    },
+    {
+        taskName: `Hand shovel.`,
+        workedHours: 0,
+        neededHours: 2,
+    },
+    {
         taskName: `Backdrops for Uncanny road scenes.`,
         workedHours: 0,
         neededHours: 3,
@@ -100,14 +105,19 @@ export default [
         neededHours: 2,
     },
     {
+        taskName: `Final gravestone. (Move Bennett and Liz to left.)`,
+        workedHours: 0,
+        neededHours: 2,
+    },
+    {
         taskName: `Improve ocean backdrops, make them darker?`,
         workedHours: 0,
         neededHours: 2,
     },
     {
-        taskName: `Fruit colours. Painting, trees, garbage can.`,
+        taskName: `Remove depth shading from slant direction cubes?`,
         workedHours: 0,
-        neededHours: 2,
+        neededHours: 3,
     },
     {
         taskName: `Ground colours. (Earth.)`,
@@ -120,19 +130,14 @@ export default [
         neededHours: 3,
     },
     {
-        taskName: `Remove depth shading from slant direction cubes?`,
-        workedHours: 0,
-        neededHours: 3,
-    },
-    {
-        taskName: `Final gravestone. (Move Bennett and Liz to left.)`,
+        taskName: `Fruit colours. Painting, trees, garbage can.`,
         workedHours: 0,
         neededHours: 2,
     },
     {
-        taskName: `Theatre binoculars.`,
+        taskName: `Recolour posters.`,
         workedHours: 0,
-        neededHours: 3,
+        neededHours: 2,
     },
     {
         taskName: `Should mountain and meadow far and near be reversed?`,
