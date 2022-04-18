@@ -1,5 +1,9 @@
 export default [
     {
+        taskName: `Share buttons work with individual pitch pages.`,
+        workedHours: 4,
+    },
+    {
         taskName: `General Illustrator work.`,
         workedHours: 7,
     },
