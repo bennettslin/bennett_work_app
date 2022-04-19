@@ -5,7 +5,7 @@ export default [
     },
     {
         taskName: `General Illustrator work.`,
-        workedHours: 10,
+        workedHours: 11,
     },
     {
         taskName: `Blood on demonstrators.`,

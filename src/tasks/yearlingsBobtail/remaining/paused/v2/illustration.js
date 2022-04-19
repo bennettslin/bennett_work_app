@@ -10,14 +10,14 @@ export default [
         neededHours: 3,
     },
     {
+        taskName: `Night cubes.`,
+        workedHours: 0,
+        neededHours: 3,
+    },
+    {
         taskName: `Make side wall speaker and monitor at far end, wall speaker at edge of stage, and different angles for stage and crowd scenes.`,
         workedHours: 0,
         neededHours: 4,
-    },
-    {
-        taskName: `Make indoor window for Taiwan mat and stairs, and maybe also outdoor window for iron gate?`,
-        workedHours: 0,
-        neededHours: 3,
     },
     {
         taskName: `Bennett and Sita shelves.`,
@@ -28,6 +28,11 @@ export default [
         taskName: `Bennett books and water glass.`,
         workedHours: 0,
         neededHours: 2,
+    },
+    {
+        taskName: `Make indoor window for Taiwan mat and stairs, and maybe also outdoor window for iron gate?`,
+        workedHours: 0,
+        neededHours: 3,
     },
     {
         taskName: `Sita shrine.`,
