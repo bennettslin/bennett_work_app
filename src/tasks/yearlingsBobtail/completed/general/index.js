@@ -1,11 +1,11 @@
 export default [
     {
         taskName: `Share buttons work with individual pitch pages.`,
-        workedHours: 4,
+        workedHours: 5,
     },
     {
         taskName: `General Illustrator work.`,
-        workedHours: 7,
+        workedHours: 10,
     },
     {
         taskName: `Blood on demonstrators.`,
