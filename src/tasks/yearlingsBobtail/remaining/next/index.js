@@ -2,7 +2,7 @@ export default [
     // Ongoing work.
     {
         taskName: `Darkening logic.`,
-        workedHours: 30,
+        workedHours: 40,
     },
     {
         taskName: `Pareto content.`,
@@ -18,7 +18,7 @@ export default [
     },
     {
         taskName: `Annotation edits.`,
-        workedHours: 146,
+        workedHours: 150,
     },
     {
         taskName: `Fix page routing.`,
