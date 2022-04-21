@@ -11,6 +11,8 @@
 
 ## Bennett
 * solicitingOpinion
+* dateEnding
+    * Head too long
 * dishroomReading
 * gateCode
 * walgreens
@@ -21,6 +23,7 @@
 * celibateFreezing
 * cordSide
 * cordRear
+* horsingAround (pupils messed up)
 * dryingTears
 * blowJob
 * infirm
