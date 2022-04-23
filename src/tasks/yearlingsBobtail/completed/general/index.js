@@ -1,5 +1,9 @@
 export default [
     {
+        taskName: `Darkening logic.`,
+        workedHours: 58,
+    },
+    {
         taskName: `Share buttons work with individual pitch pages.`,
         workedHours: 5,
     },

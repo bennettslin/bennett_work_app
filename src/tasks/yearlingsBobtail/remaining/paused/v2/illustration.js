@@ -1,24 +1,11 @@
 export default [
-    {
-        taskName: `Foliage for seasons.`,
-        workedHours: 0,
-        neededHours: 2,
-    },
-    {
-        taskName: `Darken outdoors for night and twilight.`,
-        workedHours: 0,
-        neededHours: 3,
-    },
-    {
-        taskName: `Night cubes.`,
-        workedHours: 0,
-        neededHours: 3,
-    },
+    // Monday.
     {
         taskName: `Make side wall speaker and monitor at far end, wall speaker at edge of stage, and different angles for stage and crowd scenes.`,
         workedHours: 0,
         neededHours: 4,
     },
+    // Tuesday.
     {
         taskName: `Bennett and Sita shelves.`,
         workedHours: 0,
@@ -29,11 +16,13 @@ export default [
         workedHours: 0,
         neededHours: 2,
     },
+    // Wednesday.
     {
-        taskName: `Make indoor window for Taiwan mat and stairs, and maybe also outdoor window for iron gate?`,
+        taskName: `Club decorations: curtains, tinsel, Christmas lights.`,
         workedHours: 0,
         neededHours: 3,
     },
+    // Thursday.
     {
         taskName: `Sita shrine.`,
         workedHours: 0,
@@ -45,9 +34,14 @@ export default [
         neededHours: 2,
     },
     {
-        taskName: `Club decorations: curtains, tinsel, Christmas lights.`,
+        taskName: `Make indoor window for Taiwan mat and stairs, and maybe also outdoor window for iron gate?`,
         workedHours: 0,
         neededHours: 3,
+    },
+    {
+        taskName: `Make bathroom scene a scrapbook photo? Add extra bathroom scene with Anita that isn't past? Make Anita wear past colours?`,
+        workedHours: 0,
+        neededHours: 5,
     },
     {
         taskName: `Lamp lighting logic. Includes new club presences. Include marquee lights.`,
@@ -65,14 +59,24 @@ export default [
         neededHours: 2,
     },
     {
-        taskName: `Space scenes.`,
+        taskName: `Space backgrounds.`,
         workedHours: 0,
-        neededHours: 2,
+        neededHours: 4,
+    },
+    {
+        taskName: `Ocean backgrounds. Bubbles and such?`,
+        workedHours: 0,
+        neededHours: 4,
     },
     {
         taskName: `Clouds.`,
         workedHours: 0,
-        neededHours: 3,
+        neededHours: 8,
+    },
+    {
+        taskName: `Configure ocean cubes for buoy scene.`,
+        workedHours: 0,
+        neededHours: 4,
     },
     {
         taskName: `Buddha painting in Odin mat and stairs scenes.`,
@@ -115,11 +119,6 @@ export default [
         neededHours: 2,
     },
     {
-        taskName: `Improve ocean backdrops, make them darker?`,
-        workedHours: 0,
-        neededHours: 2,
-    },
-    {
         taskName: `Remove depth shading from slant direction cubes?`,
         workedHours: 0,
         neededHours: 3,
@@ -148,5 +147,10 @@ export default [
         taskName: `Should mountain and meadow far and near be reversed?`,
         workedHours: 0,
         neededHours: 2,
+    },
+    {
+        taskName: `Remove extraneous shared styles: ocean life, houses and buildings, doors, roofs, Liz gate, cars, Royce Hall, St Joseph's, Evian bottle`,
+        workedHours: 0,
+        neededHours: 8,
     },
 ]
