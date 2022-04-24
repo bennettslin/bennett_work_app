@@ -64,6 +64,16 @@ export default [
         neededHours: 4,
     },
     {
+        taskName: `Comic book squares.`,
+        workedHours: 0,
+        neededHours: 2,
+    },
+    {
+        taskName: `Beer bottle in Willy fight scene.`,
+        workedHours: 0,
+        neededHours: 1,
+    },
+    {
         taskName: `Ocean backgrounds. Bubbles and such?`,
         workedHours: 0,
         neededHours: 4,

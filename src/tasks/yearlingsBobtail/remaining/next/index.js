@@ -14,12 +14,12 @@ export default [
     },
     {
         taskName: `Annotation edits.`,
-        workedHours: 162,
+        workedHours: 165,
     },
     {
-        taskName: `Fix page routing.`,
-        workedHours: 8,
-        neededHours: 20,
+        taskName: `Remaining pitch work.`,
+        workedHours: 0,
+        neededHours: 5,
     },
 
     // Nice to have.

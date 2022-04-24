@@ -1,5 +1,9 @@
 export default [
     {
+        taskName: `Fix page routing.`,
+        workedHours: 20,
+    },
+    {
         taskName: `Darkening logic.`,
         workedHours: 58,
     },
@@ -9,7 +13,7 @@ export default [
     },
     {
         taskName: `General Illustrator work.`,
-        workedHours: 11,
+        workedHours: 12,
     },
     {
         taskName: `Blood on demonstrators.`,
