@@ -14,11 +14,11 @@ export default [
     },
     {
         taskName: `Annotation edits.`,
-        workedHours: 165,
+        workedHours: 173,
     },
     {
         taskName: `Remaining pitch work.`,
-        workedHours: 0,
+        workedHours: 4,
         neededHours: 5,
     },
 
