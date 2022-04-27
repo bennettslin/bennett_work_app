@@ -1,4 +1,14 @@
 export default [
+    {
+        taskName: `Beer bottle in Willy fight scene.`,
+        workedHours: 0,
+        neededHours: 1,
+    },
+    {
+        taskName: `Comic book squares.`,
+        workedHours: 0,
+        neededHours: 2,
+    },
     // Monday.
     {
         taskName: `Make side wall speaker and monitor at far end, wall speaker at edge of stage, and different angles for stage and crowd scenes.`,
@@ -62,16 +72,6 @@ export default [
         taskName: `Space backgrounds.`,
         workedHours: 0,
         neededHours: 4,
-    },
-    {
-        taskName: `Comic book squares.`,
-        workedHours: 0,
-        neededHours: 2,
-    },
-    {
-        taskName: `Beer bottle in Willy fight scene.`,
-        workedHours: 0,
-        neededHours: 1,
     },
     {
         taskName: `Ocean backgrounds. Bubbles and such?`,
@@ -145,11 +145,6 @@ export default [
     },
     {
         taskName: `Fruit colours. Painting, trees, garbage can.`,
-        workedHours: 0,
-        neededHours: 2,
-    },
-    {
-        taskName: `Recolour posters.`,
         workedHours: 0,
         neededHours: 2,
     },

@@ -6,7 +6,7 @@ export default [
     },
     {
         taskName: `Shared styles work.`,
-        workedHours: 52,
+        workedHours: 53,
     },
     {
         taskName: `Face fixes.`,
@@ -14,7 +14,7 @@ export default [
     },
     {
         taskName: `Annotation edits.`,
-        workedHours: 181,
+        workedHours: 191,
     },
     {
         taskName: `Remaining pitch work.`,
