@@ -1,14 +1,4 @@
 export default [
-    {
-        taskName: `Beer bottle in Willy fight scene.`,
-        workedHours: 0,
-        neededHours: 1,
-    },
-    {
-        taskName: `Comic book squares.`,
-        workedHours: 0,
-        neededHours: 2,
-    },
     // Monday.
     {
         taskName: `Make side wall speaker and monitor at far end, wall speaker at edge of stage, and different angles for stage and crowd scenes.`,
