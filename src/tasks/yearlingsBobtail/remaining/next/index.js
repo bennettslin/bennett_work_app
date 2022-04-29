@@ -9,16 +9,16 @@ export default [
         workedHours: 53,
     },
     {
+        taskName: `General Illustrator work.`,
+        workedHours: 16,
+    },
+    {
         taskName: `Face fixes.`,
         workedHours: 22,
     },
     {
         taskName: `Annotation edits.`,
-        workedHours: 205,
-    },
-    {
-        taskName: `Remaining pitch work.`,
-        workedHours: 6,
+        workedHours: 213,
     },
 
     // Nice to have.

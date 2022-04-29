@@ -1,38 +1,50 @@
 export default [
     // Monday.
     {
-        taskName: `Make side wall speaker and monitor at far end, wall speaker at edge of stage, and different angles for stage and crowd scenes.`,
+        taskName: `New monitor and wall speaker side cutouts. Adjust mic to be at yIndex 4?`,
         workedHours: 0,
         neededHours: 4,
     },
     // Tuesday.
     {
-        taskName: `Bennett and Sita shelves.`,
+        taskName: `Club decoration cutouts: curtains, flood lights, Christmas lights. Presences already added.`,
         workedHours: 0,
-        neededHours: 2,
-    },
-    {
-        taskName: `Bennett books and water glass.`,
-        workedHours: 0,
-        neededHours: 2,
+        neededHours: 3,
     },
     // Wednesday.
     {
-        taskName: `Club decorations: curtains, tinsel, Christmas lights.`,
-        workedHours: 0,
-        neededHours: 3,
-    },
-    // Thursday.
-    {
-        taskName: `Sita shrine.`,
-        workedHours: 0,
-        neededHours: 3,
-    },
-    {
-        taskName: `Storm drain.`,
+        taskName: `Couch shelf panel. Presence already added.`,
         workedHours: 0,
         neededHours: 2,
     },
+    {
+        taskName: `Hospital bed interior panel. Presence already added.`,
+        workedHours: 0,
+        neededHours: 2,
+    },
+    {
+        taskName: `Bennett books and water glass. Presences already added.`,
+        workedHours: 0,
+        neededHours: 2,
+    },
+    // Thursday.
+    {
+        taskName: `Sita shrine. Presence already added.`,
+        workedHours: 0,
+        neededHours: 3,
+    },
+    // Friday.
+    {
+        taskName: `Chinese paintings in Odin mat and stairs scenes. Presences already added.`,
+        workedHours: 0,
+        neededHours: 3,
+    },
+    {
+        taskName: `A laughing Buddha statue in Odin stairs scene. Presence already added.`,
+        workedHours: 0,
+        neededHours: 3,
+    },
+    // Saturday.
     {
         taskName: `Make indoor window for Taiwan mat and stairs, and maybe also outdoor window for iron gate?`,
         workedHours: 0,
@@ -44,19 +56,24 @@ export default [
         neededHours: 5,
     },
     {
+        taskName: `Make backstage literal inverse of stage?`,
+        workedHours: 0,
+        neededHours: 8,
+    },
+    {
         taskName: `Lamp lighting logic. Includes new club presences. Include marquee lights.`,
         workedHours: 0,
         neededHours: 3,
     },
     {
-        taskName: `Warp bubbles.`,
+        taskName: `Aurora borealis.`,
         workedHours: 0,
         neededHours: 2,
     },
     {
-        taskName: `Aurora borealis.`,
+        taskName: `Clouds.`,
         workedHours: 0,
-        neededHours: 2,
+        neededHours: 8,
     },
     {
         taskName: `Space backgrounds.`,
@@ -69,24 +86,9 @@ export default [
         neededHours: 4,
     },
     {
-        taskName: `Clouds.`,
-        workedHours: 0,
-        neededHours: 8,
-    },
-    {
         taskName: `Configure ocean cubes for buoy scene.`,
         workedHours: 0,
         neededHours: 4,
-    },
-    {
-        taskName: `Buddha painting in Odin mat and stairs scenes.`,
-        workedHours: 0,
-        neededHours: 3,
-    },
-    {
-        taskName: `A laughing Buddha statue in Odin stairs scene.`,
-        workedHours: 0,
-        neededHours: 3,
     },
     {
         taskName: `Fur markings on Odin and Opal.`,
@@ -94,7 +96,17 @@ export default [
         neededHours: 5,
     },
     {
+        taskName: `Storm drain.`,
+        workedHours: 0,
+        neededHours: 2,
+    },
+    {
         taskName: `Hand shovel.`,
+        workedHours: 0,
+        neededHours: 2,
+    },
+    {
+        taskName: `Warp bubbles.`,
         workedHours: 0,
         neededHours: 2,
     },

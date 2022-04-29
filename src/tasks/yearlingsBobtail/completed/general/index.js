@@ -1,5 +1,9 @@
 export default [
     {
+        taskName: `Remaining pitch work.`,
+        workedHours: 6,
+    },
+    {
         taskName: `Fix page routing.`,
         workedHours: 20,
     },
@@ -10,10 +14,6 @@ export default [
     {
         taskName: `Share buttons work with individual pitch pages.`,
         workedHours: 5,
-    },
-    {
-        taskName: `General Illustrator work.`,
-        workedHours: 12,
     },
     {
         taskName: `Blood on demonstrators.`,
