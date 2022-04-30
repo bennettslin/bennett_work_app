@@ -1,5 +1,9 @@
 export default [
     {
+        taskName: `Annotation edits.`,
+        workedHours: 225,
+    },
+    {
         taskName: `Remaining pitch work.`,
         workedHours: 6,
     },

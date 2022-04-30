@@ -6,7 +6,7 @@ export default [
     },
     {
         taskName: `Shared styles work.`,
-        workedHours: 53,
+        workedHours: 55,
     },
     {
         taskName: `General Illustrator work.`,
@@ -17,8 +17,9 @@ export default [
         workedHours: 22,
     },
     {
-        taskName: `Annotation edits.`,
-        workedHours: 213,
+        taskName: `Tip jar.`,
+        workedHours: 0,
+        neededHours: 40,
     },
 
     // Monday.
