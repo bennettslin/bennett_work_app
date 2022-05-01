@@ -6,7 +6,7 @@ export default [
     },
     {
         taskName: `General Illustrator work.`,
-        workedHours: 18,
+        workedHours: 19,
     },
     {
         taskName: `Face fixes.`,
@@ -18,6 +18,12 @@ export default [
         neededHours: 40,
     },
 
+    // Sunday.
+    {
+        taskName: `Hospital bed interior panel. Presence already added.`,
+        workedHours: 0,
+        neededHours: 2,
+    },
     // Monday.
     {
         taskName: `New monitor and wall speaker side cutouts. Adjust mic to be at yIndex 4?`,
@@ -33,11 +39,6 @@ export default [
     // Wednesday.
     {
         taskName: `Couch shelf panel. Presence already added.`,
-        workedHours: 0,
-        neededHours: 2,
-    },
-    {
-        taskName: `Hospital bed interior panel. Presence already added.`,
         workedHours: 0,
         neededHours: 2,
     },

@@ -95,9 +95,9 @@ export default [
         neededHours: 2,
     },
     {
-        taskName: `Brick and clay materials`,
+        taskName: `Clay materials,`,
         workedHours: 0,
-        neededHours: 3,
+        neededHours: 2,
     },
     {
         taskName: `Fruit colours. Painting, trees, garbage can.`,
