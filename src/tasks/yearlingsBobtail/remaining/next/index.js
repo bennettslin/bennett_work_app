@@ -1,16 +1,12 @@
 export default [
     // Ongoing work.
     {
-        taskName: `Pareto content.`,
-        workedHours: 110,
-    },
-    {
         taskName: `Shared styles work.`,
         workedHours: 55,
     },
     {
         taskName: `General Illustrator work.`,
-        workedHours: 16,
+        workedHours: 18,
     },
     {
         taskName: `Face fixes.`,
@@ -66,6 +62,16 @@ export default [
         taskName: `A laughing Buddha statue in Odin stairs scene. Presence already added.`,
         workedHours: 0,
         neededHours: 3,
+    },
+    {
+        taskName: `Owl in Eve lyrics.`,
+        workedHours: 0,
+        neededHours: 2,
+    },
+    {
+        taskName: `Confirm Rosalind links.`,
+        workedHours: 0,
+        neededHours: 1,
     },
 
     // Nice to have.

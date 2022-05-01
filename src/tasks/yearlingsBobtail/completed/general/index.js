@@ -1,5 +1,9 @@
 export default [
     {
+        taskName: `Pareto content.`,
+        workedHours: 116,
+    },
+    {
         taskName: `Annotation edits.`,
         workedHours: 225,
     },
