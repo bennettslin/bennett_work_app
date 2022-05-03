@@ -1,10 +1,5 @@
 export default [
     {
-        taskName: `Make indoor window for Taiwan mat and stairs, and maybe also outdoor window for iron gate?`,
-        workedHours: 0,
-        neededHours: 3,
-    },
-    {
         taskName: `Make bathroom scene a scrapbook photo? Add extra bathroom scene with Anita that isn't past? Make Anita wear past colours?`,
         workedHours: 0,
         neededHours: 5,
@@ -51,11 +46,6 @@ export default [
     },
     {
         taskName: `Storm drain.`,
-        workedHours: 0,
-        neededHours: 2,
-    },
-    {
-        taskName: `Hand shovel.`,
         workedHours: 0,
         neededHours: 2,
     },

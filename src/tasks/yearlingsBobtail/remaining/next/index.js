@@ -18,33 +18,38 @@ export default [
         neededHours: 40,
     },
 
-    // Sunday.
     {
-        taskName: `Hospital bed interior panel. Presence already added.`,
-        workedHours: 0,
+        taskName: `Hand shovel.`,
+        workedHours: 1,
         neededHours: 2,
     },
-    // Monday.
     {
-        taskName: `New monitor and wall speaker side cutouts. Adjust mic to be at yIndex 4?`,
+        taskName: `Taiwan window and side. Presences already added.`,
         workedHours: 0,
         neededHours: 3,
     },
-    // Tuesday.
     {
-        taskName: `Club decoration cutouts: curtains, flood lights, Christmas lights. Presences already added.`,
+        taskName: `Taiwan door. Presence already added.`,
         workedHours: 0,
-        neededHours: 4,
+        neededHours: 1,
     },
-    // Wednesday.
     {
-        taskName: `Couch shelf panel. Presence already added.`,
+        taskName: `Taiwan circle window.`,
         workedHours: 0,
         neededHours: 2,
     },
-    // Thursday.
     {
-        taskName: `Bennett books and water glass. Presences already added.`,
+        taskName: `A laughing Buddha statue in Odin stairs scene. Presence already added.`,
+        workedHours: 1,
+        neededHours: 3,
+    },
+    {
+        taskName: `Chinese paintings in Odin mat and stairs scenes. Presences already added.`,
+        workedHours: 0,
+        neededHours: 3,
+    },
+    {
+        taskName: `Bennett books. Presences already added.`,
         workedHours: 0,
         neededHours: 2,
     },
@@ -53,16 +58,16 @@ export default [
         workedHours: 0,
         neededHours: 3,
     },
-    // Friday.
+
     {
-        taskName: `Chinese paintings in Odin mat and stairs scenes. Presences already added.`,
+        taskName: `New monitor and wall speaker side cutouts. Adjust mic to be at yIndex 4?`,
         workedHours: 0,
         neededHours: 3,
     },
     {
-        taskName: `A laughing Buddha statue in Odin stairs scene. Presence already added.`,
+        taskName: `Club decoration cutouts: curtains, flood lights, Christmas lights. Presences already added.`,
         workedHours: 0,
-        neededHours: 3,
+        neededHours: 4,
     },
     {
         taskName: `Owl in Eve lyrics.`,

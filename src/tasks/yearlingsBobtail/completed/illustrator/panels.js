@@ -1,5 +1,9 @@
 export default [
     {
+        taskName: `Hospital bed interior.`,
+        workedHours: 1,
+    },
+    {
         taskName: `Constellation shadows.`,
         workedHours: 6,
     },
