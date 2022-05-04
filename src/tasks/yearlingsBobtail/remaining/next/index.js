@@ -6,7 +6,7 @@ export default [
     },
     {
         taskName: `General Illustrator work.`,
-        workedHours: 19,
+        workedHours: 20,
     },
     {
         taskName: `Face fixes.`,
@@ -18,11 +18,7 @@ export default [
         neededHours: 40,
     },
 
-    {
-        taskName: `Hand shovel.`,
-        workedHours: 1,
-        neededHours: 2,
-    },
+    // TODO: Next.
     {
         taskName: `Taiwan window and side. Presences already added.`,
         workedHours: 0,
@@ -39,13 +35,13 @@ export default [
         neededHours: 2,
     },
     {
-        taskName: `A laughing Buddha statue in Odin stairs scene. Presence already added.`,
+        taskName: `Hand shovel.`,
         workedHours: 1,
-        neededHours: 3,
+        neededHours: 2,
     },
     {
-        taskName: `Chinese paintings in Odin mat and stairs scenes. Presences already added.`,
-        workedHours: 0,
+        taskName: `A laughing Buddha statue in Odin stairs scene. Presence already added.`,
+        workedHours: 1,
         neededHours: 3,
     },
     {
@@ -55,13 +51,7 @@ export default [
     },
     {
         taskName: `Sita shrine. Presence already added.`,
-        workedHours: 0,
-        neededHours: 3,
-    },
-
-    {
-        taskName: `New monitor and wall speaker side cutouts. Adjust mic to be at yIndex 4?`,
-        workedHours: 0,
+        workedHours: 1,
         neededHours: 3,
     },
     {
@@ -70,14 +60,19 @@ export default [
         neededHours: 4,
     },
     {
+        taskName: `Chinese paintings in Odin mat and stairs scenes. Presences already added.`,
+        workedHours: 0,
+        neededHours: 3,
+    },
+    {
+        taskName: `New monitor and wall speaker side cutouts. Adjust mic to be at yIndex 4?`,
+        workedHours: 0,
+        neededHours: 3,
+    },
+    {
         taskName: `Owl in Eve lyrics.`,
         workedHours: 0,
         neededHours: 2,
-    },
-    {
-        taskName: `Confirm Rosalind links.`,
-        workedHours: 0,
-        neededHours: 1,
     },
 
     // Nice to have.
