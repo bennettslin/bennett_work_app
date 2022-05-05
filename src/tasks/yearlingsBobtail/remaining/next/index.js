@@ -20,6 +20,21 @@ export default [
 
     // TODO: Next.
     {
+        taskName: `Hand shovel.`,
+        workedHours: 1,
+        neededHours: 2,
+    },
+    {
+        taskName: `Sita shrine. Presence already added.`,
+        workedHours: 1,
+        neededHours: 3,
+    },
+    {
+        taskName: `New monitor and wall speaker side cutouts. Adjust mic to be at yIndex 4?`,
+        workedHours: 0,
+        neededHours: 2,
+    },
+    {
         taskName: `Taiwan window and side. Presences already added.`,
         workedHours: 0,
         neededHours: 3,
@@ -35,24 +50,9 @@ export default [
         neededHours: 2,
     },
     {
-        taskName: `Hand shovel.`,
-        workedHours: 1,
-        neededHours: 2,
-    },
-    {
-        taskName: `A laughing Buddha statue in Odin stairs scene. Presence already added.`,
-        workedHours: 1,
-        neededHours: 3,
-    },
-    {
         taskName: `Bennett books. Presences already added.`,
         workedHours: 0,
         neededHours: 2,
-    },
-    {
-        taskName: `Sita shrine. Presence already added.`,
-        workedHours: 1,
-        neededHours: 3,
     },
     {
         taskName: `Club decoration cutouts: curtains, flood lights, Christmas lights. Presences already added.`,
@@ -61,11 +61,6 @@ export default [
     },
     {
         taskName: `Chinese paintings in Odin mat and stairs scenes. Presences already added.`,
-        workedHours: 0,
-        neededHours: 3,
-    },
-    {
-        taskName: `New monitor and wall speaker side cutouts. Adjust mic to be at yIndex 4?`,
         workedHours: 0,
         neededHours: 3,
     },

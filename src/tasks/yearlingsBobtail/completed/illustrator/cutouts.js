@@ -1,5 +1,9 @@
 export default [
     {
+        taskName: `Buddha statue.`,
+        workedHours: 3,
+    },
+    {
         taskName: 'bushSingleLeft',
         workedHours: 1,
     },

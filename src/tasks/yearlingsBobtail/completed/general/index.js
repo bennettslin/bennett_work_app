@@ -1,9 +1,5 @@
 export default [
     {
-        taskName: `Couch shelf panel and soda cup fixture.`,
-        workedHours: 2,
-    },
-    {
         taskName: `Pareto content.`,
         workedHours: 116,
     },
