@@ -20,11 +20,6 @@ export default [
 
     // TODO: Next.
     {
-        taskName: `Sita shrine. Presence already added.`,
-        workedHours: 1,
-        neededHours: 3,
-    },
-    {
         taskName: `Taiwan window and side.`,
         workedHours: 0,
         neededHours: 3,
