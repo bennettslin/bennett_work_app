@@ -20,34 +20,24 @@ export default [
 
     // TODO: Next.
     {
-        taskName: `Hand shovel.`,
-        workedHours: 1,
-        neededHours: 2,
-    },
-    {
         taskName: `Sita shrine. Presence already added.`,
         workedHours: 1,
         neededHours: 3,
     },
     {
-        taskName: `New monitor and wall speaker side cutouts. Adjust mic to be at yIndex 4?`,
-        workedHours: 0,
-        neededHours: 2,
-    },
-    {
-        taskName: `Taiwan window and side. Presences already added.`,
+        taskName: `Taiwan window and side.`,
         workedHours: 0,
         neededHours: 3,
-    },
-    {
-        taskName: `Taiwan door. Presence already added.`,
-        workedHours: 0,
-        neededHours: 1,
     },
     {
         taskName: `Taiwan circle window.`,
         workedHours: 0,
         neededHours: 2,
+    },
+    {
+        taskName: `Taiwan door.`,
+        workedHours: 0,
+        neededHours: 1,
     },
     {
         taskName: `Bennett books. Presences already added.`,

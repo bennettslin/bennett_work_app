@@ -1,5 +1,9 @@
 export default [
     {
+        taskName: `New monitor and wall speaker sides. Adjust stage mic.`,
+        workedHours: 3,
+    },
+    {
         taskName: `Buddha statue.`,
         workedHours: 3,
     },
