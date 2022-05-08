@@ -6,7 +6,7 @@ export default [
     },
     {
         taskName: `General Illustrator work.`,
-        workedHours: 21,
+        workedHours: 23,
     },
     {
         taskName: `Face fixes.`,
@@ -40,7 +40,7 @@ export default [
         neededHours: 2,
     },
     {
-        taskName: `Club decoration cutouts: curtains, flood lights, Christmas lights. Presences already added.`,
+        taskName: `Club decoration cutouts: curtains, flood lights, Presences already added.`,
         workedHours: 0,
         neededHours: 4,
     },

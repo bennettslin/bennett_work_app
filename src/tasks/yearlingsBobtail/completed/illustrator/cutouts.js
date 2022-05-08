@@ -1,5 +1,9 @@
 export default [
     {
+        taskName: `Christmas lights.`,
+        workedHours: 2,
+    },
+    {
         taskName: `Sita shrine.`,
         workedHours: 3,
     },
