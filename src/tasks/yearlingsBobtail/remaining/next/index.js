@@ -21,7 +21,7 @@ export default [
     // TODO: Next.
     {
         taskName: `Taiwan window and side.`,
-        workedHours: 0,
+        workedHours: 1,
         neededHours: 3,
     },
     {
