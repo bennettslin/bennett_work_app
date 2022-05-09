@@ -40,14 +40,14 @@ export default [
         neededHours: 2,
     },
     {
-        taskName: `Club decoration cutouts: curtains, flood lights, Presences already added.`,
+        taskName: `Club flood lights.`,
         workedHours: 0,
-        neededHours: 4,
+        neededHours: 2,
     },
     {
         taskName: `Chinese paintings in Odin mat and stairs scenes. Presences already added.`,
         workedHours: 0,
-        neededHours: 3,
+        neededHours: 6,
     },
     {
         taskName: `Owl in Eve lyrics.`,
