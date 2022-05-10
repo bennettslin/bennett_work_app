@@ -3,8 +3,7 @@
 * Bobtail Yearlings
     * Change date format
 * BYCombo
-    * Home
-    * Apply
+    * Demos page
 * Owl in Eve lyrics
 * Scene work
 
