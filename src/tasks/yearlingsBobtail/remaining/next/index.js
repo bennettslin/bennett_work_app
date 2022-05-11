@@ -20,6 +20,21 @@ export default [
 
     // TODO: Next.
     {
+        taskName: `Chinese paintings in Odin mat and stairs scenes. Presences already added.`,
+        workedHours: 2,
+        neededHours: 6,
+    },
+    {
+        taskName: `Club flood lights.`,
+        workedHours: 0,
+        neededHours: 2,
+    },
+    {
+        taskName: `Bennett books. Presences already added.`,
+        workedHours: 0,
+        neededHours: 2,
+    },
+    {
         taskName: `Taiwan window and side.`,
         workedHours: 1,
         neededHours: 3,
@@ -33,21 +48,6 @@ export default [
         taskName: `Taiwan door.`,
         workedHours: 0,
         neededHours: 1,
-    },
-    {
-        taskName: `Bennett books. Presences already added.`,
-        workedHours: 0,
-        neededHours: 2,
-    },
-    {
-        taskName: `Club flood lights.`,
-        workedHours: 0,
-        neededHours: 2,
-    },
-    {
-        taskName: `Chinese paintings in Odin mat and stairs scenes. Presences already added.`,
-        workedHours: 0,
-        neededHours: 6,
     },
     {
         taskName: `Owl in Eve lyrics.`,

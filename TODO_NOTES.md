@@ -7,8 +7,6 @@
 * Owl in Eve lyrics
 * Scene work
 
-* Fix Nataraja
-
 * List things with photos
 * New profile image
     * Begin Dominoes tweets
