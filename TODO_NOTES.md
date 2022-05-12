@@ -2,14 +2,8 @@
 * Answer game manufacturers
 * Bobtail Yearlings
     * Change date format
-* BYCombo
-    * Demos page
 * Owl in Eve lyrics
 * Scene work
-
-* BYCombo revisit
-    * Minorities
-    * Demos
 
 * List things with photos
 * New profile image
