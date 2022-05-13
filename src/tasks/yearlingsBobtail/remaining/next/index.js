@@ -6,7 +6,7 @@ export default [
     },
     {
         taskName: `General Illustrator work.`,
-        workedHours: 23,
+        workedHours: 24,
     },
     {
         taskName: `Face fixes.`,
@@ -20,17 +20,12 @@ export default [
 
     // TODO: Next.
     {
-        taskName: `Chinese paintings in Odin mat and stairs scenes. Presences already added.`,
+        taskName: `Chinese paintings in Odin mat and stairs scenes.`,
         workedHours: 2,
         neededHours: 6,
     },
     {
         taskName: `Club flood lights.`,
-        workedHours: 0,
-        neededHours: 2,
-    },
-    {
-        taskName: `Bennett books. Presences already added.`,
         workedHours: 0,
         neededHours: 2,
     },
