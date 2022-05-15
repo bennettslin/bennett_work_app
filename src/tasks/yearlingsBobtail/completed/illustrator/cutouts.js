@@ -1,5 +1,9 @@
 export default [
     {
+        taskName: `Club flood lights.`,
+        workedHours: 1,
+    },
+    {
         taskName: `Club curtains.`,
         workedHours: 2,
     },

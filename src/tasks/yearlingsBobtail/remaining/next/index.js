@@ -25,11 +25,6 @@ export default [
         neededHours: 6,
     },
     {
-        taskName: `Club flood lights.`,
-        workedHours: 0,
-        neededHours: 2,
-    },
-    {
         taskName: `Taiwan window and side.`,
         workedHours: 1,
         neededHours: 3,
