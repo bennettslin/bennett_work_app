@@ -1,14 +1,23 @@
-# TODO May 14
+# Priorities
+* Health stuff
+* Quit Zillow
+* Do Bobtail Dominoes campaign
+* Monetize Yearling's Bobtail
+* Update BYC to include presenting bands
+    * paradigm change
+* Risk-averse middle essay
+* More scene work
+
+# TODO May 16
+* Eye exam
+* Skin exam
 * Answer game manufacturers
 * Begin tip jar
-* Read Kickstarter book
-* Skin exam
-* Eye exam
-* Contact Jacob
-* Begin Tragedy of the risk-averse middle essay
 
-* Fix BYCombo logo again
-    * Update pngs
+* Read Kickstarter book
+* Puzzle links to latest puzzle
+* Contact Jacob
+
 * List things with photos
 * New profile image
     * Begin Dominoes tweets
