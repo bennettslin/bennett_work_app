@@ -1,19 +1,19 @@
 # Priorities
 * Health stuff
-* Quit Zillow
-* Do Bobtail Dominoes campaign
+    * Eye exam
+    * Skin exam
+    * Quit Zillow
+* Bobtail Dominoes campaign
+    * Answer game manufacturers
+* Yearlings Bobtail campaign
+    * Risk-averse middle essay
 * Monetize Yearling's Bobtail
+    * Begin tip jar
 * Update BYC to include presenting bands
     * paradigm change
-* Risk-averse middle essay
-* More scene work
+* More Yearling's Bobtail scene work
 
 # TODO May 16
-* Eye exam
-* Skin exam
-* Answer game manufacturers
-* Begin tip jar
-
 * Read Kickstarter book
 * Puzzle links to latest puzzle
 * Contact Jacob

@@ -6,7 +6,7 @@ export default [
     },
     {
         taskName: `General Illustrator work.`,
-        workedHours: 24,
+        workedHours: 25,
     },
     {
         taskName: `Face fixes.`,
@@ -38,11 +38,6 @@ export default [
         taskName: `Taiwan door.`,
         workedHours: 0,
         neededHours: 1,
-    },
-    {
-        taskName: `Owl in Eve lyrics.`,
-        workedHours: 0,
-        neededHours: 2,
     },
 
     // Nice to have.
