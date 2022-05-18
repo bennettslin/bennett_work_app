@@ -1,6 +1,5 @@
 # Priorities
 * Health stuff
-    * Eye exam
     * Skin exam
     * Quit Zillow
 * Bobtail Dominoes campaign
@@ -12,11 +11,13 @@
 * Update BYC to include presenting bands
     * paradigm change
 * More Yearling's Bobtail scene work
+* Resume guy
 
 # TODO May 16
 * Read Kickstarter book
 * Puzzle links to latest puzzle
 * Contact Jacob
+* Travel thing
 
 * List things with photos
 * New profile image
