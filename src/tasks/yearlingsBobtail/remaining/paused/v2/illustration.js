@@ -1,10 +1,5 @@
 export default [
     {
-        taskName: `Make bathroom scene a scrapbook photo? Add extra bathroom scene with Anita that isn't past? Make Anita wear past colours?`,
-        workedHours: 0,
-        neededHours: 5,
-    },
-    {
         taskName: `Make backstage literal inverse of stage?`,
         workedHours: 0,
         neededHours: 8,
@@ -46,11 +41,6 @@ export default [
     },
     {
         taskName: `Storm drain.`,
-        workedHours: 0,
-        neededHours: 2,
-    },
-    {
-        taskName: `Warp bubbles.`,
         workedHours: 0,
         neededHours: 2,
     },

@@ -1,5 +1,5 @@
 export default [
-    // Ongoing work.
+    // Ongoing work for logging.
     {
         taskName: `Shared styles work.`,
         workedHours: 55,
@@ -38,6 +38,21 @@ export default [
         taskName: `Taiwan door.`,
         workedHours: 0,
         neededHours: 1,
+    },
+    {
+        taskName: `Warp bubbles.`,
+        workedHours: 0,
+        neededHours: 5,
+    },
+    {
+        taskName: `Make bathroom scene a scrapbook photo? Add extra bathroom scene with Anita that isn't past? Make Anita wear past colours?`,
+        workedHours: 0,
+        neededHours: 5,
+    },
+    {
+        taskName: `Revise Odin scenes to use wormholes.`,
+        workedHours: 0,
+        neededHours: 40,
     },
 
     // Nice to have.
