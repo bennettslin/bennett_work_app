@@ -1,6 +1,6 @@
 export default [
     {
         taskName: `New content.`,
-        workedHours: 226,
+        workedHours: 232,
     },
 ]
