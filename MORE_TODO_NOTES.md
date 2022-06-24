@@ -1,11 +1,8 @@
 # TODO today
-* First thing
-    * Write to game manufacturer
-* Transfer from Schwab to Capital One
-    * Look into Vanguard to Schwab transfer thing
+* Deal with Vanguard to Schwab thing
+* Research COBRA
 * Exercise
-
-* Pick up Zoka records
+* Some June work
 
 # FIXME
 * BYCombo UI
@@ -24,14 +21,13 @@
 * Some fixes
 
 # TODO
-* Write to game manufacturer
-* Research health insurance
-    * COBRA will mail info
 * Do rectal exam
 * Switch Instagram accounts
 * Wait on the tax thing
+* Confirm energy, rent, SoCalEdison, SoCalGas withdraw from Capital One
 
 * Car
+* Mom car
 * Contacts
 * Accountant
 * New apartment
