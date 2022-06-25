@@ -3,6 +3,7 @@
 * Research COBRA
 * Exercise
 * Some June work
+* Look at taxes
 
 # FIXME
 * BYCombo UI
