@@ -1,9 +1,9 @@
 # TODO today
 * Deal with Vanguard to Schwab thing
 * Research COBRA
-* Exercise
-* Some June work
 * Look at taxes
+* Some June work on YB
+* Exercise
 
 # FIXME
 * BYCombo UI
@@ -18,8 +18,8 @@
 * Lotus flowers
 * Position posters
 * Adjust prop colours in preparation
-* Finish BYCombo text
 * Some fixes
+* Finish BYCombo text
 
 # TODO
 * Do rectal exam
