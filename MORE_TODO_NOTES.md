@@ -1,8 +1,7 @@
 # TODO today
-* Deal with Vanguard to Schwab thing
-* Research COBRA
-* Look at taxes
-* Some June work on YB
+* Financial meeting
+* Patent social media
+* More June work
 * Exercise
 
 # FIXME
@@ -11,21 +10,22 @@
 * All websites share same footer
     * Footer
 * YB doesn't redirect from root?
-* Anti-indie counterculture
-* Make/create
 
 # June
-* Lotus flowers
-* Position posters
 * Adjust prop colours in preparation
+* Chinese poster backgrounds
+    * Lotus flowers
+    * Mountains
+* Cafeteria hat
 * Some fixes
 * Finish BYCombo text
 
 # TODO
+* Look into government health insurance
 * Do rectal exam
 * Switch Instagram accounts
 * Wait on the tax thing
-* Confirm energy, rent, SoCalEdison, SoCalGas withdraw from Capital One
+* Confirm energy, SoCalGas withdraw from Capital One
 
 * Car
 * Mom car
