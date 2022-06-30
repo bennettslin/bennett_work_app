@@ -1,7 +1,6 @@
 # TODO today
-* Financial meeting
-* Patent social media
 * More June work
+* Contacts
 * Exercise
 
 # FIXME
@@ -12,7 +11,8 @@
 * YB doesn't redirect from root?
 
 # June
-* Adjust prop colours in preparation
+* Add presences
+    * Adjust prop colours in preparation
 * Chinese poster backgrounds
     * Lotus flowers
     * Mountains
