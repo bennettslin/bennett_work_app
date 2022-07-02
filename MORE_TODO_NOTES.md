@@ -1,7 +1,13 @@
 # TODO today
-* More June work
-* Contacts
+* Finish Chinese paintings
+    * Darken colours
+* Add presences
+    * Adjust prop colours in preparation
+    * Check which darkened colours aren't needed
+* Follow up with contacts
 * Exercise
+* Mom car
+* Review bug thing
 
 # FIXME
 * BYCombo UI
@@ -13,12 +19,11 @@
 # June
 * Add presences
     * Adjust prop colours in preparation
-* Chinese poster backgrounds
-    * Lotus flowers
-    * Mountains
 * Cafeteria hat
 * Some fixes
 * Finish BYCombo text
+    * Martyrdom
+    * A hundred Yearling's Bobtails
 
 # TODO
 * Look into government health insurance
@@ -26,17 +31,16 @@
 * Switch Instagram accounts
 * Wait on the tax thing
 * Confirm energy, SoCalGas withdraw from Capital One
+* BY mission
+    * Ongoing section
 
 * Car
-* Mom car
 * Contacts
 * Accountant
 * New apartment
 * DMV real ID
 
 # Projects
-* BY mission
-    * Ongoing section
 * YB stuff
 
 * Begin work on BY Combo

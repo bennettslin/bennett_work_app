@@ -21,8 +21,8 @@ export default [
     // TODO: Next.
     {
         taskName: `Chinese paintings in Odin mat and stairs scenes.`,
-        workedHours: 5,
-        neededHours: 7,
+        workedHours: 7,
+        neededHours: 9,
     },
     {
         taskName: `Taiwan window and side.`,
