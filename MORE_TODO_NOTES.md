@@ -1,13 +1,10 @@
 # TODO today
-* Finish Chinese paintings
-    * Darken colours
-* Add presences
-    * Adjust prop colours in preparation
-    * Check which darkened colours aren't needed
+* Remove fridge drawing colours from darkened
+* Add Odin bubble presences
 * Follow up with contacts
 * Exercise
 * Mom car
-* Review bug thing
+* Tax thing
 
 # FIXME
 * BYCombo UI
@@ -15,22 +12,30 @@
 * All websites share same footer
     * Footer
 * YB doesn't redirect from root?
+* Dots in lyrics sometimes stick out too much?
 
-# June
-* Add presences
+# July
+* Odin things
+    * Add presences
     * Adjust prop colours in preparation
 * Cafeteria hat
-* Some fixes
+* Didi past ending
+* Taiwan round window
+* Taiwan door
+* Face fixes
+* YB fixes
 * Finish BYCombo text
+    * Counterculture
     * Martyrdom
     * A hundred Yearling's Bobtails
 
 # TODO
-* Look into government health insurance
+* Wait on bug thing review
+* Look into health insurance
 * Do rectal exam
 * Switch Instagram accounts
 * Wait on the tax thing
-* Confirm energy, SoCalGas withdraw from Capital One
+* Confirm Yes energy withdraw from Capital One
 * BY mission
     * Ongoing section
 

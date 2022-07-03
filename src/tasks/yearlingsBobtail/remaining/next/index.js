@@ -20,22 +20,17 @@ export default [
 
     // TODO: Next.
     {
-        taskName: `Chinese paintings in Odin mat and stairs scenes.`,
-        workedHours: 7,
-        neededHours: 9,
-    },
-    {
-        taskName: `Taiwan window and side.`,
-        workedHours: 1,
-        neededHours: 3,
-    },
-    {
-        taskName: `Taiwan circle window.`,
+        taskName: `Taiwan circle window. Also warp Taiwan window?.`,
         workedHours: 0,
         neededHours: 2,
     },
     {
         taskName: `Taiwan door.`,
+        workedHours: 0,
+        neededHours: 1,
+    },
+    {
+        taskName: `Cafeteria hat.`,
         workedHours: 0,
         neededHours: 1,
     },

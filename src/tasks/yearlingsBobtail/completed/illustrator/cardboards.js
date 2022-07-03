@@ -1,5 +1,9 @@
 export default [
     {
+        taskName: `Chinese paintings in Odin mat and stairs scenes.`,
+        workedHours: 9,
+    },
+    {
         taskName: 'bennettTaiwanStairs',
         workedHours: 1,
     },

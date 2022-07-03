@@ -1,7 +1,6 @@
 # Priorities
 * Health stuff
     * Skin exam
-    * Quit Zillow
 * Bobtail Dominoes campaign
     * Answer game manufacturers
 * Yearlings Bobtail campaign
