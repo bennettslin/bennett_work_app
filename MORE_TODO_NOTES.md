@@ -1,18 +1,10 @@
 # TODO today
+* Follow up with contacts
+* Tax thing
+* Do YB work all day
 * Remove fridge drawing colours from darkened
 * Add Odin bubble presences
-* Follow up with contacts
 * Exercise
-* Mom car
-* Tax thing
-
-# FIXME
-* BYCombo UI
-    * Menu buttons shift?
-* All websites share same footer
-    * Footer
-* YB doesn't redirect from root?
-* Dots in lyrics sometimes stick out too much?
 
 # July
 * Odin things
@@ -22,12 +14,18 @@
 * Didi past ending
 * Taiwan round window
 * Taiwan door
+* Warp Taiwan window
 * Face fixes
 * YB fixes
+    * YB doesn't redirect from root?
+    * Dots in lyrics sometimes stick out too much?
+* BYCombo fixes
+    * Menu buttons shift?
 * Finish BYCombo text
-    * Counterculture
     * Martyrdom
     * A hundred Yearling's Bobtails
+* Finish Bobtail Yearlings mission
+* All websites share same footer
 
 # TODO
 * Wait on bug thing review

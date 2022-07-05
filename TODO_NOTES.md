@@ -7,10 +7,7 @@
     * Risk-averse middle essay
 * Monetize Yearling's Bobtail
     * Begin tip jar
-* Update BYC to include presenting bands
-    * paradigm change
 * More Yearling's Bobtail scene work
-* Resume guy
 
 # TODO May 16
 * Read Kickstarter book
