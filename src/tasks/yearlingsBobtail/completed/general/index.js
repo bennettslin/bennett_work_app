@@ -1,5 +1,9 @@
 export default [
     {
+        taskName: `General bugs.`,
+        workedHours: 2,
+    },
+    {
         taskName: `Pareto content.`,
         workedHours: 116,
     },

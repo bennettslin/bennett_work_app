@@ -1,10 +1,14 @@
 # TODO today
-* Follow up with contacts
-* Tax thing
 * Do YB work all day
 * Remove fridge drawing colours from darkened
 * Add Odin bubble presences
 * Exercise
+
+# TODO tomorrow
+* Follow up with contacts
+* Follow up with taxes
+* Mom's car
+* Scan bear
 
 # July
 * Odin things
@@ -16,9 +20,6 @@
 * Taiwan door
 * Warp Taiwan window
 * Face fixes
-* YB fixes
-    * YB doesn't redirect from root?
-    * Dots in lyrics sometimes stick out too much?
 * BYCombo fixes
     * Menu buttons shift?
 * Finish BYCombo text
@@ -28,12 +29,11 @@
 * All websites share same footer
 
 # TODO
-* Wait on bug thing review
+* Wait on bug thing gift card
 * Look into health insurance
 * Do rectal exam
 * Switch Instagram accounts
 * Wait on the tax thing
-* Confirm Yes energy withdraw from Capital One
 * BY mission
     * Ongoing section
 
