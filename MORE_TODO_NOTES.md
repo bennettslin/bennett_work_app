@@ -1,14 +1,16 @@
 # TODO today
+* Follow up with taxes
+* Follow up with contacts
 * Post about Google patent
-* Do YB work all day
+* Trace bear
+* Cafeteria hat
 * Remove fridge drawing colours from darkened
 * Add Odin bubble presences
 * Exercise
 
 # TODO tomorrow
-* Follow up with contacts
-* Follow up with taxes
-* Scan bear
+* Illustrator
+* Huel
 
 # July
 * Odin things
