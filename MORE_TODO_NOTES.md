@@ -1,4 +1,5 @@
 # TODO today
+* Post about Google patent
 * Do YB work all day
 * Remove fridge drawing colours from darkened
 * Add Odin bubble presences
@@ -7,7 +8,6 @@
 # TODO tomorrow
 * Follow up with contacts
 * Follow up with taxes
-* Mom's car
 * Scan bear
 
 # July
