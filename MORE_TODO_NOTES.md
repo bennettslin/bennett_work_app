@@ -1,9 +1,5 @@
 # TODO today
 * Follow up with taxes
-* Follow up with contacts
-* Post about Google patent
-* Trace bear
-* Cafeteria hat
 * Remove fridge drawing colours from darkened
 * Add Odin bubble presences
 * Exercise
@@ -31,9 +27,9 @@
 * All websites share same footer
 
 # TODO
+* Follow up with contacts
 * Wait on bug thing gift card
 * Look into health insurance
-* Do rectal exam
 * Switch Instagram accounts
 * Wait on the tax thing
 * BY mission

@@ -30,11 +30,6 @@ export default [
         neededHours: 1,
     },
     {
-        taskName: `Cafeteria hat.`,
-        workedHours: 0,
-        neededHours: 1,
-    },
-    {
         taskName: `Warp bubbles.`,
         workedHours: 0,
         neededHours: 5,
