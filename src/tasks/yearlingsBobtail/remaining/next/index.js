@@ -21,8 +21,8 @@ export default [
     // TODO: Next.
     {
         taskName: `Taiwan circle window. Also warp Taiwan window?.`,
-        workedHours: 0,
-        neededHours: 2,
+        workedHours: 2,
+        neededHours: 4,
     },
     {
         taskName: `Taiwan door.`,

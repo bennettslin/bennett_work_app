@@ -1,19 +1,24 @@
 # TODO today
-* Follow up with taxes
-* Warp Taiwan window
-* Odin things
-    * Add presences
-    * Adjust prop colours in preparation
 * Exercise
 * Illustrator
 * Huel
 
 # TODO tomorrow
-
-# July
-* Didi past ending
+* Warp Taiwan window
 * Taiwan round window
 * Taiwan door
+* Finish BYCombo
+* Odin portals
+    * Just add presences
+    * Adjust prop colours in preparation
+
+# Monday
+* Follow up with taxes
+* Schwab dividends
+
+# July
+* Odin portals
+* Didi past ending
 * Face fixes
 * BYCombo fixes
     * Menu buttons shift?
@@ -28,6 +33,9 @@
 * Wait on the tax thing
 * BY mission
     * Ongoing section
+* BYCombo
+    * Hooks vs hustle
+    * Paid dues must now collude
 
 * Car
 * Contacts
