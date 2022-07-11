@@ -1,20 +1,20 @@
 # TODO today
+* Follow up with taxes
+* Schwab dividends
+* Warp Taiwan window
+* Taiwan round window
+* Taiwan door
 * Exercise
 * Illustrator
 * Huel
 
 # TODO tomorrow
-* Warp Taiwan window
-* Taiwan round window
-* Taiwan door
 * Finish BYCombo
 * Odin portals
     * Just add presences
     * Adjust prop colours in preparation
 
 # Monday
-* Follow up with taxes
-* Schwab dividends
 
 # July
 * Odin portals
