@@ -20,16 +20,6 @@ export default [
 
     // TODO: Next.
     {
-        taskName: `Taiwan circle window. Also warp Taiwan window?.`,
-        workedHours: 2,
-        neededHours: 4,
-    },
-    {
-        taskName: `Taiwan door.`,
-        workedHours: 0,
-        neededHours: 1,
-    },
-    {
         taskName: `Warp bubbles.`,
         workedHours: 0,
         neededHours: 5,

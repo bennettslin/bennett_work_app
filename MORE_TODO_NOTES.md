@@ -1,28 +1,18 @@
-# TODO today
+# TODO Tuesday
 * Follow up with taxes
-* Schwab dividends
-* Warp Taiwan window
-* Taiwan round window
-* Taiwan door
 * Exercise
 * Illustrator
-* Huel
-
-# TODO tomorrow
-* Finish BYCombo
 * Odin portals
     * Just add presences
     * Adjust prop colours in preparation
 
-# Monday
-
 # July
+* Finish BYCombo
 * Odin portals
 * Didi past ending
 * Face fixes
 * BYCombo fixes
     * Menu buttons shift?
-* Finish BYCombo text
 * Finish Bobtail Yearlings mission
 * All websites share same footer
 
@@ -34,8 +24,7 @@
 * BY mission
     * Ongoing section
 * BYCombo
-    * Hooks vs hustle
-    * Paid dues must now collude
+    * History wants hooks, not hustles
 
 * Car
 * Contacts

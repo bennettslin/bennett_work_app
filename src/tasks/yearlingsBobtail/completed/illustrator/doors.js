@@ -1,5 +1,9 @@
 export default [
     {
+        taskName: `Taiwan circle window.`,
+        workedHours: 3,
+    },
+    {
         taskName: `Taiwan window and side.`,
         workedHours: 2,
     },
