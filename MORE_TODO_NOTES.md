@@ -5,6 +5,9 @@
 * Odin portals
     * Just add presences
     * Adjust prop colours in preparation
+* Email in demos
+* Prepare Tomer faces
+* Make logo without stroke
 
 # July
 * Finish BYCombo
@@ -23,8 +26,8 @@
 * Wait on the tax thing
 * BY mission
     * Ongoing section
-* BYCombo
-    * History wants hooks, not hustles
+* Bobtail Method
+    * Ask for help
 
 * Car
 * Contacts
