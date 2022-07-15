@@ -1,16 +1,16 @@
-# TODO Tuesday
-* Follow up with taxes
+# TODO Today
 * Exercise
 * Illustrator
 * Odin portals
     * Just add presences
     * Adjust prop colours in preparation
-* Email in demos
-* Prepare Tomer faces
-* Make logo without stroke
+* Make sure link to doublespeaker rhyme looks fine in mobile
+* Finish BYCombo
+
+# TODO Monday
+* Follow up with taxes
 
 # July
-* Finish BYCombo
 * Odin portals
 * Didi past ending
 * Face fixes
@@ -18,16 +18,16 @@
     * Menu buttons shift?
 * Finish Bobtail Yearlings mission
 * All websites share same footer
+* Bobtail Method
+    * Ask for help
+* Social media buttons for demo links
 
 # TODO
-* Follow up with contacts
 * Look into health insurance
 * Switch Instagram accounts
 * Wait on the tax thing
 * BY mission
     * Ongoing section
-* Bobtail Method
-    * Ask for help
 
 * Car
 * Contacts
@@ -37,7 +37,6 @@
 
 # Projects
 * YB stuff
-
 * Begin work on BY Combo
     * Google Form
         * Embed on page
