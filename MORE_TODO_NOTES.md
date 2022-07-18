@@ -1,5 +1,8 @@
 # TODO Today
-* Exercise
+* Follow up with taxes
+* Wrap tape around bottom of pole
+* Move mattress to main room
+* Write to Schwab guy
 * Illustrator
 * Odin portals
     * Just add presences
@@ -8,7 +11,6 @@
 * Finish BYCombo
 
 # TODO Monday
-* Follow up with taxes
 
 # July
 * Odin portals
