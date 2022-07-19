@@ -9,6 +9,9 @@
     * Adjust prop colours in preparation
 * Make sure link to doublespeaker rhyme looks fine in mobile
 * Finish BYCombo
+* YB
+    * Add promo to prologue
+    * Onesheet make "other way around" more clear
 
 # TODO Monday
 
