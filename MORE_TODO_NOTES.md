@@ -1,16 +1,17 @@
 # TODO Today
-* Follow up with taxes
-* Change Goodreads to Google login?
-* Move mattress to main room
+* Bobtail Method brief description
+* BYCombo: Bobtail Yearlings page
+
+# TODO
+* Accountant!
+
+# July
 * Write to Schwab guy
 * Illustrator
 * Odin portals
     * Just add presences
     * Adjust prop colours in preparation
 * Make sure link to doublespeaker rhyme looks fine in mobile
-
-# July
-* Bobtail Method brief description
 * Finish Bobtail Yearlings mission
 * Five vowels of historical consequence
 * Odin portals
@@ -18,6 +19,7 @@
 * Face fixes
 * All websites share same footer
 * Social media buttons for demo links
+* Change Goodreads to Google login?
 
 # TODO
 * Look into health insurance
