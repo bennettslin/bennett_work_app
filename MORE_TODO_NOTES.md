@@ -1,6 +1,10 @@
 # TODO Today
+* Fix browser back button isues
+    * For *all* the websites
 * Bobtail Method brief description
 * BYCombo: Bobtail Yearlings page
+* Bobtail Yearlings
+    * Medium font?
 
 # TODO
 * Accountant!
