@@ -1,10 +1,11 @@
 # TODO Today
-* Fix browser back button isues
-    * For *all* the websites
-* Bobtail Method brief description
-* BYCombo: Bobtail Yearlings page
 * Bobtail Yearlings
-    * Medium font?
+    * Have back to essays at top
+    * Keep essays selected
+* Bobtail Method responsive layout
+* All websites share same footer
+* BYCombo: Bobtail Yearlings page
+* How not to be an indie tyrant
 
 # TODO
 * Accountant!
@@ -21,8 +22,6 @@
 * Odin portals
 * Didi past ending
 * Face fixes
-* All websites share same footer
-* Social media buttons for demo links
 * Change Goodreads to Google login?
 
 # TODO
