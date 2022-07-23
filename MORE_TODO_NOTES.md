@@ -1,11 +1,14 @@
 # TODO Today
-* Bobtail Yearlings
-    * Have back to essays at top
-    * Keep essays selected
 * Bobtail Method responsive layout
-* All websites share same footer
+* BY website: Finalize footer
+    * Fix logo
+    * Fix height
 * BYCombo: Bobtail Yearlings page
 * How not to be an indie tyrant
+* BYCombo changes
+    * Separate BYCombo and demos questions in About page, mention in history question that indie artists of five or ten years ago struggling for relevance
+    * Change all upsells to BYCombo
+    * Make mailing list for BYCombo, not Bobtail Yearlings, and put in page footer, and say we'll only notify about new demos.
 
 # TODO
 * Accountant!
