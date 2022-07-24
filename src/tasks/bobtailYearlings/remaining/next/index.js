@@ -1,7 +1,7 @@
 export default [
     {
         taskName: `Bobtail Method general work.`,
-        workedHours: 36,
+        workedHours: 42,
         neededHours: 50,
     },
     {
