@@ -1,7 +1,7 @@
 # TODO Today
 * How not to be an indie tyrant
 * BYCombo changes
-    * Rethink massive effort, allows the counterculture
+    * Final about page edits
     * Make MailChimp account for BYCombo
         * Change to BYCombo mailing list
         * Test out
@@ -9,6 +9,8 @@
         * Yearling's Bobtail demo page content
 * Verify collagen return
 * Get rid of days in Bobtail Yearlings essays
+* Bobtail Method
+    * It will always be just as good
 
 # TODO
 * Accountant!
