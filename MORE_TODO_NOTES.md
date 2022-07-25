@@ -7,7 +7,8 @@
         * Test out
     * Individual demo page
         * Yearling's Bobtail demo page content
-* Cancel collagen
+* Verify collagen return
+* Get rid of days in Bobtail Yearlings essays
 
 # TODO
 * Accountant!
