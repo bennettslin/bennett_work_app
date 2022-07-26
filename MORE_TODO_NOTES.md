@@ -1,4 +1,5 @@
 # TODO Today
+* Research accountant!
 * How not to be an indie tyrant
 * BYCombo changes
     * Make MailChimp account for BYCombo
@@ -10,7 +11,6 @@
     * Yearling's Bobtail demo page content
 
 # TODO
-* Accountant!
 
 # July
 * Finish Bobtail Yearlings mission
