@@ -1,28 +1,25 @@
 # TODO Today
 * How not to be an indie tyrant
 * BYCombo changes
-    * Final about page edits
     * Make MailChimp account for BYCombo
         * Change to BYCombo mailing list
         * Test out
     * Individual demo page
-        * Yearling's Bobtail demo page content
-* Verify collagen return
-* Get rid of days in Bobtail Yearlings essays
-* Bobtail Method
-    * It will always be just as good
+        * Extract demo info from demo link
+    * Make image constant size for page load
+    * Yearling's Bobtail demo page content
 
 # TODO
 * Accountant!
 
 # July
+* Finish Bobtail Yearlings mission
 * Write to Schwab guy
 * Illustrator
 * Odin portals
     * Just add presences
     * Adjust prop colours in preparation
 * Make sure link to doublespeaker rhyme looks fine in mobile
-* Finish Bobtail Yearlings mission
 * Five vowels of historical consequence
 * Odin portals
 * Didi past ending
@@ -30,6 +27,7 @@
 * Change Goodreads to Google login?
 
 # TODO
+* You are not a gadget 7/26
 * Look into health insurance
 * Switch Instagram accounts
 
