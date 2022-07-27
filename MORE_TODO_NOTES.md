@@ -1,13 +1,9 @@
 # TODO Today
 * Research accountant!
-* How not to be an indie tyrant
+* Switch stand and glute thing
 * BYCombo changes
-    * Make MailChimp account for BYCombo
-        * Change to BYCombo mailing list
-        * Test out
-    * Individual demo page
-        * Extract demo info from demo link
-    * Make image constant size for page load
+    * Make MailChimp forms consistent with Bobtail Yearlings
+    * Individual demo page layout
     * Yearling's Bobtail demo page content
 
 # TODO
