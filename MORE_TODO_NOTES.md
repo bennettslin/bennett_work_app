@@ -1,12 +1,15 @@
 # TODO Today
 * Research accountant!
-* Switch stand and glute thing
 * BYCombo changes
     * Make MailChimp forms consistent with Bobtail Yearlings
-    * Individual demo page layout
+    * Individual demo page layout like Bobtail Dominoes website
+        * Content lives in content folder
+            * Determine shape of content
+        * Server side pages are generated from content folder
+            * Instead of manually
+        * Demo Page container component as template
+        * Client side pages populate with content
     * Yearling's Bobtail demo page content
-
-# TODO
 
 # July
 * Finish Bobtail Yearlings mission
