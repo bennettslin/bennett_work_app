@@ -4,6 +4,9 @@
     * Make MailChimp forms consistent with Bobtail Yearlings
     * Yearling's Bobtail demo page content
     * Then publish BYC
+* BY
+    * Update final hours in essay
+    * Then publish BY
 * Do the power saving thing?
 
 # July
