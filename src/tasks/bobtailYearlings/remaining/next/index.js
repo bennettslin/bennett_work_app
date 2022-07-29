@@ -1,10 +1,5 @@
 export default [
     {
-        taskName: `Bobtail Method general work.`,
-        workedHours: 42,
-        neededHours: 50,
-    },
-    {
         taskName: `Smarter strategy for shared files.`,
         workedHours: 0,
         neededHours: 3,
