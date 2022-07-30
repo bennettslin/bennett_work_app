@@ -1,4 +1,5 @@
 # TODO Today
+* These three things
 * Research accountant!
 * BYCombo changes
     * Make MailChimp forms consistent with Bobtail Yearlings
@@ -7,7 +8,6 @@
 * BY
     * Update final hours in essay
     * Then publish BY
-* Do the power saving thing?
 
 # July
 * Finish Bobtail Yearlings mission

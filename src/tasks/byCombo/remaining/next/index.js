@@ -1,7 +1,7 @@
 export default [
     {
         taskName: `BYCombo demo page`,
-        workedHours: 5,
+        workedHours: 7,
         neededHours: 10,
     },
 ]
