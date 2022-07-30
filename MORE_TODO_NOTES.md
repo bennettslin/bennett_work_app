@@ -1,5 +1,4 @@
 # TODO Today
-* These three things
 * Research accountant!
 * BYCombo changes
     * Make MailChimp forms consistent with Bobtail Yearlings
@@ -8,6 +7,11 @@
 * BY
     * Update final hours in essay
     * Then publish BY
+* YB
+    * Onesheet: creative standards would rise?
+    * Pareto
+        * Sea of applicants
+        * Links on final page
 
 # July
 * Finish Bobtail Yearlings mission
