@@ -1,21 +1,12 @@
 # TODO Today
 * Research accountant!
 * BYCombo changes
-    * Make MailChimp forms consistent with Bobtail Yearlings
     * Yearling's Bobtail demo page content
     * Then publish BYC
-* BY
-    * Update final hours in essay
-    * Then publish BY
-* YB
-    * Onesheet: creative standards would rise?
-    * Pareto
-        * Sea of applicants
-        * Links on final page
 
 # July
 * Finish Bobtail Yearlings mission
-    * Then publish BY
+    * Then publish BY again
 * Write to Schwab guy
 * Illustrator
 * Odin portals
@@ -27,6 +18,10 @@
 * Didi past ending
 * Face fixes
 * Change Goodreads to Google login?
+* Return extender
+* Return clamp
+* Buy batteries
+* Buy glue
 
 # TODO
 * You are not a gadget 7/26
