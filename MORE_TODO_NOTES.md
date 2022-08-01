@@ -1,8 +1,15 @@
 # TODO Today
 * Research accountant!
+    * Garry A Jones and Associates
+    * Contact accountant
+        * https://www.jonescpa.net
 * BYCombo changes
     * Yearling's Bobtail demo page content
     * Then publish BYC
+* YB
+    * Periodic table?
+* Figure out extender
+* Iron on patch
 
 # July
 * Finish Bobtail Yearlings mission
@@ -20,7 +27,6 @@
 * Change Goodreads to Google login?
 * Return extender
 * Return clamp
-* Buy batteries
 * Buy glue
 
 # TODO
