@@ -1,28 +1,25 @@
 # TODO Today
-* Research accountant!
+* Contact accountant
     * Garry A Jones and Associates
-    * Contact accountant
-        * https://www.jonescpa.net
+    * https://www.jonescpa.net
+* Didi past ending
+* Odin portals
+    * Just add presences
+    * Adjust prop colours in preparation
 * BYCombo changes
     * Yearling's Bobtail demo page content
     * Then publish BYC
 * YB
     * Periodic table?
-* Figure out extender
-* Iron on patch
 
 # July
 * Finish Bobtail Yearlings mission
     * Then publish BY again
 * Write to Schwab guy
 * Illustrator
-* Odin portals
-    * Just add presences
-    * Adjust prop colours in preparation
 * Make sure link to doublespeaker rhyme looks fine in mobile
 * Five vowels of historical consequence
 * Odin portals
-* Didi past ending
 * Face fixes
 * Change Goodreads to Google login?
 * Return extender
