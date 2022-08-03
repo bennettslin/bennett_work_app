@@ -3,14 +3,14 @@
     * Garry A Jones and Associates
     * https://www.jonescpa.net
 * Didi past ending
+    * Design and draw sketchbook
+    * Add sketchbook svg
 * Odin portals
     * Just add presences
     * Adjust prop colours in preparation
 * BYCombo changes
     * Yearling's Bobtail demo page content
     * Then publish BYC
-* YB
-    * Periodic table?
 
 # July
 * Finish Bobtail Yearlings mission

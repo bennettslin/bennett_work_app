@@ -20,19 +20,19 @@ export default [
 
     // TODO: Next.
     {
-        taskName: `Warp bubbles.`,
-        workedHours: 0,
-        neededHours: 5,
-    },
-    {
-        taskName: `Make bathroom scene a scrapbook photo? Add extra bathroom scene with Anita that isn't past? Make Anita wear past colours?`,
-        workedHours: 0,
-        neededHours: 5,
+        taskName: `Make bathroom scene a scrapbook photo.`,
+        workedHours: 6,
+        neededHours: 20,
     },
     {
         taskName: `Revise Odin scenes to use wormholes.`,
         workedHours: 0,
         neededHours: 40,
+    },
+    {
+        taskName: `Warp bubbles.`,
+        workedHours: 0,
+        neededHours: 5,
     },
 
     // Nice to have.
