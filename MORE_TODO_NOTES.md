@@ -1,16 +1,33 @@
-# TODO Today
-* Contact accountant
+# TODO Today important
+* Contact accountant!
     * Garry A Jones and Associates
     * https://www.jonescpa.net
+
+# TODO After important
+* Odin portals
+    * Adjust prop colours in preparation
+        * Fridge drawings
+        * Serpents
+    * Make sure other scenes *don't* need those particular colours before removing from dark or night styling
+    * Design and draw dream bubbles
 * Didi past ending
     * Design and draw sketchbook
     * Add sketchbook svg
-* Odin portals
-    * Just add presences
-    * Adjust prop colours in preparation
+* My 100,000th Dream
+    * Design and draw dream bubble
 * BYCombo changes
     * Yearling's Bobtail demo page content
     * Then publish BYC
+* Figure out how to measure
+* Return extender
+* Iron rest of pants
+* Smooth ruler
+* Liz grip
+* Better cat and dog markings
+    * Odin
+    * Dogs
+    * Opal
+* Cut extender?
 
 # July
 * Finish Bobtail Yearlings mission
@@ -22,7 +39,6 @@
 * Odin portals
 * Face fixes
 * Change Goodreads to Google login?
-* Return extender
 * Return clamp
 * Buy glue
 

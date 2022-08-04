@@ -26,7 +26,7 @@ export default [
     },
     {
         taskName: `Revise Odin scenes to use wormholes.`,
-        workedHours: 0,
+        workedHours: 6,
         neededHours: 40,
     },
     {
