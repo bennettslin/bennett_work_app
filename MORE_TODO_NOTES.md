@@ -1,27 +1,30 @@
-# TODO Today important
-* Contact accountant!
-    * Garry A Jones and Associates
-    * https://www.jonescpa.net
-
 # TODO After important
-* Odin portals
-    * Design and draw dream bubbles
-* Didi past ending
-    * Design and draw sketchbook
-    * Add sketchbook svg
-* My 100,000th Dream
-    * Add presence
-    * Design and draw dream bubble
 * BYCombo changes
     * Yearling's Bobtail demo page content
     * Latest todos?
     * Then publish BYC
-* Hear back from clamp
+
+# TODO Weekend
+* Sketch
+    * Better cat and dog markings
+        * Odin
+        * Dogs
+        * Opal
+* Odin portals
+    * Design and draw dream bubbles
+* Didi past ending
+    * Add scrapbook photo svg
+    * Design and draw scrapbook photo
+* My 100,000th Dream
+    * Add dream final svg
+    * Design and draw dream final
+* Research clamping
+
+# TODO Monday important
+* Contact accountant!
+    * Garry A Jones and Associates
+    * https://www.jonescpa.net
 * Return extender
-* Better cat and dog markings
-    * Odin
-    * Dogs
-    * Opal
 
 # July
 * Finish Bobtail Yearlings mission
