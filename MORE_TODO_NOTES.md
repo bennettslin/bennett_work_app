@@ -1,30 +1,39 @@
+# TODO Monday important
+* Contact accountant!
+    * Garry A Jones and Associates
+    * https://www.jonescpa.net
+* Return extender
+
 # TODO After important
+* Contact game maker
 * BYCombo changes
     * Yearling's Bobtail demo page content
     * Latest todos?
     * Then publish BYC
 
 # TODO Weekend
-* Sketch
-    * Better cat and dog markings
-        * Odin
-        * Dogs
-        * Opal
-* Odin portals
-    * Design and draw dream bubbles
-* Didi past ending
-    * Add scrapbook photo svg
-    * Design and draw scrapbook photo
-* My 100,000th Dream
-    * Add dream final svg
-    * Design and draw dream final
-* Research clamping
+* Do in Illustrator
+    * ears, nose, and eyes
 
-# TODO Monday important
-* Contact accountant!
-    * Garry A Jones and Associates
-    * https://www.jonescpa.net
-* Return extender
+# TODO
+* August 11
+    * Cancel Apple Music
+    
+* Odin portals
+    * Illustrator files
+        * Add needed presences
+        * Add screenshots
+        * Simplify background presences
+    * Implement
+<!-- * Didi past ending
+    * Make sketch to scan
+        * Photo scrapbook
+    * Implement -->
+<!-- * My 100,000th Dream
+    * Create Illustrator file
+    * Add dream final presence
+    * Design and draw dream final -->
+* Research clamping
 
 # July
 * Finish Bobtail Yearlings mission
