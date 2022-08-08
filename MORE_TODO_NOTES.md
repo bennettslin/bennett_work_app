@@ -3,6 +3,7 @@
     * Garry A Jones and Associates
     * https://www.jonescpa.net
 * Return extender
+* Return straps to UPS store
 
 # TODO After important
 * Contact game maker
@@ -12,6 +13,7 @@
     * Then publish BYC
 
 # TODO Weekend
+* Experiment with wearing pants
 * Do in Illustrator
     * ears, nose, and eyes
 
