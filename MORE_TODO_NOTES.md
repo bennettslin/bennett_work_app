@@ -1,9 +1,8 @@
 # TODO Monday important
-* Contact accountant!
-    * Garry A Jones and Associates
-    * https://www.jonescpa.net
+* Deal with accountant
 * Return extender
-* Return straps to UPS store
+* Do in Illustrator
+    * ears, nose, and eyes
 
 # TODO After important
 * Contact game maker
@@ -11,11 +10,6 @@
     * Yearling's Bobtail demo page content
     * Latest todos?
     * Then publish BYC
-
-# TODO Weekend
-* Experiment with wearing pants
-* Do in Illustrator
-    * ears, nose, and eyes
 
 # TODO
 * August 11
@@ -47,7 +41,6 @@
 * Odin portals
 * Face fixes
 * Change Goodreads to Google login?
-* Return clamp
 * Buy glue
 
 # TODO
