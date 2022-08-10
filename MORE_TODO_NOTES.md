@@ -1,6 +1,5 @@
 # TODO Monday important
 * Deal with accountant
-* Return extender
 * Do in Illustrator
     * ears, nose, and eyes
 
@@ -29,7 +28,8 @@
     * Create Illustrator file
     * Add dream final presence
     * Design and draw dream final -->
-* Research clamping
+* Research pumps
+* Return extender
 
 # July
 * Finish Bobtail Yearlings mission
