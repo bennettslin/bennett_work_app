@@ -1,6 +1,7 @@
 # TODO Monday important
 * Deal with accountant
     * Wake up early
+* Cancel Apple Music
 * Do in Illustrator
     * ears, nose, and eyes
 
@@ -11,10 +12,6 @@
     * Latest todos?
     * Then publish BYC
 
-# TODO
-* August 11
-    * Cancel Apple Music
-    
 * Odin portals
     * Illustrator files
         * Add needed presences
