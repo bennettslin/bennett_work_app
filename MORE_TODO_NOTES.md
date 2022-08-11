@@ -1,5 +1,6 @@
 # TODO Monday important
 * Deal with accountant
+    * Wake up early
 * Do in Illustrator
     * ears, nose, and eyes
 
@@ -40,11 +41,9 @@
 * Five vowels of historical consequence
 * Odin portals
 * Face fixes
-* Change Goodreads to Google login?
 * Buy glue
 
 # TODO
-* You are not a gadget 7/26
 * Look into health insurance
 * Switch Instagram accounts
 
