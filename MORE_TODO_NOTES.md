@@ -1,7 +1,5 @@
-# TODO Monday important
-* Deal with accountant
-    * Wake up early
-* Cancel Apple Music
+# TODO Friday important
+* Prepare tax forms for accountant
 * Do in Illustrator
     * ears, nose, and eyes
 
@@ -26,7 +24,6 @@
     * Create Illustrator file
     * Add dream final presence
     * Design and draw dream final -->
-* Research pumps
 * Return extender
 
 # July
