@@ -1,7 +1,7 @@
 # TODO Friday important
-* Prepare tax forms for accountant
 * Do in Illustrator
-    * ears, nose, and eyes
+    * Odin ears, nose, and eyes
+* Resolve pump issue
 
 # TODO After important
 * Contact game maker
