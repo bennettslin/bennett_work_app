@@ -1,7 +1,12 @@
 # TODO Friday important
+* Submit tax
+    * Pay Skylar
 * Do in Illustrator
     * Odin ears, nose, and eyes
-* Resolve pump issue
+
+# TODO Thursday
+* Return extender
+* Return pump cylinder
 
 # TODO After important
 * Contact game maker
@@ -24,7 +29,6 @@
     * Create Illustrator file
     * Add dream final presence
     * Design and draw dream final -->
-* Return extender
 
 # July
 * Finish Bobtail Yearlings mission
