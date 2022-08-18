@@ -1,6 +1,5 @@
-# TODO Friday important
-* Submit tax
-    * Pay Skylar
+# TODO Thursday important
+* Look into tax thing
 * Do in Illustrator
     * Odin ears, nose, and eyes
 
