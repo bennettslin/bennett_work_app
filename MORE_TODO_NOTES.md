@@ -4,7 +4,7 @@
     * Completely stop thinking for remainder of August
 * Do in Illustrator
     * Odin ears, nose, and eyes
-* Organize bin
+* Look into ultrasonic cavitation
 
 # TODO Monday
 * Return extender
