@@ -1,10 +1,12 @@
 # TODO Saturday important
 * Review tax thing
+* Finalize BYCombo content for now
+    * Completely stop thinking for remainder of August
 * Do in Illustrator
     * Odin ears, nose, and eyes
 * Organize bin
 
-# TODO Thursday
+# TODO Monday
 * Return extender
 * Return pump cylinder
 
