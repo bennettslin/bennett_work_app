@@ -1,7 +1,8 @@
-# TODO Thursday important
-* Look into tax thing
+# TODO Saturday important
+* Review tax thing
 * Do in Illustrator
     * Odin ears, nose, and eyes
+* Organize bin
 
 # TODO Thursday
 * Return extender
