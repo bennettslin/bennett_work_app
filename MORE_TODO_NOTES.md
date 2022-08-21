@@ -4,7 +4,9 @@
     * Completely stop thinking for remainder of August
 * Do in Illustrator
     * Odin ears, nose, and eyes
-* Look into ultrasonic cavitation
+* Determine new goals based on clamped erect?
+* Photo
+    * Find coin?
 
 # TODO Monday
 * Return extender
