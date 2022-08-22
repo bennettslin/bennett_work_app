@@ -1,7 +1,5 @@
 # TODO Saturday important
 * Review tax thing
-* Finalize BYCombo content for now
-    * Completely stop thinking for remainder of August
 * Do in Illustrator
     * Odin ears, nose, and eyes
 * Determine new goals based on clamped erect?
