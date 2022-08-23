@@ -1,14 +1,12 @@
-# TODO Saturday important
+# TODO Tuesday
 * Review tax thing
+* Post office
+    * Return extender
+    * Return pump cylinder
 * Do in Illustrator
     * Odin ears, nose, and eyes
-* Determine new goals based on clamped erect?
 * Photo
     * Find coin?
-
-# TODO Monday
-* Return extender
-* Return pump cylinder
 
 # TODO After important
 * Contact game maker
