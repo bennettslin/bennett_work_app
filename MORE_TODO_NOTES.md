@@ -3,6 +3,8 @@
 * Post office
     * Return extender
     * Return pump cylinder
+* Begin taking LC
+* Bring out Venus
 * Do in Illustrator
     * Odin ears, nose, and eyes
 * Photo
