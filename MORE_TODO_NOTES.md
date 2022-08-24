@@ -1,14 +1,23 @@
 # TODO Tuesday
 * Review tax thing
+
 * Post office
     * Return extender
     * Return pump cylinder
-* Begin taking LC
+
 * Bring out Venus
+
 * Do in Illustrator
     * Odin ears, nose, and eyes
 * Photo
     * Find coin?
+
+# To buy soon
+* Extra foam ring?
+* Try
+    * Different sleeves?
+    * Buy mister?
+* Noxzema
 
 # TODO After important
 * Contact game maker
