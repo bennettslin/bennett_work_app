@@ -9,14 +9,11 @@
 
 * Do in Illustrator
     * Odin ears, nose, and eyes
+
 * Photo
     * Find coin?
 
 # To buy soon
-* Extra foam ring?
-* Try
-    * Different sleeves?
-    * Buy mister?
 * Noxzema
 * Lube
 
