@@ -1,17 +1,26 @@
-# TODO Tuesday
+# TODO Saturday
+* Add BYCombo todo comments
+* Bring out Venus
+* Do in Illustrator
+    * Odin ears, nose, and eyes
+* Cancel appointment
+* File down hook!
+* Decide whether to buy another strap
+    * https://www.amazon.com/Still-Systems-Strap-Tension-Cords/dp/B07H1GQKXC
+
+# TODO Next week
 * Review tax thing
 
 * Post office
     * Return extender
     * Return pump cylinder
 
-* Bring out Venus
-
-* Do in Illustrator
-    * Odin ears, nose, and eyes
-
-* Photo
-    * Find coin?
+# Infrared or red light therapy?
+* For lighting
+    * Standalone bulbs
+        * https://www.amazon.com/dp/B07T81R1DX
+    * Or worn pad
+        * https://www.amazon.com/dp/B08PDJCSMC
 
 # To buy soon
 * Noxzema
