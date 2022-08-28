@@ -1,19 +1,23 @@
 # TODO Saturday
-* Add BYCombo todo comments
 * Bring out Venus
 * Do in Illustrator
+    * Figure out work
     * Odin ears, nose, and eyes
-* Cancel appointment
-* File down hook!
 * Decide whether to buy another strap
     * https://www.amazon.com/Still-Systems-Strap-Tension-Cords/dp/B07H1GQKXC
 
 # TODO Next week
+* Sticker on pump
 * Review tax thing
+* Cap post
+* Fulcrum post
+* Get strings from VVA box
 
 * Post office
     * Return extender
     * Return pump cylinder
+* UPS
+    * Return fish hook
 
 # Infrared or red light therapy?
 * For lighting
