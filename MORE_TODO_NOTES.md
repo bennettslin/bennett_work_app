@@ -1,23 +1,28 @@
-# TODO Saturday
-* Bring out Venus
+# TODO Monday
 * Do in Illustrator
-    * Figure out work
     * Odin ears, nose, and eyes
-* Decide whether to buy another strap
-    * https://www.amazon.com/Still-Systems-Strap-Tension-Cords/dp/B07H1GQKXC
+        * Room: ears, eyes, and nose
+        * Buoy: ears, eyes, and nose
+        * Depths: ears, eyes, and nose
+        * Floor: ears, eyes, and nose
+* Set up Venus
+* Open tee-shirts
+* Cap pictures
+* Stretched picture
+* Figure out fulcrum stretcher
+    * Fulcrum pictures
+* UPS
+    * Return fish hook
 
 # TODO Next week
-* Sticker on pump
 * Review tax thing
-* Cap post
-* Fulcrum post
-* Get strings from VVA box
+* Help mom with phone
+* Haircut for parents
+* Set up computer for Chris
 
 * Post office
     * Return extender
     * Return pump cylinder
-* UPS
-    * Return fish hook
 
 # Infrared or red light therapy?
 * For lighting
