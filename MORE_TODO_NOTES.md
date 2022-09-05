@@ -1,17 +1,4 @@
-# TODO Wednesday
-* Photo of clamped girth
-* Take fulcrum stretcher pictures
-    * Post about fulcrum stretcher
-* Prepare for Thursday and Friday inspection
-* Watch ultrasonic cavitation video
-    * https://youtu.be/QDenyzrEz18
-
-# TODO Thursday
-* UPS
-    * Return fish hook
-* Post office
-    * Return extender
-    * Return pump cylinder
+# TODO Friday
 * Do in Illustrator
     * Odin ears, nose, and eyes
         * Room: ears, eyes, and nose
@@ -20,19 +7,9 @@
         * Floor: ears, eyes, and nose
 * Set up computer for Chris
 
-# TODO Friday
+# TODO at parents
+* Ant traps
 * Help mom with phone
-
-# Infrared or red light therapy?
-* For lighting
-    * Standalone bulbs
-        * https://www.amazon.com/dp/B07T81R1DX
-    * Or worn pad
-        * https://www.amazon.com/dp/B08PDJCSMC
-
-# To buy soon
-* Noxzema
-* Lube
 
 # TODO After important
 * Contact game maker
