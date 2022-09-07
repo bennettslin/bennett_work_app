@@ -1,4 +1,6 @@
-# TODO Friday
+# TODO Wednesday
+* Happy birthday to Kevin
+* Return Noxzema
 * Do in Illustrator
     * Odin ears, nose, and eyes
         * Room: ears, eyes, and nose
@@ -6,6 +8,10 @@
         * Depths: ears, eyes, and nose
         * Floor: ears, eyes, and nose
 * Set up computer for Chris
+* BYCombo
+    * Mission statement is historical consequence
+* Indie rock's instinct is that you can hack history
+    * Like Trump movement
 
 # TODO at parents
 * Ant traps
