@@ -1,21 +1,33 @@
 # TODO Wednesday
-* Happy birthday to Kevin
-* Return Noxzema
 * Do in Illustrator
+    * Open all files in Illustrator
+        * Open all Odin files
+        * Open all dogs and Opal files
+    * Copy and paste ears, eyes, and nose from dogs and Opal
+        * Modify to fit Odin
+        * Create svgs
     * Odin ears, nose, and eyes
         * Room: ears, eyes, and nose
         * Buoy: ears, eyes, and nose
         * Depths: ears, eyes, and nose
         * Floor: ears, eyes, and nose
+* Take 7 L-Citrulline for pumping
 * Set up computer for Chris
-* BYCombo
-    * Mission statement is historical consequence
-* Indie rock's instinct is that you can hack history
-    * Like Trump movement
 
-# TODO at parents
-* Ant traps
+# TODO soon
+* Get hanger
+* Get Cialis
+* Confirm Amazon refunds
+* Figure out health insurance
+* Renew passport
+* Renew Trusted Traveler
+* Sleep machine
 * Help mom with phone
+
+# Costco
+* Q-Tips
+* Flonase
+* Allegra
 
 # TODO After important
 * Contact game maker
@@ -42,7 +54,6 @@
 # July
 * Finish Bobtail Yearlings mission
     * Then publish BY again
-* Write to Schwab guy
 * Illustrator
 * Make sure link to doublespeaker rhyme looks fine in mobile
 * Five vowels of historical consequence
