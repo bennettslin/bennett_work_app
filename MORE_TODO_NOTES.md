@@ -6,14 +6,21 @@
 * Go through mail
 * Renew passport
 * BYCombo stuff
-* Every generations gets artists who want to be the best for free
+* Maximal artists
+    * Every generations gets artists who want to be the best for free
     * You don't have to help them
         * You just have to not hurt them
     * The last thing they want is to take the indie deal
-        * What they want is perfectly synergized
+        * Their success is a function of how good you are
+            * Is the best possible deal anyone can have
+            * What they want is perfectly synergized
             * The indie deal disrupts that
+    * Indie rock was founded by artists who didn't want to be the best
     * Those who'll take the indie deal are the best of the worst
+    * No one thought of the default as interdependence
+        * But in light of indie rock
     * Do you think future generations will disagree?
+    * Bad news and good news
 * Do in Illustrator
     * Open all files in Illustrator
         * Open all Odin files
