@@ -3,10 +3,12 @@
     * Buy side table for red light device
     * Buy armchair
         * https://www.ikea.com/us/en/p/remsta-armchair-djuparp-dark-green-blue-80484956
+* Practice taking picture
 * Go through mail
 * Renew passport
 * BYCombo stuff
 * Maximal artists
+    * Maximal is a description of intent
     * Every generations gets artists who want to be the best for free
     * You don't have to help them
         * You just have to not hurt them
