@@ -17,12 +17,17 @@
             * Is the best possible deal anyone can have
             * What they want is perfectly synergized
             * The indie deal disrupts that
+    * Maximal artists are maximal even if they aren't willing to admit
+        * Like Nirvana
+        * And that was probably a problem
     * Indie rock was founded by artists who didn't want to be the best
     * Those who'll take the indie deal are the best of the worst
     * No one thought of the default as interdependence
         * But in light of indie rock
     * Do you think future generations will disagree?
     * Bad news and good news
+        * No future country will be ignorant enough to start a Communist revolution
+        * No future generation will be ignorant enough to start an indie revolution
 * Do in Illustrator
     * Open all files in Illustrator
         * Open all Odin files
