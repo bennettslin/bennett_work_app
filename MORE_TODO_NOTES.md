@@ -7,8 +7,8 @@
 * Go through mail
 * Renew passport
 * BYCombo stuff
-* Maximal artists
-    * Maximal is a description of intent
+* Killing fields of rock
+    * Consequential is a description of intent
     * Every generations gets artists who want to be the best for free
     * You don't have to help them
         * You just have to not hurt them
@@ -17,7 +17,7 @@
             * Is the best possible deal anyone can have
             * What they want is perfectly synergized
             * The indie deal disrupts that
-    * Maximal artists are maximal even if they aren't willing to admit
+    * Consequential artists are consequential even if they aren't willing to admit
         * Like Nirvana
         * And that was probably a problem
     * Indie rock was founded by artists who didn't want to be the best
@@ -28,6 +28,8 @@
     * Bad news and good news
         * No future country will be ignorant enough to start a Communist revolution
         * No future generation will be ignorant enough to start an indie revolution
+    * History is ultimately just a story of consequential artists
+        * And Millennials were the first generation to betray their consequential artists
 * Do in Illustrator
     * Open all files in Illustrator
         * Open all Odin files
