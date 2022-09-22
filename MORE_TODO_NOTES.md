@@ -3,6 +3,7 @@
     * Buy side table for red light device
     * Buy armchair
         * https://www.ikea.com/us/en/p/remsta-armchair-djuparp-dark-green-blue-80484956
+* Buy waterproof iPad case
 * Practice taking picture
 * Go through mail
 * Renew passport
