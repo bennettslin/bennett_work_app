@@ -1,13 +1,17 @@
 # TODO Monday
+* Get chair from parents
+* Post on Facebook
 * Ikea
     * Buy side table for red light device
     * Buy armchair
         * https://www.ikea.com/us/en/p/remsta-armchair-djuparp-dark-green-blue-80484956
-* Buy waterproof iPad case
 * Practice taking picture
+    * Trim hairs
 * Go through mail
 * Renew passport
 * BYCombo stuff
+* Where's our generation's Nirvana?
+    * Make sure this is a Bobtail Yearlings essay
 * Killing fields of rock
     * Consequential is a description of intent
     * Every generations gets artists who want to be the best for free
