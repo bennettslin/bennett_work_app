@@ -1,12 +1,5 @@
 # TODO Monday
-* Get chair from parents
-* Post on Facebook
-* Ikea
-    * Buy side table for red light device
-    * Buy armchair
-        * https://www.ikea.com/us/en/p/remsta-armchair-djuparp-dark-green-blue-80484956
 * Practice taking picture
-    * Trim hairs
 * Go through mail
 * Renew passport
 * BYCombo stuff
@@ -50,7 +43,10 @@
 * Set up computer for Chris
 
 # TODO soon
-* Confirm Amazon refunds
+* Ikea
+    * Buy side table for red light device
+    * Buy armchair
+        * https://www.ikea.com/us/en/p/remsta-armchair-djuparp-dark-green-blue-80484956
 * Figure out health insurance
 * Renew Trusted Traveler
 * Sleep machine
