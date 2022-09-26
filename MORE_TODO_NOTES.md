@@ -1,5 +1,4 @@
 # TODO Monday
-* Practice taking picture
 * Go through mail
 * Renew passport
 * BYCombo stuff
@@ -28,6 +27,7 @@
         * No future generation will be ignorant enough to start an indie revolution
     * History is ultimately just a story of consequential artists
         * And Millennials were the first generation to betray their consequential artists
+    * Indie artists won't be missed because they're takers
 * Do in Illustrator
     * Open all files in Illustrator
         * Open all Odin files
@@ -51,11 +51,13 @@
 * Renew Trusted Traveler
 * Sleep machine
 * Help mom with phone
+* Return magnets at Amazon Fresh
 
 # Costco
 * Q-Tips
 * Flonase
 * Allegra
+* Coffee
 
 # TODO After important
 * Contact game maker
