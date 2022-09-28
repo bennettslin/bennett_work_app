@@ -2,8 +2,8 @@
 * Go through mail
 * Renew passport
 * BYCombo stuff
-* Where's our generation's Nirvana?
-    * Make sure this is a Bobtail Yearlings essay
+* What else was there?
+* Participation trophies
 * Killing fields of rock
     * Consequential is a description of intent
     * Every generations gets artists who want to be the best for free
