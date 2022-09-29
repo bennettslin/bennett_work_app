@@ -3,6 +3,7 @@
 * Renew passport
 * BYCombo stuff
 * What else was there?
+* Intrinsic nature of indie culture to have antagonistic relationship with artists who only care about advancing the art form and making history
 * Participation trophies
 * Killing fields of rock
     * Consequential is a description of intent
