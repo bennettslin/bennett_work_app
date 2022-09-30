@@ -1,8 +1,10 @@
 # TODO Monday
+* Apply to apartment
 * Go through mail
 * Renew passport
 * BYCombo stuff
 * No pros, only cons
+* Foodie
 * What else was there?
 * Intrinsic nature of indie culture to have antagonistic relationship with artists who only care about advancing the art form and making history
 * Participation trophies
