@@ -1,4 +1,7 @@
 # TODO Monday
+* Bizarro indie world tweet
+* Indie politics
+* Superstar model
 * Apply to apartment
 * Go through mail
 * Renew passport
@@ -55,13 +58,6 @@
 * Renew Trusted Traveler
 * Sleep machine
 * Help mom with phone
-* Return magnets at Amazon Fresh
-
-# Costco
-* Q-Tips
-* Flonase
-* Allegra
-* Coffee
 
 # TODO After important
 * Contact game maker
