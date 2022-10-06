@@ -1,4 +1,5 @@
 # TODO Monday
+* Booster shots for all
 * Apply to apartment
 * Go through mail
 * Renew passport
