@@ -1,5 +1,10 @@
 export default [
     {
+        taskName: `Bizarro indie rock tweet`,
+        workedHours: 12,
+        neededHours: 50,
+    },
+    {
         taskName: `Smarter strategy for shared files.`,
         workedHours: 0,
         neededHours: 3,
