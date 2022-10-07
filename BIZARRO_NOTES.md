@@ -1,6 +1,6 @@
-Rock music has gotten worse in the last two decades. It's no longer controversial to say that indie rock is the culprit. Yet how did this happen? The reasons are overdetermined, but the best way to explain it is with a thought experiment that I call "Bizarro indie rock." 🧵 1/13
+Rock music has gotten worse in the last two decades, and it's no longer controversial to say that indie rock is the culprit. Yet how did this happen? The best way to explain it is with a thought experiment that I call "Bizarro indie rock." 🧵 1/13
 
-What would indie rock's Bizarro counterpart look like, its mirror-image opposite? Well, since indie rock is all about helping the artist bypass the middleman, Bizarro indie rock must be all about helping the *middleman* bypass the *artist*. That's as backward as it gets! 2/13
+What would indie rock's Bizarro counterpart, its mirror-image opposite, look like? Well, since indie rock is all about helping the artist bypass the middleman, Bizarro indie rock must be all about helping the *middleman* bypass the *artist*. That's as backward as it gets! 2/13
 
 So how does this work? Bizarro indie rock gives middlemen the tools needed to do the artist's job. Of course, they still have to do their own job. But if they're doing both jobs, then they won't be amazing at either one. Luckily, Bizarro indie fans don't expect them to be. 3/13
 
