@@ -1,6 +1,6 @@
 # TODO Monday
+* Transfer funds
 * Booster shots for all
-* Apply to apartment
 * Go through mail
 * Renew passport
 * BYCombo stuff

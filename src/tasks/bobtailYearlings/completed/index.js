@@ -1,7 +1,7 @@
 export default [
     {
         taskName: `Bizarro indie rock tweet`,
-        workedHours: 24,
+        workedHours: 26,
     },
     {
         taskName: `Bobtail Method general work.`,
