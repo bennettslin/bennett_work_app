@@ -1,5 +1,6 @@
 # TODO Monday
-* Transfer funds
+* Buy more funds
+* Parents haircut
 * Booster shots for all
 * Go through mail
 * Renew passport
