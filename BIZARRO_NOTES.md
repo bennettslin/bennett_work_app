@@ -2,7 +2,7 @@ Rock music has gotten worse in the last two decades, and it's no longer controve
 
 What would indie rock's Bizarro counterpart, its mirror-image opposite, look like? Well, since indie rock is all about helping the artist bypass the middleman, Bizarro indie rock must be all about helping the *middleman* bypass the *artist*. That's as backward as it gets! 2/13
 
-Here's how it works: Bizarro indie rock provides middlemen with tools to do the artist's job, in addition to their own job. But now their time is split between two jobs— so they can't be amazing at either one. Luckily, their fans support them to cover up this weakness. 3/13
+Here's how it works: Bizarro indie rock provides middlemen with tools to do the artist's job, in addition to their own job. But now their time is split between two jobs— so they won't be amazing at either one. Luckily, their fans support them to cover up this weakness. 3/13
 
 What happens to all the artists? Many of them got into this scene because they love it. They knew they wouldn't be amazing as middlemen, so they took the job better suited to their skills. And clearly, their work benefits the middleman— yet everyone hates artists. 4/13
 

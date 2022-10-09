@@ -1,10 +1,12 @@
 # TODO Monday
+* Cialis prescription
 * Buy more funds
 * Parents haircut
 * Booster shots for all
 * Go through mail
 * Renew passport
 * BYCombo stuff
+    * Band page
 * Do in Illustrator
     * Open all files in Illustrator
         * Open all Odin files
@@ -17,6 +19,8 @@
         * Buoy: ears, eyes, and nose
         * Depths: ears, eyes, and nose
         * Floor: ears, eyes, and nose
+* Band mission statement
+* Five vowels of historical consequence
 * Set up computer for Chris
 
 # TODO soon
