@@ -1,10 +1,11 @@
 # TODO Monday
+* Malehanger instructions
+* Go through mail
+* Booster shots for all
 * Cialis prescription
+* Renew passport
 * Buy more funds
 * Parents haircut
-* Booster shots for all
-* Go through mail
-* Renew passport
 * BYCombo stuff
     * Band page
 * Do in Illustrator
