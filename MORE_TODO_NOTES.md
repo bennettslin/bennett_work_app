@@ -1,5 +1,6 @@
 # TODO Monday
-* Malehanger instructions
+* Take care of as much of this stuff first
+* AWS thing
 * Go through mail
 * Booster shots for all
 * Cialis prescription
