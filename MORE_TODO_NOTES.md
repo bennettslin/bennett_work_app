@@ -3,6 +3,7 @@
     * AWS thing
     * Go through mail
     * Cialis prescription
+    * Google emails
 * Booster shots for all
 * Renew passport
 * Parents haircut
