@@ -1,11 +1,10 @@
 # TODO Monday
 * Take care of as much of this stuff first
-* AWS thing
-* Go through mail
+    * AWS thing
+    * Go through mail
+    * Cialis prescription
 * Booster shots for all
-* Cialis prescription
 * Renew passport
-* Buy more funds
 * Parents haircut
 * BYCombo stuff
     * Band page
