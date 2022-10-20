@@ -5,6 +5,7 @@
         * Mederma Advanced Scar Gel
     * Go through mail
     * Cialis prescription
+* Take milestone photos
 * Booster shots for all
 * Renew passport
 * Parents haircut
