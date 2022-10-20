@@ -1,9 +1,10 @@
 # TODO Monday
 * Take care of as much of this stuff first
-    * AWS thing
+    * Buy at Target
+        * Sonia Kashuk Microneedle Facial Roller
+        * Mederma Advanced Scar Gel
     * Go through mail
     * Cialis prescription
-    * Google emails
 * Booster shots for all
 * Renew passport
 * Parents haircut
