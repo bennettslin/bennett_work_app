@@ -1,11 +1,12 @@
 # TODO Monday
 * Take care of as much of this stuff first
-    * Buy at Target
-        * Sonia Kashuk Microneedle Facial Roller
-        * Mederma Advanced Scar Gel
     * Go through mail
     * Cialis prescription
-* Take milestone photos
+* Pick and post milestone photos
+* Costco
+    * Floss
+    * Simethicone
+    * Soy milk
 * Booster shots for all
 * Renew passport
 * Parents haircut
