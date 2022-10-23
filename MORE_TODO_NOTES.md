@@ -7,6 +7,7 @@
     * Floss
     * Simethicone
     * Soy milk
+    * Antacid
 * Booster shots for all
 * Renew passport
 * Parents haircut
