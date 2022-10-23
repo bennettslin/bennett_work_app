@@ -6,8 +6,11 @@
 * Costco
     * Floss
     * Simethicone
-    * Soy milk
     * Antacid
+    * Alcohol
+    * Cereal
+    * Raisins
+    * Soy milk
 * Booster shots for all
 * Renew passport
 * Parents haircut
