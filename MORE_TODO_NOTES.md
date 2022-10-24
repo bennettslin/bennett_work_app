@@ -2,15 +2,6 @@
 * Take care of as much of this stuff first
     * Go through mail
     * Cialis prescription
-* Pick and post milestone photos
-* Costco
-    * Floss
-    * Simethicone
-    * Antacid
-    * Alcohol
-    * Cereal
-    * Raisins
-    * Soy milk
 * Booster shots for all
 * Renew passport
 * Parents haircut
