@@ -1,10 +1,10 @@
 # TODO Monday
 * Take care of as much of this stuff first
+    * RestoreX
     * Go through mail
     * Cialis prescription
 * Booster shots for all
 * Renew passport
-* Parents haircut
 * BYCombo stuff
     * Band page
 * Do in Illustrator
