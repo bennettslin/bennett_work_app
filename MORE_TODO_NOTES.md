@@ -1,9 +1,11 @@
 # TODO Monday
+* Make sure Kindle book returned
 * Take care of as much of this stuff first
     * RestoreX
-    * Go through mail
-    * Cialis prescription
-* Booster shots for all
+    * Figure out health insurance
+        * Cialis prescription
+        * Booster and flu shots
+* Booster and flu shots for parents
 * Renew passport
 * BYCombo stuff
     * Band page
