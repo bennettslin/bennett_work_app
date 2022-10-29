@@ -1,5 +1,4 @@
 # TODO Monday
-* Make sure Kindle book returned
 * Take care of as much of this stuff first
     * RestoreX
     * Figure out health insurance
@@ -8,6 +7,7 @@
 * Booster and flu shots for parents
 * Renew passport
 * BYCombo stuff
+    * Publish latest content
     * Band page
 * Do in Illustrator
     * Open all files in Illustrator
