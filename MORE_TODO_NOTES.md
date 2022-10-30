@@ -1,8 +1,11 @@
-# TODO Monday
+# TODO Sunday
+* Definitely do!
+    * Close window
+    * Figure out Cialis (Mark Cuban's website?)
+    * Finish and publish BYCombo content
 * Take care of as much of this stuff first
     * RestoreX
     * Figure out health insurance
-        * Cialis prescription
         * Booster and flu shots
 * Booster and flu shots for parents
 * Renew passport
