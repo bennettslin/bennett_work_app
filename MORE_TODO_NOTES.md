@@ -1,12 +1,14 @@
 # TODO Sunday
 * Definitely do!
-    * Close window
-    * Figure out Cialis (Mark Cuban's website?)
+    * Buy parts for bed hanger
     * Finish and publish BYCombo content
 * Take care of as much of this stuff first
     * RestoreX
     * Figure out health insurance
         * Booster and flu shots
+* Once this happens
+    * Deal with Cialis
+    * Start girth work again
 * Booster and flu shots for parents
 * Renew passport
 * BYCombo stuff
