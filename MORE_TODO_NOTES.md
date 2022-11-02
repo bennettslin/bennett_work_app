@@ -1,7 +1,4 @@
 # TODO Sunday
-* Do tomorrow
-    * Buy parts for bed hanger
-    * RestoreX
 * Take care of as much of this stuff first
     * Figure out health insurance
         * Booster and flu shots
