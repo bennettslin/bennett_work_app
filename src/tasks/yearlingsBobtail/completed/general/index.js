@@ -1,5 +1,9 @@
 export default [
     {
+        taskName: `Fix promo gradient mask.`,
+        workedHours: 2,
+    },
+    {
         taskName: `General bugs.`,
         workedHours: 2,
     },
