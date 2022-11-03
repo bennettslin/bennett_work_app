@@ -1,11 +1,9 @@
-# TODO Sunday
+# TODO Thursday
+* YouTube handles
+* BYCombo need for ruler makers to enforce rules
+* Figure out health insurance
 * Take care of as much of this stuff first
-    * Figure out health insurance
-        * Booster and flu shots
-* Once this happens
-    * Deal with Cialis
-    * Start girth work again
-* Booster and flu shots for parents
+    * Booster and flu shots
 * Renew passport
 * BYCombo stuff
     * Publish latest content
