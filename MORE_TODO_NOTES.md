@@ -1,13 +1,16 @@
 # TODO Thursday
-* YouTube handles
-* BYCombo need for ruler makers to enforce rules
+* Begin BYCombo need for rule makers to enforce rules
+* Read Ted Gioia's latest and the End of Art
 * Figure out health insurance
-* Take care of as much of this stuff first
-    * Booster and flu shots
 * Renew passport
+
+# TODO queue
+* Booster and flu shots
 * BYCombo stuff
-    * Publish latest content
     * Band page
+* BY stuff
+    * Band mission statement
+    * Five vowels of historical consequence
 * Do in Illustrator
     * Open all files in Illustrator
         * Open all Odin files
@@ -20,8 +23,6 @@
         * Buoy: ears, eyes, and nose
         * Depths: ears, eyes, and nose
         * Floor: ears, eyes, and nose
-* Band mission statement
-* Five vowels of historical consequence
 * Set up computer for Chris
 
 # TODO soon
@@ -29,7 +30,6 @@
     * Buy side table for red light device
     * Buy armchair
         * https://www.ikea.com/us/en/p/remsta-armchair-djuparp-dark-green-blue-80484956
-* Figure out health insurance
 * Renew Trusted Traveler
 * Sleep machine
 * Help mom with phone
