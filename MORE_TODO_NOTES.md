@@ -1,6 +1,7 @@
 # TODO Thursday
+* Remove erhu
+* Review own notes on history, pro-artist
 * Begin BYCombo need for rule makers to enforce rules
-* Read Ted Gioia's latest and the End of Art
 * Figure out health insurance
 * Renew passport
 
