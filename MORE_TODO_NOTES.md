@@ -1,11 +1,16 @@
 # TODO Thursday
-* Remove erhu
-* Review own notes on history, pro-artist
-* Begin BYCombo need for rule makers to enforce rules
-* Figure out health insurance
-* Renew passport
+* Work on Imgur notes
+* Definitely do
+    * Begin figuring out health insurance
+    * Set up appointment for car
+* Remove reference to erhu in Pareto
+* BYCombo work
+    * Review own notes on history, pro-artist
+    * Continue rule makers to enforce rules
+* Watch BD and Hink videos
 
 # TODO queue
+* Renew passport
 * Booster and flu shots
 * BYCombo stuff
     * Band page
@@ -26,7 +31,7 @@
         * Floor: ears, eyes, and nose
 * Set up computer for Chris
 
-# TODO soon
+# TODO long term
 * Ikea
     * Buy side table for red light device
     * Buy armchair
