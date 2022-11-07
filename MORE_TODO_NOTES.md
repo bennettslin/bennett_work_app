@@ -1,9 +1,13 @@
 # TODO Thursday
-* Work on Imgur notes
+* Remove reference to erhu in Pareto
+* Capitalize white in YB
+* Continue working on Imgur notes
+* Seat for Dad
+* Cancel Chinese newspaper
+* Tie bed hanger knots better
 * Definitely do
     * Begin figuring out health insurance
     * Set up appointment for car
-* Remove reference to erhu in Pareto
 * BYCombo work
     * Review own notes on history, pro-artist
     * Continue rule makers to enforce rules
