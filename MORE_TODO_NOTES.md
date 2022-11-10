@@ -1,17 +1,20 @@
 # TODO Thursday
+* Minorities for getting paid
+* Amanda Palmer
+* Dual-track system
+* Haircut
 * Remove reference to erhu in Pareto
 * Capitalize white in YB
-* Continue working on Imgur notes
-* Seat for Dad
+* Sex
+
+* Begin reading microderm book
 * Cancel Chinese newspaper
-* Tie bed hanger knots better
 * Definitely do
     * Begin figuring out health insurance
     * Set up appointment for car
 * BYCombo work
     * Review own notes on history, pro-artist
     * Continue rule makers to enforce rules
-* Watch BD and Hink videos
 
 # TODO queue
 * Renew passport
