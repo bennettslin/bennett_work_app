@@ -3,8 +3,6 @@
 * Amanda Palmer
 * Dual-track system
 * Haircut
-* Remove reference to erhu in Pareto
-* Capitalize white in YB
 * Sex
 
 * Begin reading microderm book
