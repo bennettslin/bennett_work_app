@@ -1,4 +1,8 @@
 # TODO Thursday
+* Citicholine
+* Begin figuring out health insurance
+    * Read UCLA info
+* BYCombo work
 * Minorities for getting paid
 * Amanda Palmer
 * Dual-track system
@@ -8,7 +12,6 @@
 * Begin reading microderm book
 * Cancel Chinese newspaper
 * Definitely do
-    * Begin figuring out health insurance
     * Set up appointment for car
 * BYCombo work
     * Review own notes on history, pro-artist
