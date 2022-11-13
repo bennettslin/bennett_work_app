@@ -1,12 +1,15 @@
 # TODO Thursday
+* Do NPM 2FA?
+* BYCombo work
+
+* Cut cords for desk pulley
+    * Glue ends
 * Citicholine
 * Begin figuring out health insurance
     * Read UCLA info
-* BYCombo work
 * Minorities for getting paid
 * Amanda Palmer
 * Dual-track system
-* Haircut
 * Sex
 
 * Begin reading microderm book
