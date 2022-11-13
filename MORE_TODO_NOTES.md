@@ -1,6 +1,7 @@
 # TODO Thursday
 * Do NPM 2FA?
 * BYCombo work
+* Fix sink clog
 
 * Cut cords for desk pulley
     * Glue ends
