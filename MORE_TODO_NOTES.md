@@ -1,17 +1,23 @@
 # TODO Thursday
-* Do NPM 2FA?
 * BYCombo work
-* Fix sink clog
+* Respond to birthday wishers
 
-* Cut cords for desk pulley
-    * Glue ends
-* Citicholine
+# Monday
+* Lunch with Anita
+* Buy eye bolt at DIY store
+    * https://smile.amazon.com/dp/B094NYVMK6
 * Begin figuring out health insurance
     * Read UCLA info
+
+* Do NPM 2FA?
 * Minorities for getting paid
 * Amanda Palmer
 * Dual-track system
 * Sex
+
+# At parents
+* Get pipe cleaner and large wrench
+    * Fix sink clog
 
 * Begin reading microderm book
 * Cancel Chinese newspaper
