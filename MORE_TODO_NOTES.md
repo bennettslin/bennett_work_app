@@ -1,9 +1,12 @@
 # TODO Thursday
 * BYCombo work
 * Respond to birthday wishers
+* Change BPFSL to just milestone
 
-# Monday
-* Lunch with Anita
+# Tuesday
+* Take penis photos
+* Sand down edges of Phallosan gauge
+* Return double pulley?
 * Buy eye bolt at DIY store
     * https://smile.amazon.com/dp/B094NYVMK6
 * Begin figuring out health insurance
@@ -13,10 +16,9 @@
 * Minorities for getting paid
 * Amanda Palmer
 * Dual-track system
-* Sex
 
 # At parents
-* Get pipe cleaner and large wrench
+* Get pipe cleaner, large wrench, and file
     * Fix sink clog
 
 * Begin reading microderm book
