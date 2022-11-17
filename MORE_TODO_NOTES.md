@@ -1,6 +1,11 @@
 # TODO Thursday
 * BYCombo work
-* Respond to Wade
+* Add hanger to elliptical
+* Errands
+    * Return double pulley
+    * Buy eye bolt at DIY store
+        * https://smile.amazon.com/dp/B094NYVMK6
+* Teak oil bathroom stand
 
 # Wednesday
 * Begin figuring out health insurance
@@ -8,18 +13,13 @@
 * Get pipe cleaner, large wrench, and file
     * Fix sink clog
 
-# Thursday
-* Sand down edges of Phallosan gauge
-* Return double pulley?
-* Buy eye bolt at DIY store
-    * https://smile.amazon.com/dp/B094NYVMK6
-
 * Do NPM 2FA?
 * Minorities for getting paid
 * Amanda Palmer
 * Dual-track system
 * Artsy lovefest
     * Yesterday's Tom Sawyer
+* Why I don't care how artists get paid
 
 * Begin reading microderm book
 * Cancel Chinese newspaper
