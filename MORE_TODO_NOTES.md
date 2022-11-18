@@ -1,13 +1,12 @@
 # TODO Thursday
 * BYCombo work
-* Add hanger to elliptical
 * Errands
     * Return double pulley
     * Buy eye bolt at DIY store
         * https://smile.amazon.com/dp/B094NYVMK6
-* Teak oil bathroom stand
+* Figure out ear problem
 
-# Wednesday
+# Friday
 * Begin figuring out health insurance
     * Read UCLA info
 * Get pipe cleaner, large wrench, and file
