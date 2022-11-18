@@ -4,9 +4,11 @@
     * Return double pulley
     * Buy eye bolt at DIY store
         * https://smile.amazon.com/dp/B094NYVMK6
-* Figure out ear problem
+* Huel discount
+* Mastodon account?
 
 # Friday
+* Return earwax removal kit
 * Begin figuring out health insurance
     * Read UCLA info
 * Get pipe cleaner, large wrench, and file
