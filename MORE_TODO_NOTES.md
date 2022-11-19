@@ -6,13 +6,13 @@
         * https://smile.amazon.com/dp/B094NYVMK6
 * Huel discount
 * Mastodon account?
+* Derma roll bumps
 
 # Friday
 * Return earwax removal kit
 * Begin figuring out health insurance
     * Read UCLA info
-* Get pipe cleaner, large wrench, and file
-    * Fix sink clog
+* Fix sink clog
 
 * Do NPM 2FA?
 * Minorities for getting paid
