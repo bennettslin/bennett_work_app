@@ -1,18 +1,14 @@
-# TODO Thursday
+# Sunday
+* Begin figuring out health insurance
+    * Read UCLA info
 * BYCombo work
+* Huel discount
+
+# Monday
 * Errands
     * Return double pulley
     * Buy eye bolt at DIY store
         * https://smile.amazon.com/dp/B094NYVMK6
-* Huel discount
-* Mastodon account?
-* Derma roll bumps
-
-# Friday
-* Return earwax removal kit
-* Begin figuring out health insurance
-    * Read UCLA info
-* Fix sink clog
 
 * Do NPM 2FA?
 * Minorities for getting paid
