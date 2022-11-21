@@ -10,6 +10,9 @@
     * Buy eye bolt at DIY store
         * https://smile.amazon.com/dp/B094NYVMK6
 
+# Wednesday
+* Bring sleeve
+
 * Do NPM 2FA?
 * Minorities for getting paid
 * Amanda Palmer
