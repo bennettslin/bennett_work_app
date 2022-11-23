@@ -1,5 +1,6 @@
 # Sunday
-* 
+* Shaver parts
+* Experiment with noise cancelling headphones
 * Begin figuring out health insurance
     * Read UCLA info
 * BYCombo work
@@ -13,6 +14,7 @@
 
 # Wednesday
 * Bring sleeve
+* Get scissors
 
 * Do NPM 2FA?
 * Minorities for getting paid
