@@ -1,4 +1,5 @@
 # Sunday
+* 
 * Begin figuring out health insurance
     * Read UCLA info
 * BYCombo work
