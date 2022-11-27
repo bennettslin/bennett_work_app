@@ -1,20 +1,15 @@
 # Sunday
-* Shaver parts
-* Experiment with noise cancelling headphones
+* BYCombo work
 * Begin figuring out health insurance
     * Read UCLA info
-* BYCombo work
+* Experiment with noise cancelling headphones
 * Huel discount
 
-# Monday
+# Saturday
 * Errands
     * Return double pulley
     * Buy eye bolt at DIY store
         * https://smile.amazon.com/dp/B094NYVMK6
-
-# Wednesday
-* Bring sleeve
-* Get scissors
 
 * Do NPM 2FA?
 * Minorities for getting paid
@@ -23,6 +18,8 @@
 * Artsy lovefest
     * Yesterday's Tom Sawyer
 * Why I don't care how artists get paid
+* Only Gen X can save rock
+    * Nazis
 
 * Begin reading microderm book
 * Cancel Chinese newspaper
