@@ -1,18 +1,16 @@
 # Monday
-* Experiment with noise cancelling headphones
+* Find puzzle company
+    * 100 pieces
 * Errands
     * Return double pulley
     * Buy eye bolt at DIY store
         * https://smile.amazon.com/dp/B094NYVMK6
     * Fill up car
         * Wash windows
-* Find puzzle company
-    * 100 pieces
 * Begin figuring out health insurance
     * Read UCLA info
 * Huel discount
 * PE
-    * Sand down extender
     * Silicone epoxy
         * Knot ends
         * Vacuum cups
