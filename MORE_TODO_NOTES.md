@@ -1,19 +1,11 @@
 # Monday
-* Find puzzle company
-    * 100 pieces
-* Errands
-    * Return double pulley
-    * Buy eye bolt at DIY store
-        * https://smile.amazon.com/dp/B094NYVMK6
-    * Fill up car
-        * Wash windows
 * Begin figuring out health insurance
     * Read UCLA info
-* Huel discount
-* PE
-    * Silicone epoxy
-        * Knot ends
-        * Vacuum cups
+
+# Wednesday
+* Hair clips
+* Raisins
+* Hand soap
 
 # Saturday
 * Do NPM 2FA?
@@ -27,12 +19,14 @@
     * Nazis
 
 * Begin reading microderm book
-* Cancel Chinese newspaper
 * Definitely do
     * Set up appointment for car
 * BYCombo work
     * Review own notes on history, pro-artist
     * Continue rule makers to enforce rules
+
+# December 4
+* Keep Illustrator open
 
 # TODO queue
 * Renew passport
