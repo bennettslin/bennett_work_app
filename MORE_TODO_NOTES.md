@@ -1,13 +1,15 @@
-# Monday
+# Thursday
 * Begin figuring out health insurance
     * Read UCLA info
+* Haircut
 
-# Wednesday
-* Hair clips
-* Raisins
-* Hand soap
+# Friday
+* Get butter
 
 # Saturday
+* Install foam tubing
+
+# Evernote
 * Do NPM 2FA?
 * Minorities for getting paid
 * Amanda Palmer
@@ -18,7 +20,10 @@
 * Only Gen X can save rock
     * Nazis
 
-* Begin reading microderm book
+# Costco
+* Coffee
+* Raisins
+
 * Definitely do
     * Set up appointment for car
 * BYCombo work
