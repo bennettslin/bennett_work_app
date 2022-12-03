@@ -1,13 +1,12 @@
-# Thursday
-* Begin figuring out health insurance
-    * Read UCLA info
-* Haircut
-
-# Friday
-* Get butter
-
 # Saturday
+* Return clothespins
 * Install foam tubing
+    * Take photos
+* Figure out health plan
+    * Look into Kaiser
+
+# Monday
+* Change dentist appointment
 
 # Evernote
 * Do NPM 2FA?
