@@ -1,7 +1,9 @@
-# Saturday
-* Return clothespins
-* Install foam tubing
-    * Take photos
+# Sunday
+* Leave clothespin with parents
+* Costco
+    * Coffee
+    * Raisins
+* BYCombo
 * Figure out health plan
     * Look into Kaiser
 
@@ -18,10 +20,6 @@
 * Why I don't care how artists get paid
 * Only Gen X can save rock
     * Nazis
-
-# Costco
-* Coffee
-* Raisins
 
 * Definitely do
     * Set up appointment for car
