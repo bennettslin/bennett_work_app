@@ -1,6 +1,7 @@
 # Monday morning
 * Figure out health plan
     * Look into Kaiser
+* Reorganize weights
 * BYCombo
     * Sublinear versus superlinear
     * Logarithmic versus exponential
