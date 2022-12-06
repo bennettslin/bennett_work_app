@@ -1,14 +1,9 @@
-# Sunday
-* Leave clothespin with parents
-* Costco
-    * Coffee
-    * Raisins
-* BYCombo
+# Monday morning
 * Figure out health plan
     * Look into Kaiser
-
-# Monday
-* Change dentist appointment
+* BYCombo
+    * Sublinear versus superlinear
+    * Logarithmic versus exponential
 
 # Evernote
 * Do NPM 2FA?
@@ -26,9 +21,6 @@
 * BYCombo work
     * Review own notes on history, pro-artist
     * Continue rule makers to enforce rules
-
-# December 4
-* Keep Illustrator open
 
 # TODO queue
 * Renew passport
