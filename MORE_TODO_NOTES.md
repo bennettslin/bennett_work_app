@@ -1,9 +1,10 @@
-# Monday morning
-* Figure out health plan
-    * Look into Kaiser
+# Thursday
 * BYCombo
+    * Mention Rosalind Franklin album
     * Sublinear versus superlinear
     * Logarithmic versus exponential
+* Confirm health plan
+    * Confirm dental health plan
 
 # Evernote
 * Do NPM 2FA?
