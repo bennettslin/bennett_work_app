@@ -1,9 +1,14 @@
-# Thursday
+# Sunday
 * BYCombo
     * Mention Rosalind Franklin album
-    * Sublinear versus superlinear
-    * Logarithmic versus exponential
-* Confirm health plan
+    * Leave original for now
+    * Put in comments:
+        * Sublinear versus superlinear
+        * Logarithmic versus exponential
+
+# Monday
+* Read mail
+    * Confirm health plan
     * Confirm dental health plan
 
 # Evernote
