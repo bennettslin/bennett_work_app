@@ -1,15 +1,15 @@
 # Sunday
+
+# Tuesday
+* Take penis photos
 * BYCombo
     * Mention Rosalind Franklin album
-    * Leave original for now
-    * Put in comments:
-        * Sublinear versus superlinear
-        * Logarithmic versus exponential
-
-# Monday
 * Read mail
     * Confirm health plan
     * Confirm dental health plan
+
+# Wednesday
+* Make bedside cup
 
 # Evernote
 * Do NPM 2FA?
