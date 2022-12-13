@@ -1,9 +1,7 @@
-# Sunday
-
 # Tuesday
 * Take penis photos
 * BYCombo
-    * Mention Rosalind Franklin album
+    * Where best to mention Rosalind Franklin album?
 * Read mail
     * Confirm health plan
     * Confirm dental health plan
