@@ -2,12 +2,15 @@
 * Take penis photos
 * BYCombo
     * Where best to mention Rosalind Franklin album?
+* YB
+    * Get rid of Web3 mention
 * Read mail
     * Confirm health plan
     * Confirm dental health plan
 
 # Wednesday
 * Make bedside cup
+* Coconut oil
 
 # Evernote
 * Do NPM 2FA?
