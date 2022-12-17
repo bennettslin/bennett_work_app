@@ -1,16 +1,21 @@
-# Tuesday
-* Take penis photos
-* BYCombo
-    * Where best to mention Rosalind Franklin album?
-* YB
-    * Get rid of Web3 mention
-* Read mail
-    * Confirm health plan
+# Thursday
+* Confirm health plan
     * Confirm dental health plan
+* Amazon cards for Sam and Tom
+* Confirm with Anita no package
+* BYCombo work
+    * Why BYCombo? Centralized explanation
+    * YB demo page
+    * BY core values
+    * Million dollar offer
 
-# Wednesday
-* Make bedside cup
-* Coconut oil
+# Saturday
+* Penis photos
+
+# Soon
+* Make Phallosan hanger
+    * Photos for eventual Imgur post
+* Look into CDs?
 
 # Evernote
 * Do NPM 2FA?
