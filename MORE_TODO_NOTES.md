@@ -1,20 +1,22 @@
-# Thursday
+# Today
 * Confirm health plan
     * Confirm dental health plan
 * Amazon cards for Sam and Tom
-* Confirm with Anita no package
 * BYCombo work
-    * Why BYCombo? Centralized explanation
     * YB demo page
     * BY core values
     * Million dollar offer
 
-# Saturday
-* Penis photos
+# Sunday
+* Prepare package
+    * Print label
+* Take photos for Imgur reputation
 
 # Soon
+* Take penis photos after blister heals
 * Make Phallosan hanger
     * Photos for eventual Imgur post
+* RestoreX photos
 * Look into CDs?
 
 # Evernote
@@ -31,6 +33,7 @@
 * Definitely do
     * Set up appointment for car
 * BYCombo work
+    * Why BCombo? Centralized explanation
     * Review own notes on history, pro-artist
     * Continue rule makers to enforce rules
 
