@@ -11,6 +11,7 @@
 * Prepare package
     * Print label
 * Take photos for Imgur reputation
+* Take RestoreX photos
 
 # Soon
 * Take penis photos after blister heals
