@@ -1,20 +1,27 @@
 # Today
+* Puzzle
+* SoCal Gas
+* Organize spreadsheet
+* Get raisins
 * Confirm health plan
     * Confirm dental health plan
 * Amazon cards for Sam and Tom
 * BYCombo work
+    * Finish home page section
     * YB demo page
     * BY core values
     * Million dollar offer
+* Prepare package for return
+* Millennials mistakenly assumed that criticizing music as noise is the same as boring
 
-# Sunday
-* Prepare package
-    * Print label
+# Friday
 * Take photos for Imgur reputation
 * Take RestoreX photos
 
+# Saturday
+* Take penis photos
+
 # Soon
-* Take penis photos after blister heals
 * Make Phallosan hanger
     * Photos for eventual Imgur post
 * RestoreX photos
