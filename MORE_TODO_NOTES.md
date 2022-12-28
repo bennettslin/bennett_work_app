@@ -10,7 +10,6 @@
     * Million dollar offer
 * Confirm health plan
     * Confirm dental health plan
-* Experiment with Air Lock clamp
 
 # Tomorrow
 * Return package
@@ -22,10 +21,12 @@
     * Vacuum cupping
     * Clamped edging
 * Look into CDs?
-* Try water pumping
+* Figure out HSA money
 
 # Costco
+* Flaxseed Oil
 * Glucosamine
+* Magnesium
 * Soda water
 
 # Evernote
