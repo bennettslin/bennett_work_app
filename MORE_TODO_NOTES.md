@@ -1,22 +1,23 @@
 # Today
+* Privatization in New Deal
+* Confirm check deposit
 * Go through mail
-* Look through Blue Shield website
-* SoCal Gas
 * Covid and flu shots for parents
 * BYCombo work
-    * Finish home page section
+    * Review home page section
+    * BYCombo centralization argument
     * YB demo page
     * BY core values
     * Million dollar offer
-* Confirm health plan
+* Health plan work
+    * Look through Blue Shield website
+    * Pay Covered CA
     * Confirm dental health plan
 
 # Tomorrow
 * Return package
-* Get pot
 
 # Soon
-* Confirm check deposit
 * Photos for posts
     * Vacuum cupping
     * Clamped edging
@@ -24,6 +25,7 @@
 * Figure out HSA money
 
 # Costco
+* Coffee
 * Flaxseed Oil
 * Glucosamine
 * Magnesium
