@@ -1,10 +1,8 @@
 # Today
-* Privatization in New Deal
-* Confirm check deposit
 * Go through mail
 * Covid and flu shots for parents
 * BYCombo work
-    * Review home page section
+    * Review gatekeepers section
     * BYCombo centralization argument
     * YB demo page
     * BY core values
@@ -16,6 +14,7 @@
 
 # Tomorrow
 * Return package
+* Fix doll
 
 # Soon
 * Photos for posts
