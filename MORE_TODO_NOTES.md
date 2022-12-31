@@ -23,12 +23,8 @@
 * Look into CDs?
 * Figure out HSA money
 
-# Costco
-* Coffee
-* Flaxseed Oil
-* Glucosamine
-* Magnesium
-* Soda water
+# Sunday
+* Bring metal dishes
 
 # Evernote
 * Do NPM 2FA?
