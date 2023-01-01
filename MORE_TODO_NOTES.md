@@ -2,8 +2,6 @@
 * Go through mail
 * Covid and flu shots for parents
 * BYCombo work
-    * Review gatekeepers section
-    * BYCombo centralization argument
     * YB demo page
     * BY core values
     * Million dollar offer
