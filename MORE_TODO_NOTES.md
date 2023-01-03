@@ -1,4 +1,5 @@
 # Today
+* Fix bedside hanger
 * Go through mail
 * Covid and flu shots for parents
 * BYCombo work
