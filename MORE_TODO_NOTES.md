@@ -1,5 +1,4 @@
 # Today
-* Fix bedside hanger
 * Go through mail
 * Covid and flu shots for parents
 * BYCombo work
@@ -23,7 +22,8 @@
 * Figure out HSA money
 
 # Sunday
-* Bring metal dishes
+* Toilet paper
+* Soap
 
 # Evernote
 * Do NPM 2FA?
