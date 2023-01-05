@@ -1,17 +1,19 @@
 # Today
-* Go through mail
-* Covid and flu shots for parents
-* BYCombo work
-    * YB demo page
-    * BY core values
-    * Million dollar offer
+* Transfer dividends
+* Return package
+* Ask for Phallosan filter again
 * Health plan work
     * Look through Blue Shield website
     * Pay Covered CA
     * Confirm dental health plan
+* Covid and flu shots for parents
+* BYCombo work
+    * Centralization
+    * YB demo page
+    * BY core values
+    * Million dollar offer
 
 # Tomorrow
-* Return package
 * Fix doll
 
 # Soon
