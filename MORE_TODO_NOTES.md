@@ -1,19 +1,17 @@
 # Today
-* Transfer dividends
 * Return package
-* Ask for Phallosan filter again
 * Health plan work
     * Look through Blue Shield website
     * Pay Covered CA
     * Confirm dental health plan
 * Covid and flu shots for parents
 * BYCombo work
-    * Centralization
     * YB demo page
     * BY core values
     * Million dollar offer
 
 # Tomorrow
+* Transfer dividends
 * Fix doll
 
 # Soon
@@ -24,8 +22,7 @@
 * Figure out HSA money
 
 # Sunday
-* Toilet paper
-* Soap
+* Keychain
 
 # Evernote
 * Do NPM 2FA?
