@@ -1,4 +1,5 @@
 # Today
+* Respond to noise complaint
 * Return package
 * Health plan work
     * Look through Blue Shield website
@@ -11,7 +12,6 @@
     * Million dollar offer
 
 # Tomorrow
-* Transfer dividends
 * Fix doll
 
 # Soon
