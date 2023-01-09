@@ -1,19 +1,32 @@
 # Today
-* Write to Chris and Ashley
-* Return package
-* Health plan work
+1. Return package
+2. Shipstation thing?
+3. Fix doll
+4. Write to Chris
+5. Write to Ashley
+6. Health plan work
     * Look through Blue Shield website
     * Pay Covered CA
     * Confirm dental health plan
+7. Set alarm clock
+8. Bake food
+
+# Tomorrow
+* Schedule doctor appointment
 * Covid and flu shots for parents
-* Shipstation thing?
-* BYCombo work
+* Band work
+    * Finish gatekeepers section
     * YB demo page
     * BY core values
     * Million dollar offer
 
-# Tomorrow
-* Fix doll
+# Parents
+* Butter
+* Udon
+* Milk
+* Soap
+* Raisins
+* Cereal
 
 # Soon
 * Photos for posts
@@ -27,24 +40,13 @@
 * Minorities for getting paid
 * Amanda Palmer
 * Dual-track system
-* Artsy lovefest
-    * Yesterday's Tom Sawyer
 * Why I don't care how artists get paid
-* Only Gen X can save rock
-    * Nazis
 
 * Definitely do
     * Set up appointment for car
-* BYCombo work
-    * Why BCombo? Centralized explanation
-    * Review own notes on history, pro-artist
-    * Continue rule makers to enforce rules
 
 # TODO queue
 * Renew passport
-* Booster and flu shots
-* BYCombo stuff
-    * Band page
 * BY stuff
     * Band mission statement
     * Five vowels of historical consequence
@@ -94,8 +96,6 @@
     * Design and draw dream final -->
 
 # July
-* Finish Bobtail Yearlings mission
-    * Then publish BY again
 * Illustrator
 * Make sure link to doublespeaker rhyme looks fine in mobile
 * Five vowels of historical consequence
@@ -109,7 +109,6 @@
 
 * Car
 * Contacts
-* Accountant
 * New apartment
 * DMV real ID
 
