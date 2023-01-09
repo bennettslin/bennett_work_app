@@ -1,11 +1,12 @@
 # Today
-* Shipstation thing?
+* Write to Chris and Ashley
 * Return package
 * Health plan work
     * Look through Blue Shield website
     * Pay Covered CA
     * Confirm dental health plan
 * Covid and flu shots for parents
+* Shipstation thing?
 * BYCombo work
     * YB demo page
     * BY core values
@@ -20,9 +21,6 @@
     * Clamped edging
 * Look into CDs?
 * Figure out HSA money
-
-# Sunday
-* Keychain
 
 # Evernote
 * Do NPM 2FA?
