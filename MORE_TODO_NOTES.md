@@ -1,26 +1,17 @@
 # Today
-1. Return package
-2. Shipstation thing?
-3. Fix doll
-4. Write to Chris
-5. Write to Ashley
-6. Health plan work
-    * Look through Blue Shield website
-    * Pay Covered CA
-    * Confirm dental health plan
-7. Set alarm clock
-8. Bake food
-
-# Tomorrow
-* Schedule doctor appointment
-* Covid and flu shots for parents
+* Confirm dentist appointment cancelled
+    * Reschedule in February
 * Band work
     * Finish gatekeepers section
     * YB demo page
     * BY core values
     * Million dollar offer
+* Confirm dental health plan
+    * Figure out how to pay dental insurance
 
 # Parents
+* Covid and flu shots for parents
+1. Return package
 * Butter
 * Udon
 * Milk
@@ -29,6 +20,7 @@
 * Cereal
 
 # Soon
+* Make doctor's appointment
 * Photos for posts
     * Vacuum cupping
     * Clamped edging
