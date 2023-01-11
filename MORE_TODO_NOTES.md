@@ -1,31 +1,24 @@
 # Today
-* Confirm dentist appointment cancelled
-    * Reschedule in February
-* Band work
-    * Finish gatekeepers section
-    * YB demo page
-    * BY core values
-    * Million dollar offer
-* Confirm dental health plan
-    * Figure out how to pay dental insurance
-
-# Parents
+* Make doctor's appointment
 * Covid and flu shots for parents
-1. Return package
+* Return package
 * Butter
 * Udon
 * Milk
 * Soap
 * Raisins
 * Cereal
+* Tofu
 
 # Soon
-* Make doctor's appointment
+* Accountant
 * Photos for posts
     * Vacuum cupping
     * Clamped edging
 * Look into CDs?
 * Figure out HSA money
+* Follow up with Phallosan
+* Follow up with Still On
 
 # Evernote
 * Do NPM 2FA?
