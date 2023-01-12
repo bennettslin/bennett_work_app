@@ -6,7 +6,7 @@
 * Return package
 * Update extender post
     * Take photos
-* Try power thing with CPAP
+* Repower power thing
 
 # Soon
 * Accountant
