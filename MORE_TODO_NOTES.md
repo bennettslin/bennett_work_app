@@ -1,14 +1,12 @@
 # Today
+* Hula hoop
+    * Take photos of clamped hanger
 * Make doctor's appointment
 * Covid and flu shots for parents
 * Return package
-* Butter
-* Udon
-* Milk
-* Soap
-* Raisins
-* Cereal
-* Tofu
+* Update extender post
+    * Take photos
+* Try power thing with CPAP
 
 # Soon
 * Accountant
