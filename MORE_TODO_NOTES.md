@@ -1,14 +1,12 @@
 # Today
-* Hula hoop
-    * Take photos of clamped hanger
-* Make doctor's appointment
 * Covid and flu shots for parents
 * Return package
 * Update extender post
     * Take photos
-* Repower power thing
+
 
 # Soon
+* Xacto knife
 * Accountant
 * Photos for posts
     * Vacuum cupping
@@ -18,17 +16,9 @@
 * Follow up with Phallosan
 * Follow up with Still On
 
-# Evernote
-* Do NPM 2FA?
-* Minorities for getting paid
-* Amanda Palmer
-* Dual-track system
-* Why I don't care how artists get paid
-
-* Definitely do
-    * Set up appointment for car
-
 # TODO queue
+* Do NPM 2FA?
+* Set up appointment for car
 * Renew passport
 * BY stuff
     * Band mission statement
