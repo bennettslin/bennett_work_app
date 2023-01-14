@@ -1,4 +1,6 @@
 # Today
+* Take Tylenol
+* Xacto knife
 * Covid and flu shots for parents
 * Return package
 * Update extender post
@@ -6,7 +8,6 @@
 
 
 # Soon
-* Xacto knife
 * Accountant
 * Photos for posts
     * Vacuum cupping
