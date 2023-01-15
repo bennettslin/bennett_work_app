@@ -1,5 +1,5 @@
 # Today
-* Take Tylenol
+* Put away doll
 * Xacto knife
 * Covid and flu shots for parents
 * Return package
