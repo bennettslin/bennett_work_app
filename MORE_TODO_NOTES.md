@@ -1,6 +1,7 @@
 # Today
-* Put away doll
-* Xacto knife
+* Fix doll
+* Follow up with Phallosan
+* Follow up with Still On
 * Covid and flu shots for parents
 * Return package
 * Update extender post
@@ -14,8 +15,6 @@
     * Clamped edging
 * Look into CDs?
 * Figure out HSA money
-* Follow up with Phallosan
-* Follow up with Still On
 
 # TODO queue
 * Do NPM 2FA?
