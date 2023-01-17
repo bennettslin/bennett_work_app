@@ -1,11 +1,10 @@
 # Today
-* Fix doll
+* Put putty in vacuum cup
+* Update bedside hanger
 * Follow up with Phallosan
 * Follow up with Still On
 * Covid and flu shots for parents
 * Return package
-* Update extender post
-    * Take photos
 
 
 # Soon
