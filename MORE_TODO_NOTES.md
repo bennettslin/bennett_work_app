@@ -1,10 +1,16 @@
 # Today
+* Prepare for power outage
+    * Food
+    * Water
+    * Charge stuff
+    * Hook up internet?
 * Put putty in vacuum cup
 * Update bedside hanger
 * Follow up with Phallosan
 * Follow up with Still On
 * Covid and flu shots for parents
 * Return package
+* Figure out dentist stuff
 
 
 # Soon
@@ -73,10 +79,8 @@
 * Five vowels of historical consequence
 * Odin portals
 * Face fixes
-* Buy glue
 
 # TODO
-* Look into health insurance
 * Switch Instagram accounts
 
 * Car
