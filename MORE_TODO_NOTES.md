@@ -1,16 +1,19 @@
 # Today
 * Prepare for power outage
-    * Food
-    * Water
-    * Charge stuff
-    * Hook up internet?
 * Put putty in vacuum cup
-* Update bedside hanger
 * Follow up with Phallosan
 * Follow up with Still On
+* Buy electric pump
 * Covid and flu shots for parents
-* Return package
 * Figure out dentist stuff
+* Begin working out
+* Better cup for noctural erections?
+* Clean up clippers
+* Install guitar wall mounts
+
+# Thursday
+* Return package
+* Update bedside hanger
 
 
 # Soon
