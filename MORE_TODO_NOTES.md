@@ -1,7 +1,3 @@
-# Do next
-* Read legs book
-* Review and publish BYC
-
 # Today
 * Begin working out!
     * Set up worksheets
