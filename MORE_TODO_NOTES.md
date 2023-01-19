@@ -1,22 +1,26 @@
+# Do next
+* Read legs book
+* Review and publish BYC
+
 # Today
-* Prepare for power outage
-* Put putty in vacuum cup
+* Begin working out!
+    * Set up worksheets
 * Follow up with Phallosan
-* Follow up with Still On
-* Buy electric pump
+* Put putty in vacuum cup
 * Covid and flu shots for parents
 * Figure out dentist stuff
-* Begin working out
-* Better cup for noctural erections?
-* Clean up clippers
 * Install guitar wall mounts
+* Band stuff
+    * YB demo page
+    * Band mission statement
+    * Admin million statement
 
 # Thursday
 * Return package
 * Update bedside hanger
 
-
 # Soon
+* Confirm Still On refund
 * Accountant
 * Photos for posts
     * Vacuum cupping
@@ -28,9 +32,6 @@
 * Do NPM 2FA?
 * Set up appointment for car
 * Renew passport
-* BY stuff
-    * Band mission statement
-    * Five vowels of historical consequence
 * Do in Illustrator
     * Open all files in Illustrator
         * Open all Odin files
@@ -44,6 +45,7 @@
         * Depths: ears, eyes, and nose
         * Floor: ears, eyes, and nose
 * Set up computer for Chris
+* Five vowels of historical consequence
 
 # TODO long term
 * Ikea
