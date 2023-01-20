@@ -1,11 +1,15 @@
 # Today
+* Remove glans clamp
+* Start taking creatine
 * Begin working out!
     * Set up worksheets
-* Follow up with Phallosan
 * Put putty in vacuum cup
 * Covid and flu shots for parents
 * Figure out dentist stuff
 * Install guitar wall mounts
+* Bobtail Yearlings
+    * h1 and h3 shouldn't be same size
+    * Allow for updated date
 * Band stuff
     * YB demo page
     * Band mission statement
@@ -17,6 +21,7 @@
 
 # Soon
 * Confirm Still On refund
+* Confirm Phallosan
 * Accountant
 * Photos for posts
     * Vacuum cupping
@@ -25,9 +30,9 @@
 * Figure out HSA money
 
 # TODO queue
+* Check on passport
 * Do NPM 2FA?
 * Set up appointment for car
-* Renew passport
 * Do in Illustrator
     * Open all files in Illustrator
         * Open all Odin files
