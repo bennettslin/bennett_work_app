@@ -1,7 +1,7 @@
 export default [
     {
-        taskName: `Core values and historical consequence`,
-        workedHours: 6,
+        taskName: `Core values`,
+        workedHours: 14,
         neededHours: 100,
     },
     {

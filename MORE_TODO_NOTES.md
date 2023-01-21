@@ -7,9 +7,6 @@
 * Covid and flu shots for parents
 * Figure out dentist stuff
 * Install guitar wall mounts
-* Bobtail Yearlings
-    * h1 and h3 shouldn't be same size
-    * Allow for updated date
 * Band stuff
     * YB demo page
     * Band mission statement
@@ -20,7 +17,6 @@
 * Update bedside hanger
 
 # Soon
-* Confirm Still On refund
 * Confirm Phallosan
 * Accountant
 * Photos for posts
