@@ -1,6 +1,7 @@
 # Today
-* Remove glans clamp
-* Start taking creatine
+* Still On
+* Think about hat
+* Clean doll
 * Begin working out!
     * Set up worksheets
 * Put putty in vacuum cup
@@ -9,7 +10,6 @@
 * Install guitar wall mounts
 * Band stuff
     * YB demo page
-    * Band mission statement
     * Admin million statement
 
 # Thursday
