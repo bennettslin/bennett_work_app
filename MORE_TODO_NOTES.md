@@ -16,6 +16,11 @@
 * Return package
 * Update bedside hanger
 
+# Costco
+* Cereal
+* Raisins
+* Mom's ginger and green tea
+
 # Soon
 * Confirm Phallosan
 * Accountant
