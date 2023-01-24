@@ -1,19 +1,20 @@
 # Today
-* Still On
+* Buy pump
+* Confirm dentist stuff
+* Mirror
+* Return package
+* Fix doll
+
+# Tomorrow
 * Think about hat
-* Clean doll
-* Begin working out!
-    * Set up worksheets
 * Put putty in vacuum cup
 * Covid and flu shots for parents
-* Figure out dentist stuff
 * Install guitar wall mounts
 * Band stuff
     * YB demo page
     * Admin million statement
 
 # Thursday
-* Return package
 * Update bedside hanger
 
 # Costco
