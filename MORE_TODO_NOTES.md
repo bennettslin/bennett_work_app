@@ -1,8 +1,6 @@
 # Today
 * Buy pump
 * Confirm dentist stuff
-* Mirror
-* Return package
 * Fix doll
 
 # Tomorrow
