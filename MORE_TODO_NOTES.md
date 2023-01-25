@@ -1,4 +1,6 @@
 # Today
+* Orbus VR
+* Photo doesn't load when essay is first loaded
 * Buy pump
 * Confirm dentist stuff
 * Fix doll
