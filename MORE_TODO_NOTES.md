@@ -1,5 +1,5 @@
 # Today
-* Orbus VR
+* Worksheets
 * Photo doesn't load when essay is first loaded
 * Buy pump
 * Confirm dentist stuff
@@ -18,11 +18,14 @@
 * Update bedside hanger
 
 # Costco
-* Cereal
+* Soy milk
+* Dried mangoes
 * Raisins
 * Mom's ginger and green tea
 
 # Soon
+* Definitive proof that today's music is worse
+    * Choosing today's music based on yesterday's notions of what a creative work looks like. And no one has noticed, because for most people, the ones actually listening to today's music, this is a feature, not a bug
 * Confirm Phallosan
 * Accountant
 * Photos for posts
