@@ -1,6 +1,9 @@
 # Today
+* Still On
+* BY
+    * Photo doesn't load when essay is first loaded
+    * Review and publish
 * Worksheets
-* Photo doesn't load when essay is first loaded
 * Buy pump
 * Confirm dentist stuff
 * Fix doll
@@ -16,12 +19,6 @@
 
 # Thursday
 * Update bedside hanger
-
-# Costco
-* Soy milk
-* Dried mangoes
-* Raisins
-* Mom's ginger and green tea
 
 # Soon
 * Definitive proof that today's music is worse
