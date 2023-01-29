@@ -1,28 +1,31 @@
 # Today
-* Still On
-* BY
-    * Photo doesn't load when essay is first loaded
-    * Review and publish
-* Worksheets
+* Illustrator
+    * Comparison photos
+* Band stuff
+    * Do Illustrator work
+    * YB demo page
+    * Write writers
+    * Admin million statement
+* Modify links page
 * Buy pump
 * Confirm dentist stuff
 * Fix doll
 
-# Tomorrow
+# Sunday
+* Fix Dad's cable
 * Think about hat
 * Put putty in vacuum cup
 * Covid and flu shots for parents
 * Install guitar wall mounts
-* Band stuff
-    * YB demo page
-    * Admin million statement
 
 # Thursday
 * Update bedside hanger
 
+# February 12
+* Cancel Illustrator
+
 # Soon
-* Definitive proof that today's music is worse
-    * Choosing today's music based on yesterday's notions of what a creative work looks like. And no one has noticed, because for most people, the ones actually listening to today's music, this is a feature, not a bug
+* Tweet Bizarro
 * Confirm Phallosan
 * Accountant
 * Photos for posts
@@ -30,6 +33,8 @@
     * Clamped edging
 * Look into CDs?
 * Figure out HSA money
+* Passport status
+    * https://passportstatus.state.gov
 
 # TODO queue
 * Check on passport
