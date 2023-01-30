@@ -10,7 +10,6 @@ export default [
     {
         taskName: `Bobtail Method general work.`,
         workedHours: 42,
-        neededHours: 42,
     },
     {
         taskName: `Hosting for Asians and Beatles websites.`,

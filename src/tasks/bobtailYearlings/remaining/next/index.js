@@ -1,5 +1,10 @@
 export default [
     {
+        taskName: `Two essays`,
+        workedHours: 8,
+        neededHours: 100,
+    },
+    {
         taskName: `Smarter strategy for shared files.`,
         workedHours: 0,
         neededHours: 3,

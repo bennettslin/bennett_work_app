@@ -1,15 +1,17 @@
 # Today
+* Tweet about mission statement
+* Balance elliptical
+* Fix doll
 * Illustrator
     * Comparison photos
 * Band stuff
-    * Do Illustrator work
+    * Illustrator work
+    * Modify links page
     * YB demo page
-    * Write writers
-    * Admin million statement
-* Modify links page
+    * Essays for writers
+    * Make sure link to doublespeaker rhyme looks fine in mobile
 * Buy pump
 * Confirm dentist stuff
-* Fix doll
 
 # Sunday
 * Fix Dad's cable
@@ -35,11 +37,11 @@
 * Figure out HSA money
 * Passport status
     * https://passportstatus.state.gov
+* Driver's license
+* Set up appointment for car
 
 # TODO queue
-* Check on passport
 * Do NPM 2FA?
-* Set up appointment for car
 * Do in Illustrator
     * Open all files in Illustrator
         * Open all Odin files
@@ -65,18 +67,6 @@
 * Help mom with phone
 
 # TODO After important
-* Contact game maker
-* BYCombo changes
-    * Yearling's Bobtail demo page content
-    * Latest todos?
-    * Then publish BYC
-
-* Odin portals
-    * Illustrator files
-        * Add needed presences
-        * Add screenshots
-        * Simplify background presences
-    * Implement
 <!-- * Didi past ending
     * Make sketch to scan
         * Photo scrapbook
@@ -86,23 +76,7 @@
     * Add dream final presence
     * Design and draw dream final -->
 
-# July
-* Illustrator
-* Make sure link to doublespeaker rhyme looks fine in mobile
-* Five vowels of historical consequence
-* Odin portals
-* Face fixes
-
-# TODO
-* Switch Instagram accounts
-
-* Car
-* Contacts
-* New apartment
-* DMV real ID
-
 # Projects
-* YB stuff
 * Begin work on BY Combo
     * Google Form
         * Embed on page
