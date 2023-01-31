@@ -1,25 +1,20 @@
 # Today
 * BD videos
-* Tweet about mission statement
-* Balance elliptical
-* Fix doll
 * Illustrator
     * Comparison photos
 * Band stuff
-    * Mission statement
     * Make link use markdown
+        * Make links continue across years
     * Illustrator work
     * Modify links page
     * YB demo page
     * Essays for writers
     * Make sure link to doublespeaker rhyme looks fine in mobile
-    * Self-sacrifice in mission
-* Buy pump
 * Confirm dentist stuff
 
-# Sunday
+# Wednesday
 * Fix Dad's cable
-* Think about hat
+* Box for hat
 * Put putty in vacuum cup
 * Covid and flu shots for parents
 * Install guitar wall mounts
