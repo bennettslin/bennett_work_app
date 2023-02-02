@@ -1,5 +1,5 @@
 # Today
-* Put away Quest 2
+* BY helmet for italics
 * Illustrator work for band
     * Open all files in Illustrator
         * Open all Odin files
@@ -24,9 +24,7 @@
 * Send Covered CA proof of citizenship
 
 # TODO sooner
-* Free thing
 * Accountant
-* Confirm Phallosan
 * Band stuff
     * YB demo page
     * Essays for writers
