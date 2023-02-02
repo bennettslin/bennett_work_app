@@ -1,47 +1,6 @@
 # Today
-* BD videos
-* Illustrator
-    * Comparison photos
-* Band stuff
-    * Make link use markdown
-        * Make links continue across years
-    * Illustrator work
-    * Modify links page
-    * YB demo page
-    * Essays for writers
-    * Make sure link to doublespeaker rhyme looks fine in mobile
-* Confirm dentist stuff
-
-# Wednesday
-* Fix Dad's cable
-* Box for hat
-* Put putty in vacuum cup
-* Covid and flu shots for parents
-* Install guitar wall mounts
-
-# Thursday
-* Update bedside hanger
-
-# February 12
-* Cancel Illustrator
-
-# Soon
-* Tweet Bizarro
-* Confirm Phallosan
-* Accountant
-* Photos for posts
-    * Vacuum cupping
-    * Clamped edging
-* Look into CDs?
-* Figure out HSA money
-* Passport status
-    * https://passportstatus.state.gov
-* Driver's license
-* Set up appointment for car
-
-# TODO queue
-* Do NPM 2FA?
-* Do in Illustrator
+* Put away Quest 2
+* Illustrator work for band
     * Open all files in Illustrator
         * Open all Odin files
         * Open all dogs and Opal files
@@ -53,17 +12,54 @@
         * Buoy: ears, eyes, and nose
         * Depths: ears, eyes, and nose
         * Floor: ears, eyes, and nose
+
+# Wednesday
+* Fix Dad's cable
+* Return hat
+
+# February 12
+* Cancel Illustrator
+
+# March 6
+* Send Covered CA proof of citizenship
+
+# TODO sooner
+* Free thing
+* Accountant
+* Confirm Phallosan
+* Band stuff
+    * YB demo page
+    * Essays for writers
+    * Make sure link to doublespeaker rhyme looks fine in mobile
+
+# TODO later
+* Install guitar wall mounts
+* Look into CDs?
+* Figure out HSA money
+* Passport status
+    * https://passportstatus.state.gov
+    * Driver's license
+    * Send to Covered CA
+* Set up appointment for car
+* Covid and flu shots for parents
+* Sleep machine
+* Help mom with phone
 * Set up computer for Chris
-* Five vowels of historical consequence
 
 # TODO long term
+* Renew Trusted Traveler
+* Five vowels of historical consequence
+* Photos for device list
+
+# TODO Possibly never
+* Tweet Bizarro
+* Do NPM 2FA?
+* Put putty in vacuum cup
+* Update bedside hanger
 * Ikea
     * Buy side table for red light device
     * Buy armchair
         * https://www.ikea.com/us/en/p/remsta-armchair-djuparp-dark-green-blue-80484956
-* Renew Trusted Traveler
-* Sleep machine
-* Help mom with phone
 
 # TODO After important
 <!-- * Didi past ending
