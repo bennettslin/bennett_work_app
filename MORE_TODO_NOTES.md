@@ -1,17 +1,13 @@
 # Today
-* BY helmet for italics
+* Think about doctor questions
 * Illustrator work for band
-    * Open all files in Illustrator
-        * Open all Odin files
-        * Open all dogs and Opal files
-    * Copy and paste ears, eyes, and nose from dogs and Opal
-        * Modify to fit Odin
-        * Create svgs
     * Odin ears, nose, and eyes
         * Room: ears, eyes, and nose
         * Buoy: ears, eyes, and nose
         * Depths: ears, eyes, and nose
         * Floor: ears, eyes, and nose
+    * Odin bubbles
+* BY helmet for italics
 
 # Wednesday
 * Fix Dad's cable

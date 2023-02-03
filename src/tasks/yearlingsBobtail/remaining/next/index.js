@@ -1,4 +1,9 @@
 export default [
+    {
+        taskName: `Revise Odin scenes to use wormholes.`,
+        workedHours: 24,
+    },
+
     // Ongoing work for logging.
     {
         taskName: `Shared styles work.`,
@@ -23,11 +28,6 @@ export default [
         taskName: `Make bathroom scene a scrapbook photo.`,
         workedHours: 6,
         neededHours: 20,
-    },
-    {
-        taskName: `Revise Odin scenes to use wormholes.`,
-        workedHours: 18,
-        neededHours: 40,
     },
     {
         taskName: `Warp bubbles.`,
