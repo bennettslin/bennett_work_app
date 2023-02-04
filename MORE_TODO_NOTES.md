@@ -1,17 +1,63 @@
-# Today
-* Think about doctor questions
-* Illustrator work for band
-    * Odin ears, nose, and eyes
-        * Room: ears, eyes, and nose
-        * Buoy: ears, eyes, and nose
-        * Depths: ears, eyes, and nose
-        * Floor: ears, eyes, and nose
-    * Odin bubbles
-* BY helmet for italics
 
 # Wednesday
 * Fix Dad's cable
 * Return hat
+
+# Today
+* Hide Quest 2
+* Bring out small doll
+* Fix work
+    * Bennett buoy head angle
+    * Work on young Bennett flustered
+    * Work on Bennett side
+    * Add Liz bedroom to Golden Cord scene
+    * Add rafters to backstage
+    * Pupil in Bennett Constellation
+    * Make peahen slightly smaller
+* Dreams work
+    * Wooden edge on cardboards?
+    * Rickshaw
+        * Make bubble
+        * Shore
+    * Shore
+        * Make bubble
+        * Warp buoy
+        * Shore
+    * Gate
+        * Make bubble
+        * Warp rickshaw
+        * Tree
+        * House and fence
+    * Depths
+        * Make bubble
+        * Odin face
+        * Bushes?
+    * Floor
+        * Make bubble
+        * Odin face
+        * Make Odin smaller
+        * Figure out placement with cave
+        * Captain bed background
+    * Buoy
+        * Make bubble
+        * Odin face
+        * Sea serpents
+        * Bubble waves
+        * General waves
+        * Look at Mitch Leeuwe's ocean tutorial
+            * https://www.instagram.com/p/CjfX6tmqR_B
+    * Figure out later
+        * Mat
+            * Make bubble
+            * Odin face
+        * Stairs
+            * Make bubble
+
+# Doctor questions
+* Ear problem
+* Leg itchiness
+* Shoulder nerves
+* Tadalafil
 
 # February 12
 * Cancel Illustrator
