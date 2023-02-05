@@ -9,9 +9,6 @@
     * Position sandbags
     * Position mannequin
     * Final adjustment of actors and all
-* Rethink work
-    * Ash Wednesday couch bubble
-    * Golden Cord couch bubble
 * Dreams work
     * Wooden edge on cardboards?
     * Rickshaw
