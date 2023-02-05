@@ -1,19 +1,17 @@
-
-# Wednesday
-* Fix Dad's cable
-* Return hat
-
 # Today
-* Hide Quest 2
-* Bring out small doll
-* Fix work
-    * Bennett buoy head angle
-    * Work on young Bennett flustered
-    * Work on Bennett side
-    * Add Liz bedroom to Golden Cord scene
-    * Add rafters to backstage
-    * Pupil in Bennett Constellation
-    * Make peahen slightly smaller
+* Backstage
+    * Svgs
+        * Stage cutout
+        * Curtain leg
+        * Curtain top and side
+        * Theater seats
+    * Position stage cutout
+    * Position sandbags
+    * Position mannequin
+    * Final adjustment of actors and all
+* Rethink work
+    * Ash Wednesday couch bubble
+    * Golden Cord couch bubble
 * Dreams work
     * Wooden edge on cardboards?
     * Rickshaw
@@ -52,6 +50,10 @@
             * Odin face
         * Stairs
             * Make bubble
+
+# At parents
+* Fix Dad's cable
+* Go to Chris's house
 
 # Doctor questions
 * Ear problem
