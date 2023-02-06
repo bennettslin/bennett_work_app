@@ -1,25 +1,21 @@
 # Today
+* Wake up for dentist
+* Willy porch shouldn't be so tall
+    * Check Willy heights elsewhere
 * Rugged individualism
-* Easy Illustrator tasks
-    * Put lancet pen on tray in Kyon bubble
-    * Plant in shovel?
 * More involved Illustrator tasks
     * Captain bed lit
     * Captain bed interior
+    * Make constellation and sketch eyes more expressive, like other bubbles
 * Captain bed work
     * First scene
         * Make new evening room status
-            * Make cubes evening room
-            * Make things evening room?
+            * Make cubes dim room
+            * Make things dim room? Hopefully not needed
     * Second scene
-        * Finalize cubes?
+        * Do cubes, make dark inside bed, dim room outside
         * Reposition sketch and actors
-        * Lower Bennett's pants
-    * Have bedroom lamp on for just this one scene
-        * Have separate bulb class that's always on
 * Reconsider pharmacy scene cel?
-* Eyeholes
-    * Make constellation and sketch eyes more expressive, like other bubbles
 * Backstage
     * Svgs
         * Stage cutout
