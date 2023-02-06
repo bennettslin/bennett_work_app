@@ -1,4 +1,25 @@
 # Today
+* Rugged individualism
+* Easy Illustrator tasks
+    * Put lancet pen on tray in Kyon bubble
+    * Plant in shovel?
+* More involved Illustrator tasks
+    * Captain bed lit
+    * Captain bed interior
+* Captain bed work
+    * First scene
+        * Make new evening room status
+            * Make cubes evening room
+            * Make things evening room?
+    * Second scene
+        * Finalize cubes?
+        * Reposition sketch and actors
+        * Lower Bennett's pants
+    * Have bedroom lamp on for just this one scene
+        * Have separate bulb class that's always on
+* Reconsider pharmacy scene cel?
+* Eyeholes
+    * Make constellation and sketch eyes more expressive, like other bubbles
 * Backstage
     * Svgs
         * Stage cutout
@@ -49,8 +70,7 @@
             * Make bubble
 
 # At parents
-* Fix Dad's cable
-* Go to Chris's house
+* Figure out best way to remember strap
 
 # Doctor questions
 * Ear problem
