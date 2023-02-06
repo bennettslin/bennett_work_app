@@ -1,20 +1,16 @@
 # Today
-* Wake up for dentist
-* Willy porch shouldn't be so tall
-    * Check Willy heights elsewhere
+* Set alarm for dentist
+* Minor fixes
+    * Put Beyonder letter on desk
+    * Reposition red envelope money
+* Minor Illustrator work
+    * Willy porch shouldn't be so tall
+        * Check Willy heights elsewhere
 * Rugged individualism
 * More involved Illustrator tasks
     * Captain bed lit
     * Captain bed interior
     * Make constellation and sketch eyes more expressive, like other bubbles
-* Captain bed work
-    * First scene
-        * Make new evening room status
-            * Make cubes dim room
-            * Make things dim room? Hopefully not needed
-    * Second scene
-        * Do cubes, make dark inside bed, dim room outside
-        * Reposition sketch and actors
 * Reconsider pharmacy scene cel?
 * Backstage
     * Svgs
