@@ -1,68 +1,14 @@
 # Today
-* Set alarm for dentist
-* Minor fixes
-    * Put Beyonder letter on desk
-    * Reposition red envelope money
-* Minor Illustrator work
-    * Willy porch shouldn't be so tall
-        * Check Willy heights elsewhere
-* Rugged individualism
-* More involved Illustrator tasks
-    * Captain bed lit
-    * Captain bed interior
-    * Make constellation and sketch eyes more expressive, like other bubbles
-* Reconsider pharmacy scene cel?
+* Set alarm for appointment
+* Sew strap (while hanging?)
 * Backstage
-    * Svgs
-        * Stage cutout
-        * Curtain leg
-        * Curtain top and side
-        * Theater seats
-    * Position stage cutout
-    * Position sandbags
-    * Position mannequin
-    * Final adjustment of actors and all
-* Dreams work
-    * Wooden edge on cardboards?
-    * Rickshaw
-        * Make bubble
-        * Shore
-    * Shore
-        * Make bubble
-        * Warp buoy
-        * Shore
-    * Gate
-        * Make bubble
-        * Warp rickshaw
-        * Tree
-        * House and fence
-    * Depths
-        * Make bubble
-        * Odin face
-        * Bushes?
-    * Floor
-        * Make bubble
-        * Odin face
-        * Make Odin smaller
-        * Figure out placement with cave
-        * Captain bed background
-    * Buoy
-        * Make bubble
-        * Odin face
-        * Sea serpents
-        * Bubble waves
-        * General waves
-        * Look at Mitch Leeuwe's ocean tutorial
-            * https://www.instagram.com/p/CjfX6tmqR_B
-    * Figure out later
-        * Mat
-            * Make bubble
-            * Odin face
-        * Stairs
-            * Make bubble
+    * Backstage scene
+        * Theater seats and back walls
+    * Khari attack speech
+        * Add theatre seats and back walls
 
 # At parents
-* Figure out best way to remember strap
+* Toilet paper
 
 # Doctor questions
 * Ear problem
