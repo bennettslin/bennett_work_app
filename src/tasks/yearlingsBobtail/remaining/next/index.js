@@ -11,7 +11,7 @@ export default [
     },
     {
         taskName: `General Illustrator work.`,
-        workedHours: 66,
+        workedHours: 70,
     },
     {
         taskName: `Face fixes.`,

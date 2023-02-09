@@ -1,5 +1,5 @@
 # Today
-* Set alarm for appointment
+* Self-sacrifice section
 * Sew strap (while hanging?)
 * Backstage
     * Backstage scene
@@ -8,7 +8,6 @@
         * Add theatre seats and back walls
 
 # At parents
-* Toilet paper
 
 # Doctor questions
 * Ear problem
