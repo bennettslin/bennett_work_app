@@ -1,11 +1,5 @@
 # Today
 * Self-sacrifice section
-* Sew strap (while hanging?)
-* Backstage
-    * Backstage scene
-        * Theater seats and back walls
-    * Khari attack speech
-        * Add theatre seats and back walls
 
 # At parents
 
