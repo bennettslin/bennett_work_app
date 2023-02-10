@@ -1,7 +1,7 @@
 export default [
     {
         taskName: `Core values`,
-        workedHours: 95,
+        workedHours: 98,
     },
     {
         taskName: `Bizarro indie rock tweet`,

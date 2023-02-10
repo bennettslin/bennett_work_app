@@ -16,6 +16,7 @@
 * Send Covered CA proof of citizenship
 
 # TODO sooner
+* Stool sample
 * Accountant
 * Band stuff
     * YB demo page
