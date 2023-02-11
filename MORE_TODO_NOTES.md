@@ -1,7 +1,12 @@
 # Today
-* Self-sacrifice section
+* Iron jeans
 
 # At parents
+* Amazon
+
+# Monday
+* Stool sample
+* Pick up triamcinolone
 
 # Doctor questions
 * Ear problem
@@ -16,7 +21,6 @@
 * Send Covered CA proof of citizenship
 
 # TODO sooner
-* Stool sample
 * Accountant
 * Band stuff
     * YB demo page
