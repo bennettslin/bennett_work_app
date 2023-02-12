@@ -1,8 +1,13 @@
 # Today
 * Iron jeans
+* Confirm check cashed
+* BYCombo
+    * Make clear that it's the public that's conservative.
 
 # At parents
 * Amazon
+    * Knives
+    * Condiments
 
 # Monday
 * Stool sample
@@ -13,9 +18,6 @@
 * Leg itchiness
 * Shoulder nerves
 * Tadalafil
-
-# February 12
-* Cancel Illustrator
 
 # March 6
 * Send Covered CA proof of citizenship

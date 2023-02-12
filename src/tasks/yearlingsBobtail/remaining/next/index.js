@@ -11,7 +11,7 @@ export default [
     },
     {
         taskName: `General Illustrator work.`,
-        workedHours: 72,
+        workedHours: 76,
     },
     {
         taskName: `Face fixes.`,
@@ -28,11 +28,6 @@ export default [
         taskName: `Make bathroom scene a scrapbook photo.`,
         workedHours: 6,
         neededHours: 20,
-    },
-    {
-        taskName: `Warp bubbles.`,
-        workedHours: 0,
-        neededHours: 5,
     },
 
     // Nice to have.
