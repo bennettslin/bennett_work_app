@@ -1,18 +1,10 @@
 export default [
     {
-        taskName: `Revise Odin scenes to use wormholes.`,
+        taskName: `Revise Odin scenes to use dream bubbles.`,
         workedHours: 24,
     },
 
     // Ongoing work for logging.
-    {
-        taskName: `Shared styles work.`,
-        workedHours: 55,
-    },
-    {
-        taskName: `General Illustrator work.`,
-        workedHours: 76,
-    },
     {
         taskName: `Face fixes.`,
         workedHours: 22,

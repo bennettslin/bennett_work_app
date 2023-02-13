@@ -1,13 +1,9 @@
 # Today
 * Iron jeans
-* Confirm check cashed
 * BYCombo
-    * Make clear that it's the public that's conservative.
-
-# At parents
-* Amazon
-    * Knives
-    * Condiments
+    * We see the indie gatekeepers as the good guys, because they stay close to their local scenes, and so they know what the people like.
+* Wash cup
+* Fix cinema thought buying
 
 # Monday
 * Stool sample

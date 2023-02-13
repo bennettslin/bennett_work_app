@@ -1,5 +1,13 @@
 export default [
     {
+        taskName: `General Illustrator work.`,
+        workedHours: 78,
+    },
+    {
+        taskName: `Shared styles work.`,
+        workedHours: 55,
+    },
+    {
         taskName: `Fix promo gradient mask.`,
         workedHours: 2,
     },
