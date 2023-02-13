@@ -2,8 +2,6 @@
 * Iron jeans
 * BYCombo
     * We see the indie gatekeepers as the good guys, because they stay close to their local scenes, and so they know what the people like.
-* Wash cup
-* Fix cinema thought buying
 
 # Monday
 * Stool sample
