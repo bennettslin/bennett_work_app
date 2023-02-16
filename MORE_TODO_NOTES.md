@@ -1,11 +1,11 @@
 # Today
-* Iron jeans
 * BYCombo
     * We see the indie gatekeepers as the good guys, because they stay close to their local scenes, and so they know what the people like.
+* Mission
+    * Self-sacrifice
 
 # Monday
 * Stool sample
-* Pick up triamcinolone
 
 # Doctor questions
 * Ear problem

@@ -1,13 +1,13 @@
 export default [
     {
-        taskName: `Revise Odin scenes to use dream bubbles.`,
+        taskName: `Revise Odin scenes to use dream backdrops.`,
         workedHours: 28,
     },
 
     // Ongoing work for logging.
     {
         taskName: `Face fixes.`,
-        workedHours: 22,
+        workedHours: 26,
     },
     {
         taskName: `Tip jar.`,
