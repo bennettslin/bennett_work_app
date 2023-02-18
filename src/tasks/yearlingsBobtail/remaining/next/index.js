@@ -7,7 +7,7 @@ export default [
     // Ongoing work for logging.
     {
         taskName: `Face fixes.`,
-        workedHours: 26,
+        workedHours: 32,
     },
     {
         taskName: `Tip jar.`,

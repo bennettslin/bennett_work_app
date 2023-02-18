@@ -1,8 +1,4 @@
 # Today
-* Take child head photos
-    * Upload to computer
-    * Delete from phone
-* Fix doll
 * Dream backdrops
 * BYCombo
     * We see the indie gatekeepers as the good guys, because they stay close to their local scenes, and so they know what the people like.
