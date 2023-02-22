@@ -1,5 +1,4 @@
 # Today
-* Perv contact
 * Dream backdrops
 * Accountant
 * Send Covered CA proof of citizenship
