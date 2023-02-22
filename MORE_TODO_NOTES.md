@@ -1,5 +1,8 @@
 # Today
+* Perv contact
 * Dream backdrops
+* Accountant
+* Send Covered CA proof of citizenship
 * Intuition in Galants
     * The problem with indie rock is that it's an anti-science movement, which means it's beset by the same problems faced by all such movements: No matter how popular they get, to be opposed to science is to be opposed to reality, and this opposition to reality will eventually tear the movement apart.
 * Review and publish BYCombo
