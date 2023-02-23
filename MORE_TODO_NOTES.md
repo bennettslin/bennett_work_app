@@ -1,14 +1,18 @@
 # Today
-* Dream backdrops
-* Accountant
 * Send Covered CA proof of citizenship
+* Transfer images to backdrops, resize
+    * fridge drawings
+    * serpents
+
+# Tomorrow
+* Accountant
 * Intuition in Galants
     * The problem with indie rock is that it's an anti-science movement, which means it's beset by the same problems faced by all such movements: No matter how popular they get, to be opposed to science is to be opposed to reality, and this opposition to reality will eventually tear the movement apart.
 * Review and publish BYCombo
     * Two todos
 
 # Parents
-* JavaScript Cookie Clicker
+* Redo automator scripts
 
 # Monday
 * Stool sample
