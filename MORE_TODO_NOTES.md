@@ -1,8 +1,11 @@
 # Today
 * Send Covered CA proof of citizenship
-* Transfer images to backdrops, resize
-    * fridge drawings
-    * serpents
+* Stairs scene
+    * Turn Bennett cardboard into just hand and arm
+    * Adjust dream backdrop
+    * Reposition Odin
+* Figure out ocean floor once and for all
+    * Include how I'll do ocean side and top backdrops
 
 # Tomorrow
 * Accountant
@@ -10,9 +13,6 @@
     * The problem with indie rock is that it's an anti-science movement, which means it's beset by the same problems faced by all such movements: No matter how popular they get, to be opposed to science is to be opposed to reality, and this opposition to reality will eventually tear the movement apart.
 * Review and publish BYCombo
     * Two todos
-
-# Parents
-* Redo automator scripts
 
 # Monday
 * Stool sample
