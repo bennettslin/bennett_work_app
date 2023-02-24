@@ -1,9 +1,5 @@
 # Today
 * Send Covered CA proof of citizenship
-* Stairs scene
-    * Turn Bennett cardboard into just hand and arm
-    * Adjust dream backdrop
-    * Reposition Odin
 * Figure out ocean floor once and for all
     * Include how I'll do ocean side and top backdrops
 
