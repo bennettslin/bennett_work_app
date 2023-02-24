@@ -1,7 +1,10 @@
 # Today
 * Send Covered CA proof of citizenship
-* Figure out ocean floor once and for all
-    * Include how I'll do ocean side and top backdrops
+* Ocean floor work
+    * Make left cave bigger
+    * Make dream backdrop fit in left cave
+    * Move Buddha from panel to backdrop
+* Figure out ocean side and top backdrops
 
 # Tomorrow
 * Accountant
