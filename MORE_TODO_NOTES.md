@@ -3,10 +3,10 @@
 * Stairs work
     * Put latch on gate
     * Head with Bennett stairs?
+    * Make thought bubbles point to head more
 * Ocean floor work
-    * Make left cave bigger
-    * Make dream backdrop fit in left cave
-    * Move Buddha from panel to backdrop
+    * Make Buddha bigger
+    * Make Buddha have past colours
 * Figure out ocean side and top backdrops
 
 # Tomorrow
