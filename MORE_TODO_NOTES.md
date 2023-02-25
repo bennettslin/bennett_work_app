@@ -1,7 +1,12 @@
 # Today
 * Send Covered CA proof of citizenship
-* Figure out ocean floor once and for all
-    * Include how I'll do ocean side and top backdrops
+* Stairs work
+    * Put latch on gate
+    * Head with Bennett stairs?
+* Ocean floor work
+    * Make left cave bigger
+    * Make dream backdrop fit in left cave
+* Figure out ocean side and top backdrops
 
 # Tomorrow
 * Accountant
