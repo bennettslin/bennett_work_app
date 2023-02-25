@@ -6,6 +6,7 @@
 * Ocean floor work
     * Make left cave bigger
     * Make dream backdrop fit in left cave
+    * Move Buddha from panel to backdrop
 * Figure out ocean side and top backdrops
 
 # Tomorrow
