@@ -1,7 +1,7 @@
 export default [
     {
         taskName: `Revise Odin scenes to use dream backdrops.`,
-        workedHours: 80,
+        workedHours: 88,
     },
 
     // Ongoing work for logging.

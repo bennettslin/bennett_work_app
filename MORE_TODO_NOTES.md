@@ -1,13 +1,15 @@
 # Today
 * Send Covered CA proof of citizenship
-* Stairs work
-    * Put latch on gate
-    * Head with Bennett stairs?
-    * Make thought bubbles point to head more
-* Ocean floor work
-    * Make Buddha bigger
-    * Make Buddha have past colours
-* Figure out ocean side and top backdrops
+* Reply to Jeff's email
+* Research ocean visuals
+    * Figure out ocean depth and floor flats
+    * Figure out water top and side backdrops
+* Clean apartment
+    * Move vacuum
+    * Move bike
+    * Line up exercise equipment
+    * Change weights
+    * Switch desks
 
 # Tomorrow
 * Accountant
@@ -15,9 +17,19 @@
     * The problem with indie rock is that it's an anti-science movement, which means it's beset by the same problems faced by all such movements: No matter how popular they get, to be opposed to science is to be opposed to reality, and this opposition to reality will eventually tear the movement apart.
 * Review and publish BYCombo
     * Two todos
+* Scrapbook for Didi
+* Cinema thought buying artwork
 
-# Monday
-* Stool sample
+# Parents
+* Measure couch
+* Bring in water bottle
+
+# Tuesday
+* Put away doll
+
+# Soon
+* Loop for restorer
+* Fix chair
 
 # Doctor questions
 * Ear problem
@@ -57,12 +69,6 @@
 # TODO Possibly never
 * Tweet Bizarro
 * Do NPM 2FA?
-* Put putty in vacuum cup
-* Update bedside hanger
-* Ikea
-    * Buy side table for red light device
-    * Buy armchair
-        * https://www.ikea.com/us/en/p/remsta-armchair-djuparp-dark-green-blue-80484956
 
 # TODO After important
 <!-- * Didi past ending
