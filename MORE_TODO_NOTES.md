@@ -1,18 +1,24 @@
 # Today
 * Send Covered CA proof of citizenship
+* Accountant
+* Ocean depths scene
+    * Make Bennett Odin smaller
+    * Make dream backdrop smaller
+* Ocean floor scene
+    * Make left cave more stable on right side
+    * Illustrator work
+        * Left, middle, and right plants
+        * Redo cave interior plants
+        * Redo ocean floor far and near backdrops
 * Reply to Jeff's email
 * Research ocean visuals
     * Figure out ocean depth and floor flats
     * Figure out water top and side backdrops
 * Clean apartment
     * Move vacuum
-    * Move bike
-    * Line up exercise equipment
-    * Change weights
     * Switch desks
 
 # Tomorrow
-* Accountant
 * Intuition in Galants
     * The problem with indie rock is that it's an anti-science movement, which means it's beset by the same problems faced by all such movements: No matter how popular they get, to be opposed to science is to be opposed to reality, and this opposition to reality will eventually tear the movement apart.
 * Review and publish BYCombo
@@ -21,8 +27,12 @@
 * Cinema thought buying artwork
 
 # Parents
-* Measure couch
-* Bring in water bottle
+* Bring in water bottle and cans
+* Refill coffee
+* Milk
+
+# Monday
+* Make empanadas
 
 # Tuesday
 * Put away doll
@@ -30,6 +40,7 @@
 # Soon
 * Loop for restorer
 * Fix chair
+* Sell climber
 
 # Doctor questions
 * Ear problem
