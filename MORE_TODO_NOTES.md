@@ -1,22 +1,6 @@
 # Today
-* Send Covered CA proof of citizenship
-* Accountant
-* Ocean depths scene
-    * Make Bennett Odin smaller
-    * Make dream backdrop smaller
-* Ocean floor scene
-    * Make left cave more stable on right side
-    * Illustrator work
-        * Left, middle, and right plants
-        * Redo cave interior plants
-        * Redo ocean floor far and near backdrops
 * Reply to Jeff's email
-* Research ocean visuals
-    * Figure out ocean depth and floor flats
-    * Figure out water top and side backdrops
-* Clean apartment
-    * Move vacuum
-    * Switch desks
+* Make tasks for YB work
 
 # Tomorrow
 * Intuition in Galants
@@ -26,16 +10,17 @@
 * Scrapbook for Didi
 * Cinema thought buying artwork
 
+# March 28
+# April 1
+* Cancel Pixiv
+
 # Parents
-* Bring in water bottle and cans
+* Bring in cans
 * Refill coffee
 * Milk
 
-# Monday
+# Thursday
 * Make empanadas
-
-# Tuesday
-* Put away doll
 
 # Soon
 * Loop for restorer
@@ -48,11 +33,7 @@
 * Shoulder nerves
 * Tadalafil
 
-# March 6
-* Send Covered CA proof of citizenship
-
 # TODO sooner
-* Accountant
 * Band stuff
     * YB demo page
     * Essays for writers

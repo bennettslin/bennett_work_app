@@ -1,25 +1,24 @@
 export default [
+    // TODO: Next.
     {
         taskName: `Revise Odin scenes to use dream backdrops.`,
-        workedHours: 92,
+        workedHours: 96,
+    },
+    {
+        taskName: `Make bathroom scene a scrapbook photo.`,
+        workedHours: 6,
+        neededHours: 20,
+    },
+    {
+        taskName: `Cinema thought buying poster and album images`,
+        workedHours: 0,
+        neededHours: 50,
     },
 
     // Ongoing work for logging.
     {
         taskName: `Face fixes.`,
         workedHours: 32,
-    },
-    {
-        taskName: `Tip jar.`,
-        workedHours: 0,
-        neededHours: 40,
-    },
-
-    // TODO: Next.
-    {
-        taskName: `Make bathroom scene a scrapbook photo.`,
-        workedHours: 6,
-        neededHours: 20,
     },
 
     // Nice to have.
