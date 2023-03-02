@@ -1,28 +1,32 @@
 # Today
-* Reply to Jeff's email
 * Make tasks for YB work
+* Reply to Jeff's email
+* Amazon
+    * Buy knee brace
+    * Buy more epoxy
+* Put away PE stuff
+* Vitamins
 
 # Tomorrow
 * Intuition in Galants
     * The problem with indie rock is that it's an anti-science movement, which means it's beset by the same problems faced by all such movements: No matter how popular they get, to be opposed to science is to be opposed to reality, and this opposition to reality will eventually tear the movement apart.
 * Review and publish BYCombo
     * Two todos
-* Scrapbook for Didi
-* Cinema thought buying artwork
 
 # March 28
 # April 1
 * Cancel Pixiv
 
 # Parents
+* Dad's hearing aid
 * Bring in cans
 * Refill coffee
-* Milk
 
 # Thursday
 * Make empanadas
 
 # Soon
+* Car registration
 * Loop for restorer
 * Fix chair
 * Sell climber
