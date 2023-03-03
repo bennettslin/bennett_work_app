@@ -10,11 +10,6 @@ export default [
         neededHours: 100,
     },
     {
-        taskName: `Patent!`,
-        workedHours: 25,
-        neededHours: 30,
-    },
-    {
         taskName: `Write out tips.`,
         workedHours: 0,
         neededHours: 2,

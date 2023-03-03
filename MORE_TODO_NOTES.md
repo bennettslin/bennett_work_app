@@ -1,11 +1,5 @@
 # Today
-* Make tasks for YB work
 * Reply to Jeff's email
-* Amazon
-    * Buy knee brace
-    * Buy more epoxy
-* Put away PE stuff
-* Vitamins
 
 # Tomorrow
 * Intuition in Galants
@@ -26,10 +20,11 @@
 * Make empanadas
 
 # Soon
-* Car registration
+* Smog check
 * Loop for restorer
 * Fix chair
 * Sell climber
+* NeatCell laser pen
 
 # Doctor questions
 * Ear problem

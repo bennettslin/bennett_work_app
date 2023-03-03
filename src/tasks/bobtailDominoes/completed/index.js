@@ -1,5 +1,9 @@
 export default [
     {
+        taskName: `Patent!`,
+        workedHours: 25,
+    },
+    {
         taskName: `Fun page.`,
         workedHours: 3,
     },

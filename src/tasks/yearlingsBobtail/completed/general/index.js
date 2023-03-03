@@ -1,5 +1,13 @@
 export default [
     {
+        taskName: `Revise Odin scenes to use dream backdrops.`,
+        workedHours: 98,
+    },
+    {
+        taskName: `Begin bathroom scrapbook scene.`,
+        workedHours: 6,
+    },
+    {
         taskName: `General Illustrator work.`,
         workedHours: 78,
     },
