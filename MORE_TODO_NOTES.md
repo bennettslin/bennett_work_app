@@ -1,5 +1,7 @@
 # Today
 * Reply to Jeff's email
+* Try water cupping on extender
+* Get plenty of sleep
 
 # Tomorrow
 * Intuition in Galants
