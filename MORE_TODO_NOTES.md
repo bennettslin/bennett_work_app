@@ -1,7 +1,6 @@
 # Today
 * Reply to Jeff's email
-* Try water cupping on extender
-* Get plenty of sleep
+* Finish BY essay
 
 # Tomorrow
 * Intuition in Galants
@@ -15,8 +14,6 @@
 
 # Parents
 * Dad's hearing aid
-* Bring in cans
-* Refill coffee
 
 # Thursday
 * Make empanadas

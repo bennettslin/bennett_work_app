@@ -1,7 +1,7 @@
 export default [
     {
         taskName: `Two essays`,
-        workedHours: 11,
+        workedHours: 15,
         neededHours: 100,
     },
     {
