@@ -1,5 +1,9 @@
 export default [
     {
+        taskName: `Sketch ocean floor school of fish.`,
+        workedHours: 1,
+    },
+    {
         taskName: 'ghostOdinDemonstration',
         workedHours: 1,
     },

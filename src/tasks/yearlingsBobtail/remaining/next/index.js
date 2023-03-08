@@ -1,38 +1,12 @@
 export default [
     // Decision tasks.
     {
-        taskName: `Decide on cinema thought posters and albums.`,
-        workedHours: 0,
-        neededHours: 2,
-    },
-    {
         taskName: `Decide on ocean depths dream background.`,
         workedHours: 0,
         neededHours: 2,
     },
 
     // Sketch work.
-    {
-        taskName: `Didi sketchbook.`,
-        workedHours: 0,
-        neededHours: 2,
-    },
-    {
-        taskName: `Inverted 100,000th Dream bubble.`,
-        workedHours: 0,
-        neededHours: 2,
-    },
-    {
-        taskName: `Cinema thought posters and albums.`,
-        workedHours: 0,
-        neededHours: 4,
-    },
-    {
-        taskName: `Ocean water surface.`,
-        workedHours: 0,
-        neededHours: 2,
-        notes: `https://www.instagram.com/p/CjfX6tmqR_B`,
-    },
     {
         taskName: `Ocean depths backdrops far and near.`,
         workedHours: 0,
@@ -48,25 +22,10 @@ export default [
         workedHours: 0,
         neededHours: 2,
     },
-    {
-        taskName: `Ocean floor plants left, centre, and right.`,
-        workedHours: 0,
-        neededHours: 3,
-    },
-    {
-        taskName: `Ocean floor school of fish.`,
-        workedHours: 0,
-        neededHours: 3,
-    },
 
     // Illustrator trace work.
     {
-        taskName: `Didi sketchbook.`,
-        workedHours: 0,
-        neededHours: 2,
-    },
-    {
-        taskName: `Inverted 100,000th Dream bubble.`,
+        taskName: `Didi photo album.`,
         workedHours: 0,
         neededHours: 2,
     },
@@ -81,6 +40,11 @@ export default [
         neededHours: 4,
     },
     {
+        taskName: `Ocean floor school of fish.`,
+        workedHours: 0,
+        neededHours: 3,
+    },
+    {
         taskName: `Ocean depths backdrops far and near.`,
         workedHours: 0,
         neededHours: 2,
@@ -101,9 +65,9 @@ export default [
         neededHours: 3,
     },
     {
-        taskName: `Ocean floor school of fish.`,
+        taskName: `Ocean floor interiors.`,
         workedHours: 0,
-        neededHours: 3,
+        neededHours: 2,
     },
 
     // Illustrator placement work.

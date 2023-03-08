@@ -1,5 +1,9 @@
 export default [
     {
+        taskName: `Sketch ocean floor plants.`,
+        workedHours: 1,
+    },
+    {
         taskName: `Club flood lights.`,
         workedHours: 1,
     },
