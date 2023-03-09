@@ -17,11 +17,6 @@ export default [
         workedHours: 0,
         neededHours: 2,
     },
-    {
-        taskName: `Ocean floor backdrops far and near.`,
-        workedHours: 0,
-        neededHours: 2,
-    },
 
     // Illustrator trace work.
     {

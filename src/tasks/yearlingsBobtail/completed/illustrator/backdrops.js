@@ -1,5 +1,9 @@
 export default [
     {
+        taskName: `Sketch ocean floor backdrops far and near.`,
+        workedHours: 2,
+    },
+    {
         taskName: 'oceanBottomFar',
         workedHours: 1,
     },
