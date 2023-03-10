@@ -6,18 +6,6 @@ export default [
         neededHours: 2,
     },
 
-    // Sketch work.
-    {
-        taskName: `Ocean depths backdrops far and near.`,
-        workedHours: 0,
-        neededHours: 2,
-    },
-    {
-        taskName: `Ocean depths rocks left and right.`,
-        workedHours: 0,
-        neededHours: 2,
-    },
-
     // Illustrator trace work.
     {
         taskName: `Didi photo album.`,
@@ -97,12 +85,12 @@ export default [
         neededHours: 2,
     },
     {
-        taskName: `Buoy: ocean, ocean water surface.`,
+        taskName: `Buoy: ocean, ocean water surface, bubbles.`,
         workedHours: 0,
         neededHours: 4,
     },
     {
-        taskName: `Ocean depths: based on decision.`,
+        taskName: `Ocean depths: based on decision, bubbles.`,
         workedHours: 0,
         neededHours: 8,
     },

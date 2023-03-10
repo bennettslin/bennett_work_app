@@ -1,18 +1,11 @@
 # Today
-* Ocean depths
-    * Make lava spill from volcanoes
-    * Make rocks more distant
-    * Add plant shadows to rocks
-    * Add plant shadows to caves
-* Ocean floor
-    * Add plants to cave exteriors
-    * Smooth rocks
-    * Fix plants on rocks
-    * Fix plants in interior
-
+* Make decision on ocean depths background
 * Make bathtub have past colours?
 * Reply to Jeff's email
 * Finish BY essay
+# Friday
+* Scan illustrations
+* Haircut
 
 # Tomorrow
 * Intuition in Galants
