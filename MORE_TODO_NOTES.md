@@ -1,5 +1,4 @@
 # Today
-* Cinema thought
 * BY essay
     * Science
         * Magnus Carlsen

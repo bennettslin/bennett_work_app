@@ -9,13 +9,8 @@ export default [
     // Illustrator trace work.
     {
         taskName: `Ocean water surface`,
-        workedHours: 0,
+        workedHours: 1,
         neededHours: 4,
-    },
-    {
-        taskName: `Ocean floor school of fish.`,
-        workedHours: 0,
-        neededHours: 3,
     },
     {
         taskName: `Ocean depths backdrops far and near.`,
