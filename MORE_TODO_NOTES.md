@@ -1,15 +1,14 @@
 # Today
-* Transfer to savings
 * Cardio
-    * Watch LoRa and textual inversion videos
+    * Watch LoRa video
 * Volcanoes and rocks
 * Reward myself!
 
 # Soon
+* Confirm transfer
 * Make decision on ocean depths background
 
 # March 28
-# April 1
 * Cancel Pixiv
 
 # Parents
