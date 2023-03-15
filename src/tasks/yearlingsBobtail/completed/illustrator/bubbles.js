@@ -1,11 +1,11 @@
 export default [
     {
-        taskName: `Sketch Didi photo album.`,
-        workedHours: 1,
+        taskName: `Cinema thought posters and albums.`,
+        workedHours: 5,
     },
     {
-        taskName: `Sketch cinema thought posters and albums.`,
-        workedHours: 1,
+        taskName: `Didi photo album.`,
+        workedHours: 3,
     },
     {
         taskName: `Cafeteria hat.`,

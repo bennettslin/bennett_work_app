@@ -8,16 +8,6 @@ export default [
 
     // Illustrator trace work.
     {
-        taskName: `Didi photo album.`,
-        workedHours: 0,
-        neededHours: 2,
-    },
-    {
-        taskName: `Cinema thought posters and albums.`,
-        workedHours: 0,
-        neededHours: 4,
-    },
-    {
         taskName: `Ocean water surface`,
         workedHours: 0,
         neededHours: 4,

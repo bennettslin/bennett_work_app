@@ -1,15 +1,15 @@
 # Today
+* Cinema thought
+* BY essay
+    * Science
+        * Magnus Carlsen
+* Resume rings
+* Reward myself!
+
+# Soon
 * Make decision on ocean depths background
 * Make bathtub have past colours?
-* Reply to Jeff's email
-* Finish BY essay
-# Friday
-* Scan illustrations
-* Haircut
-
-# Tomorrow
-* Intuition in Galants
-    * The problem with indie rock is that it's an anti-science movement, which means it's beset by the same problems faced by all such movements: No matter how popular they get, to be opposed to science is to be opposed to reality, and this opposition to reality will eventually tear the movement apart.
+* Confirm deposit
 
 # March 28
 # April 1
@@ -23,7 +23,7 @@
 
 # Soon
 * Smog check
-* Loop for restorer
+* Eye nut
 * Fix chair
 * Sell climber
 * NeatCell laser pen
