@@ -1,14 +1,12 @@
 # Today
-* BY essay
-    * Science
-        * Magnus Carlsen
-* Resume rings
+* Transfer to savings
+* Cardio
+    * Watch LoRa and textual inversion videos
+* Volcanoes and rocks
 * Reward myself!
 
 # Soon
 * Make decision on ocean depths background
-* Make bathtub have past colours?
-* Confirm deposit
 
 # March 28
 # April 1
