@@ -19,7 +19,7 @@ export default [
     },
     {
         taskName: `Ocean cave interiors with plants.`,
-        workedHours: 0,
+        workedHours: 2,
         neededHours: 3,
     },
     {

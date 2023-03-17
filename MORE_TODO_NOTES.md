@@ -1,18 +1,28 @@
 # Today
-* Cardio
-* Switch to Google Drive
+* Buy Mom's printer
+* Figure out where to put Dad's Go game
 * Deal with birth certificate
-* Extra
-    * Rocks
-        * Make rocks multicoloured
-            * Make luminosity levels vary based on cave luminosity level
-        * Have depths backdrop be night, caves be evening?
-            * Have floor backdrop be evening?
-        * Roughen up edges of rock mountains and caves
+    * Add photo to records
+    * Needed for passport?
+    * Needed for driver's license?
+    * Needed for Trusted Traveler?
+    * Put in file box
+* Make some progress on rocks
+    * Make volcanoes mountain colour
+    * Make caves and rocks blue again
+    * Trace plants
+    * Colour plants
+    * Add round bushes behind plants
+    * Make rocks multicoloured
+        * Make luminosity levels vary based on cave luminosity level
+    * Have depths backdrop be night, caves be evening?
+        * Have floor backdrop be evening?
+    * Roughen up edges of rock mountains and caves
 * Reward myself!
 
+# Tomorrow or extra
+
 # Soon
-* Buy Mom's printer
 * Make decision on ocean depths dream background
 
 # March 28
@@ -58,23 +68,12 @@
 * Set up computer for Chris
 
 # TODO long term
-* Renew Trusted Traveler
 * Five vowels of historical consequence
 * Photos for device list
 
 # TODO Possibly never
 * Tweet Bizarro
 * Do NPM 2FA?
-
-# TODO After important
-<!-- * Didi past ending
-    * Make sketch to scan
-        * Photo scrapbook
-    * Implement -->
-<!-- * My 100,000th Dream
-    * Create Illustrator file
-    * Add dream final presence
-    * Design and draw dream final -->
 
 # Projects
 * Begin work on BY Combo
