@@ -1,12 +1,19 @@
 # Today
 * Cardio
-    * Watch LoRa video
-* Volcanoes and rocks
+* Switch to Google Drive
+* Deal with birth certificate
+* Extra
+    * Rocks
+        * Make rocks multicoloured
+            * Make luminosity levels vary based on cave luminosity level
+        * Have depths backdrop be night, caves be evening?
+            * Have floor backdrop be evening?
+        * Roughen up edges of rock mountains and caves
 * Reward myself!
 
 # Soon
-* Confirm transfer
-* Make decision on ocean depths background
+* Buy Mom's printer
+* Make decision on ocean depths dream background
 
 # March 28
 * Cancel Pixiv

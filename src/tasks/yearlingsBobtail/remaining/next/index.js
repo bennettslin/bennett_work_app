@@ -13,27 +13,22 @@ export default [
         neededHours: 4,
     },
     {
-        taskName: `Ocean depths backdrops far and near.`,
-        workedHours: 0,
-        neededHours: 2,
-    },
-    {
-        taskName: `Ocean depths rocks left and right.`,
-        workedHours: 0,
-        neededHours: 2,
-    },
-    {
-        taskName: `Ocean floor backdrops far and near.`,
-        workedHours: 0,
-        neededHours: 2,
-    },
-    {
-        taskName: `Ocean floor plants left, centre, and right.`,
+        taskName: `Ocean cave exteriors with plants.`,
         workedHours: 0,
         neededHours: 3,
     },
     {
-        taskName: `Ocean floor interiors.`,
+        taskName: `Ocean cave interiors with plants.`,
+        workedHours: 0,
+        neededHours: 3,
+    },
+    {
+        taskName: `Ocean floor plants left, centre, and right.`,
+        workedHours: 0,
+        neededHours: 4,
+    },
+    {
+        taskName: `Ocean rock colours and luminosity.`,
         workedHours: 0,
         neededHours: 2,
     },

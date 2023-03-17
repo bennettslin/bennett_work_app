@@ -1,5 +1,9 @@
 export default [
     {
+        taskName: `Ocean rocks.`,
+        workedHours: 2,
+    },
+    {
         taskName: 'cliffGravesFar',
         workedHours: 1.5,
     },
