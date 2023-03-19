@@ -13,26 +13,10 @@ export default [
         neededHours: 4,
     },
     {
-        taskName: `Ocean cave exteriors with plants.`,
-        workedHours: 0,
-        neededHours: 3,
-    },
-    {
-        taskName: `Ocean cave interiors with plants.`,
-        workedHours: 2,
-        neededHours: 3,
-    },
-    {
-        taskName: `Ocean floor plants left, centre, and right.`,
-        workedHours: 0,
-        neededHours: 4,
-    },
-    {
-        taskName: `Ocean rock colours and luminosity.`,
+        taskName: `Rough up ocean rocks and caves.`,
         workedHours: 0,
         neededHours: 2,
     },
-
     // Illustrator placement work.
     {
         taskName: `Odin faces: Taiwan room, buoy, ocean depths, ocean floor.`,

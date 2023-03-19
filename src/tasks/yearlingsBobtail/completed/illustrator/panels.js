@@ -1,5 +1,9 @@
 export default [
     {
+        taskName: `Ocean caves with plants.`,
+        workedHours: 8,
+    },
+    {
         taskName: `Sketch ocean water surface.`,
         workedHours: 2,
         notes: `https://www.instagram.com/p/CjfX6tmqR_B`,

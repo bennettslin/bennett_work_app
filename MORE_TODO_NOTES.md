@@ -1,26 +1,14 @@
 # Today
-* Buy Mom's printer
-* Figure out where to put Dad's Go game
-* Deal with birth certificate
-    * Add photo to records
-    * Needed for passport?
-    * Needed for driver's license?
-    * Needed for Trusted Traveler?
-    * Put in file box
-* Make some progress on rocks
-    * Make volcanoes mountain colour
-    * Make caves and rocks blue again
-    * Trace plants
-    * Colour plants
-    * Add round bushes behind plants
-    * Make rocks multicoloured
-        * Make luminosity levels vary based on cave luminosity level
-    * Have depths backdrop be night, caves be evening?
-        * Have floor backdrop be evening?
-    * Roughen up edges of rock mountains and caves
+* Workout
+* Driver's License application
+    * Gather documents
 * Reward myself!
 
 # Tomorrow or extra
+* Make some progress
+    * Bubbles
+    * Ocean water surface
+    * Roughen up edges of rock mountains and caves
 
 # Soon
 * Make decision on ocean depths dream background
@@ -57,10 +45,8 @@
 * Install guitar wall mounts
 * Look into CDs?
 * Figure out HSA money
-* Passport status
-    * https://passportstatus.state.gov
-    * Driver's license
-    * Send to Covered CA
+* Once passport arrives
+    * Trusted Traveler
 * Set up appointment for car
 * Covid and flu shots for parents
 * Sleep machine

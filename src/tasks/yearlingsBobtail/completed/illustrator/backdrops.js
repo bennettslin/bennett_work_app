@@ -1,7 +1,7 @@
 export default [
     {
         taskName: `Ocean volcanoes.`,
-        workedHours: 6,
+        workedHours: 7,
     },
     {
         taskName: 'oceanBottomFar',
