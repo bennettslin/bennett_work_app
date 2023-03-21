@@ -1,9 +1,8 @@
 # Today
-* Workout
-* Reward myself
+* Ocean water surface
+* Reward myself!
 
 # Tomorrow or extra
-* Ocean water surface
 
 # Soon
 * Make decision on ocean depths dream background
