@@ -12,11 +12,7 @@ export default [
         workedHours: 1,
         neededHours: 4,
     },
-    {
-        taskName: `Rough up ocean rocks and caves.`,
-        workedHours: 0,
-        neededHours: 2,
-    },
+
     // Illustrator placement work.
     {
         taskName: `Odin faces: Taiwan room, buoy, ocean depths, ocean floor.`,

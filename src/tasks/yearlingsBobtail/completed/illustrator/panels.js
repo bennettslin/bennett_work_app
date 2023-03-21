@@ -1,10 +1,14 @@
 export default [
     {
+        taskName: `Rough up ocean rocks and caves.`,
+        workedHours: 4,
+    },
+    {
         taskName: `Ocean caves with plants.`,
         workedHours: 8,
     },
     {
-        taskName: `Sketch ocean water surface.`,
+        taskName: `Ocean water surface.`,
         workedHours: 2,
         notes: `https://www.instagram.com/p/CjfX6tmqR_B`,
     },

@@ -1,17 +1,13 @@
 # Today
 * Workout
-* Driver's License application
-    * Gather documents
-* Reward myself!
+* Reward myself
 
 # Tomorrow or extra
-* Make some progress
-    * Bubbles
-    * Ocean water surface
-    * Roughen up edges of rock mountains and caves
+* Ocean water surface
 
 # Soon
 * Make decision on ocean depths dream background
+* Look into glycolic acid skin peel
 
 # March 28
 * Cancel Pixiv
@@ -23,6 +19,9 @@
 * Make empanadas
 
 # Soon
+* Eye checkup for DMV
+* Print out documents for DMV
+* Study for DMV
 * Smog check
 * Eye nut
 * Fix chair
