@@ -6,19 +6,7 @@ export default [
         neededHours: 2,
     },
 
-    // Illustrator trace work.
-    {
-        taskName: `Ocean water surface`,
-        workedHours: 1,
-        neededHours: 4,
-    },
-
     // Illustrator placement work.
-    {
-        taskName: `Odin faces: Taiwan room, buoy, ocean depths, ocean floor.`,
-        workedHours: 0,
-        neededHours: 3,
-    },
     {
         taskName: `Taiwan room: fridge, stair cubes`,
         workedHours: 0,
@@ -58,13 +46,6 @@ export default [
         taskName: `Ocean floor: captain bed interior.`,
         workedHours: 0,
         neededHours: 4,
-    },
-
-    // General.
-    {
-        taskName: `Ensure that shared styles are correct after dreams work.`,
-        workedHours: 0,
-        neededHours: 1,
     },
 
     // Ongoing work for logging.

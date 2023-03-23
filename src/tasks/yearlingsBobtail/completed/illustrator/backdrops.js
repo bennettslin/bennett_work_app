@@ -1,5 +1,10 @@
 export default [
     {
+        taskName: `Ocean water surface.`,
+        workedHours: 6,
+        notes: `https://www.instagram.com/p/CjfX6tmqR_B`,
+    },
+    {
         taskName: `Ocean volcanoes.`,
         workedHours: 7,
     },

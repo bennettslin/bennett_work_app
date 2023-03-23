@@ -1,12 +1,16 @@
 # Today
-* Ocean water surface
+* Odin faces
 * Reward myself!
 
 # Tomorrow or extra
+* Check about tree
 
 # Soon
 * Make decision on ocean depths dream background
 * Look into glycolic acid skin peel
+* Determinism
+    * Indie culture unmoored in age of Internet
+    * Dove for the lifeline
 
 # March 28
 * Cancel Pixiv

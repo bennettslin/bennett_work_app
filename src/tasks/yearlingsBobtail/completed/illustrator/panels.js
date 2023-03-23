@@ -8,11 +8,6 @@ export default [
         workedHours: 8,
     },
     {
-        taskName: `Ocean water surface.`,
-        workedHours: 2,
-        notes: `https://www.instagram.com/p/CjfX6tmqR_B`,
-    },
-    {
         taskName: `Sketch ocean floor interiors.`,
         workedHours: 2,
     },
