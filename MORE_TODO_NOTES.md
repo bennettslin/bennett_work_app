@@ -1,18 +1,19 @@
 # Today
-* Odin faces
-* Reward myself!
-
-# Tomorrow or extra
-* Check about tree
+* Do an Odin dream
+* Reward myself
 
 # Soon
+* BYCombo
+    * Change from locking in a permanent system to rebelling against decentralized system involves building
+    * Move Why BYCombo to its own section?
+    * determinism
 * Make decision on ocean depths dream background
 * Look into glycolic acid skin peel
 * Determinism
     * Indie culture unmoored in age of Internet
     * Dove for the lifeline
 
-# March 28
+# March 31
 * Cancel Pixiv
 
 # Parents
