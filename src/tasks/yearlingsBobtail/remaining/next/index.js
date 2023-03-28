@@ -7,45 +7,26 @@ export default [
     },
 
     // Illustrator placement work.
-    {
-        taskName: `Taiwan room: fridge, stair cubes`,
-        workedHours: 0,
-        neededHours: 4,
-    },
+
     {
         taskName: `Taiwan stairs: mountains, plam trees, houses, iron door, gate cubes.`,
         workedHours: 0,
-        neededHours: 8,
+        neededHours: 6,
     },
     {
         taskName: `Taiwan gate: houses, tree, street cubes.`,
         workedHours: 0,
-        neededHours: 4,
-    },
-    {
-        taskName: `Rickshaw: mountains, palm trees, ocean, shore.`,
-        workedHours: 0,
-        neededHours: 4,
-    },
-    {
-        taskName: `Shore: ocean.`,
-        workedHours: 0,
-        neededHours: 2,
-    },
-    {
-        taskName: `Buoy: ocean, ocean water surface, bubbles.`,
-        workedHours: 0,
-        neededHours: 4,
+        neededHours: 6,
     },
     {
         taskName: `Ocean depths: based on decision, bubbles.`,
         workedHours: 0,
-        neededHours: 8,
+        neededHours: 6,
     },
     {
         taskName: `Ocean floor: captain bed interior.`,
         workedHours: 0,
-        neededHours: 4,
+        neededHours: 6,
     },
 
     // Ongoing work for logging.

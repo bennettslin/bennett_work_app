@@ -1,8 +1,9 @@
 # Today
-* Do an Odin dream
+* Do some AI fixes
 * Reward myself
 
 # Soon
+* Figure out Yuga artist
 * BYCombo
     * Change from locking in a permanent system to rebelling against decentralized system involves building
     * Move Why BYCombo to its own section?

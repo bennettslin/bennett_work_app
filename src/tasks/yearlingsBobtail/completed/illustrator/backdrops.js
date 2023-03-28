@@ -1,5 +1,21 @@
 export default [
     {
+        taskName: `Taiwan room: fridge, stairs.`,
+        workedHours: 3,
+    },
+    {
+        taskName: `Dream rickshaw: ocean, shore.`,
+        workedHours: 2,
+    },
+    {
+        taskName: `Dream shore: ocean.`,
+        workedHours: 2,
+    },
+    {
+        taskName: `Dream buoy: ocean, bubbles.`,
+        workedHours: 2,
+    },
+    {
         taskName: `Ocean water surface.`,
         workedHours: 6,
         notes: `https://www.instagram.com/p/CjfX6tmqR_B`,
