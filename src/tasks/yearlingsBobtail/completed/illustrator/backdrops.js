@@ -1,15 +1,23 @@
 export default [
     {
-        taskName: `Taiwan room: fridge, stairs.`,
+        taskName: `Dream Taiwan room: fridge, stairs.`,
+        workedHours: 3,
+    },
+    {
+        taskName: `Dream Taiwan stairs: mountains, houses, gate.`,
+        workedHours: 4,
+    },
+    {
+        taskName: `Dream Taiwan gate: houses.`,
         workedHours: 3,
     },
     {
         taskName: `Dream rickshaw: ocean, shore.`,
-        workedHours: 2,
+        workedHours: 3,
     },
     {
         taskName: `Dream shore: ocean.`,
-        workedHours: 2,
+        workedHours: 3,
     },
     {
         taskName: `Dream buoy: ocean, bubbles.`,
