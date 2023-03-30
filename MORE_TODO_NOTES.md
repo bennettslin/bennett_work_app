@@ -1,17 +1,24 @@
 # Today
+* Play around with buoy, rotate buoy, improve sea foam bubbles, serpent swarm should not conflict with Bennett hair, add some serpents?
+* Final two dreams
+* Cardio
+* Workout
+* Reward myself!
+
+# Soon
 * Relationship with indie culture
 * Short term indie rock is an ideology
     * Long term it's an aesthetic
 * Protectionism
 * BYCombo
+    * Good guys
     * Change from locking in a permanent system to rebelling against decentralized system involves building
     * Move Why BYCombo to its own section?
     * determinism
-* Make decision on ocean depths dream background
-* Look into glycolic acid skin peel
 * Determinism
     * Indie culture unmoored in age of Internet
     * Dove for the lifeline
+    * The word indie implies bottom up
 
 # March 31
 * Cancel Pixiv
