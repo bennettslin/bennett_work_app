@@ -25,8 +25,7 @@ export default [
     },
     {
         taskName: `Ocean water surface.`,
-        workedHours: 6,
-        notes: `https://www.instagram.com/p/CjfX6tmqR_B`,
+        workedHours: 7,
     },
     {
         taskName: `Ocean volcanoes.`,

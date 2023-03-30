@@ -1,37 +1,12 @@
 export default [
     // Illustrator placement work.
     {
-        taskName: `Didi dawn colours?`,
-        workedHours: 0,
-        neededHours: 1,
-    },
-    {
-        taskName: `Change record stool colours.`,
-        workedHours: 0,
-        neededHours: 1,
-    },
-    {
-        taskName: `Valley backdrop colours right?`,
-        workedHours: 0,
-        neededHours: 1,
-    },
-    {
-        taskName: `Fix Taiwan tree.`,
-        workedHours: 0,
-        neededHours: 2,
-    },
-    {
-        taskName: `Serpents and froth.`,
-        workedHours: 0,
-        neededHours: 4,
-    },
-    {
-        taskName: `Ocean depths: based on decision, bubbles.`,
+        taskName: `Ocean depths: captain bed exterior.`,
         workedHours: 0,
         neededHours: 3,
     },
     {
-        taskName: `Ocean floor: captain bed interior. Resize panel balls.`,
+        taskName: `Ocean floor: captain bed interior.`,
         workedHours: 0,
         neededHours: 3,
     },

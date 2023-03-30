@@ -1,9 +1,8 @@
 # Today
-* Do some AI fixes
-* Reward myself
-
-# Soon
-* Figure out Yuga artist
+* Relationship with indie culture
+* Short term indie rock is an ideology
+    * Long term it's an aesthetic
+* Protectionism
 * BYCombo
     * Change from locking in a permanent system to rebelling against decentralized system involves building
     * Move Why BYCombo to its own section?

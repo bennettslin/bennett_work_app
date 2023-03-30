@@ -9,7 +9,7 @@ export default [
     },
     {
         taskName: `General Illustrator work.`,
-        workedHours: 78,
+        workedHours: 81,
     },
     {
         taskName: `Shared styles work.`,

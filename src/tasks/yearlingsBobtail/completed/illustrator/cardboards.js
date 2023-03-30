@@ -57,11 +57,11 @@ export default [
     },
     {
         taskName: 'seaSerpentLeft',
-        workedHours: 1,
+        workedHours: 2,
     },
     {
         taskName: 'seaSerpentRight',
-        workedHours: 1,
+        workedHours: 2,
     },
     {
         taskName: 'vanNuysPainting',
