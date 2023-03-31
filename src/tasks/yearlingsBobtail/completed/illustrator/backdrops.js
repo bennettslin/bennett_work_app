@@ -21,7 +21,15 @@ export default [
     },
     {
         taskName: `Dream buoy: ocean, bubbles.`,
-        workedHours: 2,
+        workedHours: 3,
+    },
+    {
+        taskName: `Dream ocean depths: captain bed exterior.`,
+        workedHours: 3,
+    },
+    {
+        taskName: `Dream ocean floor: captain bed interior.`,
+        workedHours: 3,
     },
     {
         taskName: `Ocean water surface.`,

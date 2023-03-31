@@ -1,11 +1,10 @@
 # Today
-* Play around with buoy, rotate buoy, improve sea foam bubbles, serpent swarm should not conflict with Bennett hair, add some serpents?
-* Final two dreams
 * Cardio
-* Workout
+* 
 * Reward myself!
 
 # Soon
+* Ending renaissance
 * Relationship with indie culture
 * Short term indie rock is an ideology
     * Long term it's an aesthetic
