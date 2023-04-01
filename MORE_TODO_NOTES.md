@@ -1,6 +1,5 @@
 # Today
 * Cardio
-* 
 * Reward myself!
 
 # Soon
@@ -10,7 +9,6 @@
     * Long term it's an aesthetic
 * Protectionism
 * BYCombo
-    * Good guys
     * Change from locking in a permanent system to rebelling against decentralized system involves building
     * Move Why BYCombo to its own section?
     * determinism
@@ -18,9 +16,6 @@
     * Indie culture unmoored in age of Internet
     * Dove for the lifeline
     * The word indie implies bottom up
-
-# March 31
-* Cancel Pixiv
 
 # Parents
 * Dad's hearing aid
