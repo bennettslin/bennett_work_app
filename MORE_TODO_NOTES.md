@@ -1,21 +1,19 @@
 # Today
-* Cardio
-* Reward myself!
+* Privatization
+* Ending renaissance
+* Protectionism
+* Read pickle post
+* Reward myself
+    * Try some model edits
 
 # Soon
-* Ending renaissance
-* Relationship with indie culture
-* Short term indie rock is an ideology
-    * Long term it's an aesthetic
-* Protectionism
 * BYCombo
     * Change from locking in a permanent system to rebelling against decentralized system involves building
     * Move Why BYCombo to its own section?
-    * determinism
-* Determinism
-    * Indie culture unmoored in age of Internet
-    * Dove for the lifeline
-    * The word indie implies bottom up
+    * Determinism
+        * Indie culture unmoored in age of Internet
+        * Dove for the lifeline
+        * The word indie implies bottom up
 
 # Parents
 * Dad's hearing aid
