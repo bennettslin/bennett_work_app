@@ -1,5 +1,6 @@
 # Today
-* Privatization
+* Embrace Jews
+* Missed beat section
 * Ending renaissance
 * Protectionism
 * Read pickle post
