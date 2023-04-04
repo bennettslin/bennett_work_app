@@ -1,11 +1,12 @@
 # Today
+* Cardio
+* Workout
+* Snake oil
 * Embrace Jews
-* Missed beat section
 * Ending renaissance
 * Protectionism
 * Read pickle post
 * Reward myself
-    * Try some model edits
 
 # Soon
 * BYCombo
