@@ -1,6 +1,10 @@
 # Today
+* Put away doll
+* Fix blinds
+* Finish hundred section
 * Cardio
 * Workout
+* National independence
 * Snake oil
 * Embrace Jews
 * Ending renaissance
