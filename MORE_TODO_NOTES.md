@@ -1,25 +1,19 @@
 # Today
-* Put away doll
-* Fix blinds
-* Finish hundred section
-* Cardio
-* Workout
-* National independence
-* Snake oil
-* Embrace Jews
-* Ending renaissance
 * Protectionism
-* Read pickle post
-* Reward myself
-
-# Soon
+    * Mention in Covid Years
 * BYCombo
-    * Change from locking in a permanent system to rebelling against decentralized system involves building
-    * Move Why BYCombo to its own section?
     * Determinism
         * Indie culture unmoored in age of Internet
         * Dove for the lifeline
         * The word indie implies bottom up
+* Read pickle post
+* Reward myself!
+
+# Tomorrow
+* Put away doll
+* Fix blinds
+
+# Soon
 
 # Parents
 * Dad's hearing aid
