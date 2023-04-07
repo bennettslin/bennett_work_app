@@ -3,11 +3,10 @@
     * Mention in Covid Years
 * BYCombo
     * Determinism
-        * Indie culture unmoored in age of Internet
-        * Dove for the lifeline
-        * The word indie implies bottom up
 * Read pickle post
+* Cardio
 * Reward myself!
+    * More Dreamshaper fixes
 
 # Tomorrow
 * Put away doll
