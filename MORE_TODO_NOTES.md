@@ -1,12 +1,10 @@
 # Today
 * Protectionism
     * Mention in Covid Years
-* BYCombo
-    * Determinism
+* BYCombo work
 * Read pickle post
 * Cardio
 * Reward myself!
-    * More Dreamshaper fixes
 
 # Tomorrow
 * Put away doll
@@ -15,6 +13,8 @@
 # Soon
 
 # Parents
+* Return Amazon thing
+* Noise canceling headphones
 * Dad's hearing aid
 
 # Thursday
