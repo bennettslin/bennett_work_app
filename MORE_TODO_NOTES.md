@@ -2,6 +2,7 @@
 * Protectionism
     * Mention in Covid Years
 * BYCombo work
+* Substack profile
 * Read pickle post
 * Cardio
 * Reward myself!
