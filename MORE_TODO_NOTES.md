@@ -7,10 +7,12 @@
 * Reward myself!
 
 # Tomorrow
+* Transfer money
 * Put away doll
 * Fix blinds
 
 # Soon
+* NeatCell laser pen
 
 # Parents
 * Return Amazon thing
@@ -28,7 +30,6 @@
 * Eye nut
 * Fix chair
 * Sell climber
-* NeatCell laser pen
 
 # Doctor questions
 * Ear problem
