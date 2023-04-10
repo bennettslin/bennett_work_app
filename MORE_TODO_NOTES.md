@@ -1,14 +1,18 @@
 # Today
+* Write to Ashley
+* BYCombo work
+    * Continue working on radio-friendly hooks
+    * Consider putting diversity of thought in hungry outsider
+* Read pickle post
+* Mom's stuff
 * Protectionism
     * Mention in Covid Years
-* BYCombo work
-* Substack profile
-* Read pickle post
-* Cardio
+* No true diversity of thought in indie rock
+    * Mention in hungry outsider
 * Reward myself!
 
 # Tomorrow
-* Transfer money
+* Confirm transaction
 * Put away doll
 * Fix blinds
 
@@ -16,8 +20,6 @@
 * NeatCell laser pen
 
 # Parents
-* Return Amazon thing
-* Noise canceling headphones
 * Dad's hearing aid
 
 # Thursday
