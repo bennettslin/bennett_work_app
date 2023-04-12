@@ -1,18 +1,14 @@
 # Today
-* Write to Ashley
+* Global traveler
 * BYCombo work
+    * All todos
     * Continue working on radio-friendly hooks
-    * Consider putting diversity of thought in hungry outsider
 * Read pickle post
-* Mom's stuff
 * Protectionism
     * Mention in Covid Years
-* No true diversity of thought in indie rock
-    * Mention in hungry outsider
 * Reward myself!
 
 # Tomorrow
-* Confirm transaction
 * Put away doll
 * Fix blinds
 
