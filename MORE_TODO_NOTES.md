@@ -1,18 +1,20 @@
 # Today
-* Global traveler
 * BYCombo work
-    * All todos
-    * Continue working on radio-friendly hooks
-* Read pickle post
+    * Review hundred section
+    * Review radio-friendly section
 * Protectionism
     * Mention in Covid Years
 * Reward myself!
+    * Workout
 
 # Tomorrow
+* Read pickle post
 * Put away doll
 * Fix blinds
 
 # Soon
+* Global traveler
+* Take care of tadalafil
 * NeatCell laser pen
 
 # Parents
