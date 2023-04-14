@@ -1,13 +1,16 @@
 # Today
+* Best artists
+* Judge art by those who've left
+* Nature of being indie is to think everyone thinks like you
+    * Has the same motives
 * BYCombo work
     * Review hundred section
-    * Review radio-friendly section
 * Protectionism
     * Mention in Covid Years
 * Reward myself!
-    * Workout
 
 # Tomorrow
+* More BD puzzles for 2023
 * Read pickle post
 * Put away doll
 * Fix blinds
