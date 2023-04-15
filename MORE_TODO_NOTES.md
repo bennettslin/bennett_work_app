@@ -1,27 +1,33 @@
 # Today
+* Dad's hearing aid (read article)
+* More BD puzzles for 2023
+* Fair compensation holds back the art form
 * Best artists
+* Standard procedure
 * Judge art by those who've left
 * Nature of being indie is to think everyone thinks like you
     * Has the same motives
 * BYCombo work
-    * Review hundred section
+    * Review sections
+    * Work on gatekeepers section
 * Protectionism
     * Mention in Covid Years
+* Cardio
 * Reward myself!
+    * AI fixes
+    * Workout
 
 # Tomorrow
-* More BD puzzles for 2023
 * Read pickle post
-* Put away doll
-* Fix blinds
 
 # Soon
-* Global traveler
+* Index funds
+* Trusted traveler
 * Take care of tadalafil
 * NeatCell laser pen
+* Redo auto pay for Blue Cross and Delta Dental?
 
 # Parents
-* Dad's hearing aid
 
 # Thursday
 * Make empanadas
@@ -51,8 +57,6 @@
 * Install guitar wall mounts
 * Look into CDs?
 * Figure out HSA money
-* Once passport arrives
-    * Trusted Traveler
 * Set up appointment for car
 * Covid and flu shots for parents
 * Sleep machine
