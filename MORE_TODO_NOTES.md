@@ -1,11 +1,11 @@
 # Today
-* Write to Anita
+* Millions want what only a handful can have
 * Dad's hearing aid (read article)
 * More BD puzzles for 2023
 * Nature of being indie is to think everyone thinks like you
     * Has the same motives
 * BYCombo work
-    * Review hungry outsiders section
+    * Keep working on hungry outsiders section
     * Work on gatekeepers section
 * Protectionism
     * Mention in Covid Years
