@@ -1,12 +1,12 @@
 # Today
-* Millions want what only a handful can have
 * Dad's hearing aid (read article)
 * More BD puzzles for 2023
+* Millions want what only a handful can have
 * Nature of being indie is to think everyone thinks like you
     * Has the same motives
 * BYCombo work
-    * Keep working on hungry outsiders section
-    * Work on gatekeepers section
+    * Review hungry outsiders section once more
+    * Work on hundred section
 * Protectionism
     * Mention in Covid Years
 * Reward myself!
