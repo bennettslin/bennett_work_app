@@ -1,12 +1,13 @@
 # Today
 * Dad's hearing aid (read article)
-* More BD puzzles for 2023
-* Millions want what only a handful can have
+* Expand on standard procedure
+* Brood parasite
+* Music critics are on the wrong side of history
+    * And this becomes obvious when 
 * Nature of being indie is to think everyone thinks like you
     * Has the same motives
 * BYCombo work
-    * Review hungry outsiders section once more
-    * Work on hundred section
+    * Work on home page now
 * Protectionism
     * Mention in Covid Years
 * Reward myself!
@@ -14,6 +15,7 @@
     * Workout
 
 # Tomorrow
+* More BD puzzles for 2023
 * Read pickle post
 
 # Soon
