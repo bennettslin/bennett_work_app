@@ -1,9 +1,6 @@
 # Today
 * Dad's hearing aid (read article)
-* Expand on standard procedure
 * Brood parasite
-* Music critics are on the wrong side of history
-    * And this becomes obvious when 
 * Nature of being indie is to think everyone thinks like you
     * Has the same motives
 * BYCombo work
