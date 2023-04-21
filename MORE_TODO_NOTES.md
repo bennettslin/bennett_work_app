@@ -1,4 +1,6 @@
 # Today
+* A dysfunctional system will naturally push its rejects in the general direction of its eventual demise
+* Change Imgur site
 * Dad's hearing aid (read article)
 * Brood parasite
 * Nature of being indie is to think everyone thinks like you
