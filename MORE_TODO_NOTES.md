@@ -14,6 +14,10 @@
     * Workout
 
 # Tomorrow
+* Milk
+* Cereal
+* Raisins
+* Soup
 * More BD puzzles for 2023
 * Read pickle post
 
