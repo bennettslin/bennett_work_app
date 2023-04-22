@@ -1,7 +1,15 @@
 # Today
+* Make A plea for a truce
+    * Talk more about logical extremes
+* Change to indie, artists, partners
+    * Order is Registry, Artists, Partners, Indie
+* Make better partners section
+    * Beatles
+    * Why mess with the system that gave us the greatest rock band of all time?
 * A dysfunctional system will naturally push its rejects in the general direction of its eventual demise
 * Change Imgur site
 * Dad's hearing aid (read article)
+* Imagine intentionally creating a foreign canon
 * Brood parasite
 * Nature of being indie is to think everyone thinks like you
     * Has the same motives
