@@ -1,8 +1,6 @@
 # Today
-* Make A plea for a truce
-    * Talk more about logical extremes
-* Change to indie, artists, partners
-    * Order is Registry, Artists, Partners, Indie
+* Talk more about managers in band
+    * Influencer
 * Make better partners section
     * Beatles
     * Why mess with the system that gave us the greatest rock band of all time?
@@ -11,8 +9,6 @@
 * Dad's hearing aid (read article)
 * Imagine intentionally creating a foreign canon
 * Brood parasite
-* Nature of being indie is to think everyone thinks like you
-    * Has the same motives
 * BYCombo work
     * Work on home page now
 * Protectionism
@@ -22,10 +18,7 @@
     * Workout
 
 # Tomorrow
-* Milk
-* Cereal
-* Raisins
-* Soup
+* Check batteries
 * More BD puzzles for 2023
 * Read pickle post
 
@@ -35,6 +28,7 @@
 * Take care of tadalafil
 * NeatCell laser pen
 * Redo auto pay for Blue Cross and Delta Dental?
+* Independence breeds homogeneity
 
 # Parents
 
