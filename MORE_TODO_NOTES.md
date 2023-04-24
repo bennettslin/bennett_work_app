@@ -1,24 +1,31 @@
-# Today
-* Talk more about managers in band
-    * Influencer
-* Make better partners section
-    * Beatles
-    * Why mess with the system that gave us the greatest rock band of all time?
-* A dysfunctional system will naturally push its rejects in the general direction of its eventual demise
-* Change Imgur site
-* Dad's hearing aid (read article)
-* Imagine intentionally creating a foreign canon
+# Morning
+* Prepare PE stuff for tomorrow
 * Brood parasite
-* BYCombo work
-    * Work on home page now
+* Imagine intentionally creating a foreign canon
+* Indie rock is the Lost Cause of music
+    * Research Lost Cause book
+    * Put in Birth of a Nation
 * Protectionism
     * Mention in Covid Years
+* Scale batteries
+
+# Today
+* Change Imgur site
+* BYCombo work
+    * Work on home page now
+    * Talk more about managers in band
+        * Influencer
+    * Make better partners section
+        * Beatles
+        * Why mess with the system that gave us the greatest rock band of all time?
+* Workout
+* Cardio
 * Reward myself!
     * AI fixes
     * Workout
 
 # Tomorrow
-* Check batteries
+* Dad's hearing aid (read article)
 * More BD puzzles for 2023
 * Read pickle post
 
