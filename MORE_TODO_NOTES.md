@@ -1,13 +1,10 @@
 # Morning
-* Prepare PE stuff for tomorrow
-* Brood parasite
 * Imagine intentionally creating a foreign canon
 * Indie rock is the Lost Cause of music
-    * Research Lost Cause book
     * Put in Birth of a Nation
 * Protectionism
     * Mention in Covid Years
-* Scale batteries
+* Auto pay for Blue Cross
 
 # Today
 * Change Imgur site
@@ -19,7 +16,6 @@
         * Beatles
         * Why mess with the system that gave us the greatest rock band of all time?
 * Workout
-* Cardio
 * Reward myself!
     * AI fixes
     * Workout
@@ -34,8 +30,9 @@
 * Trusted traveler
 * Take care of tadalafil
 * NeatCell laser pen
-* Redo auto pay for Blue Cross and Delta Dental?
+* Redo auto pay for Delta Dental?
 * Independence breeds homogeneity
+* Scale batteries?
 
 # Parents
 
