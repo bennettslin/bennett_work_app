@@ -1,22 +1,22 @@
-# Morning
-* Write to Anita
-* Imagine intentionally creating a foreign canon
+# Today
 * Indie rock is the Lost Cause of music
     * Put in Birth of a Nation
 * Protectionism
     * Mention in Covid Years
-* Auto pay for Blue Cross
-
-# Today
 * Change Imgur site
 * BYCombo work
     * Work on home page now
-    * Talk more about managers in band
+    * Talk more about partners
+        * Managers in band
         * Influencer
     * Make better partners section
         * Beatles
+        * The silent majority of unknown artists want interdependence
         * Why mess with the system that gave us the greatest rock band of all time?
+    * Return button
+    * Demo page
 * Workout
+* Go through package
 * Reward myself!
     * AI fixes
     * Workout
@@ -25,6 +25,7 @@
 * Dad's hearing aid (read article)
 * More BD puzzles for 2023
 * Read pickle post
+* Mouthwash
 
 # Soon
 * Index funds
