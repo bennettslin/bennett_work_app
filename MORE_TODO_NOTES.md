@@ -15,11 +15,9 @@
         * Why mess with the system that gave us the greatest rock band of all time?
     * Return button
     * Demo page
-* Workout
 * Go through package
 * Reward myself!
     * AI fixes
-    * Workout
 
 # Tomorrow
 * Dad's hearing aid (read article)
