@@ -1,4 +1,5 @@
 # Today
+* Mention crowdfunding
 * Indie rock is the Lost Cause of music
     * Put in Birth of a Nation
 * Protectionism
