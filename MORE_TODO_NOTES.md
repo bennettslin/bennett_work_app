@@ -1,10 +1,8 @@
 # Today
-* Mention crowdfunding
 * Indie rock is the Lost Cause of music
     * Put in Birth of a Nation
 * Protectionism
     * Mention in Covid Years
-* Change Imgur site
 * BYCombo work
     * Work on home page now
     * Talk more about partners
