@@ -4,7 +4,9 @@
 * Protectionism
     * Mention in Covid Years
 * BYCombo work
-    * Work on home page now
+    * Audit home page well
+        * Brief audit of other pages
+    * Publish!
     * Talk more about partners
         * Managers in band
         * Influencer
@@ -14,15 +16,14 @@
         * Why mess with the system that gave us the greatest rock band of all time?
     * Return button
     * Demo page
-* Go through package
+* Cardio
+* Workout
 * Reward myself!
-    * AI fixes
 
 # Tomorrow
 * Dad's hearing aid (read article)
 * More BD puzzles for 2023
 * Read pickle post
-* Mouthwash
 
 # Soon
 * Index funds
