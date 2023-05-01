@@ -4,9 +4,8 @@
 * Protectionism
     * Mention in Covid Years
 * BYCombo work
-    * Audit home page well
-        * Brief audit of other pages
-    * Publish!
+    * Latest changes
+        * Publish again
     * Talk more about partners
         * Managers in band
         * Influencer
