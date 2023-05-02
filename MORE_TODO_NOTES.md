@@ -1,4 +1,5 @@
 # Today
+* Fix bathroom scale
 * Indie rock is the Lost Cause of music
     * Put in Birth of a Nation
 * Protectionism
@@ -20,6 +21,7 @@
 * Reward myself!
 
 # Tomorrow
+* Lose ten pounds in May!
 * Dad's hearing aid (read article)
 * More BD puzzles for 2023
 * Read pickle post
