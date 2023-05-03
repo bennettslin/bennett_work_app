@@ -1,13 +1,8 @@
 # Today
-* Fix bathroom scale
-* Indie rock is the Lost Cause of music
-    * Put in Birth of a Nation
-* Protectionism
-    * Mention in Covid Years
 * BYCombo work
-    * Latest changes
+    * Final audit
         * Publish again
-    * Talk more about partners
+    * Start thinking about partners revisions
         * Managers in band
         * Influencer
     * Make better partners section
@@ -17,8 +12,6 @@
     * Return button
     * Demo page
 * Cardio
-* Workout
-* Reward myself!
 
 # Tomorrow
 * Lose ten pounds in May!
@@ -27,6 +20,10 @@
 * Read pickle post
 
 # Soon
+* Indie rock is the Lost Cause of music
+    * Put in Birth of a Nation
+* Protectionism
+    * Mention in Covid Years
 * Index funds
 * Trusted traveler
 * Take care of tadalafil
