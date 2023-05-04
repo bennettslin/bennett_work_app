@@ -1,7 +1,7 @@
 # Today
+* Registration
+* Look into dental stuff
 * BYCombo work
-    * Final audit
-        * Publish again
     * Start thinking about partners revisions
         * Managers in band
         * Influencer
@@ -9,9 +9,9 @@
         * Beatles
         * The silent majority of unknown artists want interdependence
         * Why mess with the system that gave us the greatest rock band of all time?
-    * Return button
     * Demo page
 * Cardio
+* Workout
 
 # Tomorrow
 * Lose ten pounds in May!
