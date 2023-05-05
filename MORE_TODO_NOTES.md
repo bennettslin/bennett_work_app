@@ -4,6 +4,8 @@
     * Demo page
     * Rework artists page
     * Make better partners section
+        * Really think through what I want to call these people
+            * Maybe get rid of industry executives and budding entrepreneurs
         * Beatles
         * Influencer
         * Managers in band
