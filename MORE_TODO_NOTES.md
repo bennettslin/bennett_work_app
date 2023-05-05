@@ -1,13 +1,14 @@
 # Today
+* Write to Anita
 * Look into dental stuff
 * BYCombo work
+    * Last minute todos
     * Demo page
     * Rework artists page
     * Make better partners section
         * Really think through what I want to call these people
-            * Maybe get rid of industry executives and budding entrepreneurs
+            * Partners, executives, entrepreneurs, influencers
         * Beatles
-        * Influencer
         * Managers in band
         * The silent majority of unknown artists want interdependence
         * Why mess with the system that gave us the greatest rock band of all time?
