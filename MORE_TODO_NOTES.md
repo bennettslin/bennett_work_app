@@ -1,15 +1,15 @@
 # Today
-* Registration
 * Look into dental stuff
 * BYCombo work
-    * Start thinking about partners revisions
-        * Managers in band
-        * Influencer
+    * Demo page
+    * Rework artists page
     * Make better partners section
         * Beatles
+        * Influencer
+        * Managers in band
         * The silent majority of unknown artists want interdependence
         * Why mess with the system that gave us the greatest rock band of all time?
-    * Demo page
+    * Google Form
 * Cardio
 * Workout
 
