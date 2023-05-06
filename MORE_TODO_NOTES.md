@@ -1,8 +1,6 @@
 # Today
-* Write to Anita
 * Look into dental stuff
 * BYCombo work
-    * Last minute todos
     * Demo page
     * Rework artists page
     * Make better partners section
