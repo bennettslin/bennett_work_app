@@ -1,4 +1,5 @@
 # Today
+* Restart PE
 * Look into dental stuff
 * BYCombo work
     * Demo page
@@ -15,6 +16,7 @@
 * Workout
 
 # Tomorrow
+* Longan mystery
 * Lose ten pounds in May!
 * Dad's hearing aid (read article)
 * More BD puzzles for 2023
