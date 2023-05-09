@@ -1,8 +1,9 @@
 # Today
-* Restart PE
+* Read Pitchfork mental health article
 * Look into dental stuff
 * BYCombo work
     * Demo page
+    * Happiness section
     * Rework artists page
     * Make better partners section
         * Really think through what I want to call these people
@@ -14,6 +15,10 @@
     * Google Form
 * Cardio
 * Workout
+
+# Costco
+* Soap
+* Coffee
 
 # Tomorrow
 * Longan mystery
@@ -33,7 +38,6 @@
 * NeatCell laser pen
 * Redo auto pay for Delta Dental?
 * Independence breeds homogeneity
-* Scale batteries?
 
 # Parents
 
