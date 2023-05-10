@@ -1,10 +1,10 @@
 # Today
-* Read Pitchfork mental health article
 * Look into dental stuff
 * BYCombo work
+    * Review artists page
+    * Review sections
+    * Continue long tail section
     * Demo page
-    * Happiness section
-    * Rework artists page
     * Make better partners section
         * Really think through what I want to call these people
             * Partners, executives, entrepreneurs, influencers
