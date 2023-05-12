@@ -1,9 +1,8 @@
 # Today
 * Look into dental stuff
 * BYCombo work
-    * Review artists page
-    * Review sections
-    * Continue long tail section
+    * Audit sections
+    * Continue working on sections
     * Demo page
     * Make better partners section
         * Really think through what I want to call these people
@@ -19,6 +18,7 @@
 # Costco
 * Soap
 * Coffee
+* Antacid
 
 # Tomorrow
 * Longan mystery
