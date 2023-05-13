@@ -1,8 +1,11 @@
 # Today
 * Look into dental stuff
+* Prepare face stuff
+* Cash check
+* Post old photos
 * BYCombo work
     * Audit sections
-    * Continue working on sections
+    * Continue working on intrinsic section
     * Demo page
     * Make better partners section
         * Really think through what I want to call these people
