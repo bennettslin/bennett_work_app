@@ -5,10 +5,10 @@
 * Post old photos
 * Safely artsy music is a copout
 * BYCombo work
+    * Audit timeless section
     * Slippery slope of helping the underdog
         * See if I can get all the main points down
             * If so, plan to update the home page
-    * Audit timeless section
     * Demo page
     * Make better partners section
         * Really think through what I want to call these people
@@ -20,12 +20,6 @@
     * Google Form
 * Cardio
 * Workout
-
-# Costco
-* Glucosamine
-* Soap
-* Coffee
-* Antacid
 
 # Tomorrow
 * Longan mystery
