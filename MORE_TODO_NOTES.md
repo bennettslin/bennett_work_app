@@ -3,7 +3,8 @@
 * Prepare face stuff
 * Cash check
 * Post old photos
-* Safely artsy music is a copout
+* BY mission
+    * Safely artsy music is a copout
 * BYCombo work
     * Audit timeless section
     * Slippery slope of helping the underdog
