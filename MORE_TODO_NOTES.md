@@ -1,10 +1,12 @@
 # Today
 * Look into dental stuff
-* Prepare face stuff
 * Cash check
 * Post old photos
-* BY mission
-    * Safely artsy music is a copout
+* CPAP
+    * Figure out my current level
+        * Adjust new CPAP with current level
+    * Put away old CPAP
+    * Figure out humidifier
 * BYCombo work
     * Keep working on underdogs vs. outsiders
     * Demo page
