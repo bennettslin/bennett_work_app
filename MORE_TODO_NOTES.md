@@ -1,6 +1,5 @@
 # Today
 * Look into dental stuff
-* Cash check
 * Post old photos
 * CPAP
     * Figure out my current level
@@ -22,6 +21,7 @@
 * Workout
 
 # Tomorrow
+* Confirm check
 * Longan mystery
 * Lose ten pounds in May!
 * Dad's hearing aid (read article)
