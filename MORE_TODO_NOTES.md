@@ -1,11 +1,9 @@
 # Today
-* Look into dental stuff
-* Post old photos
-* CPAP
-    * Figure out my current level
-        * Adjust new CPAP with current level
-    * Put away old CPAP
-    * Figure out humidifier
+* Look into Delta Dental stuff
+* Word Joiner util
+    * https://en.wikipedia.org/wiki/Word_joiner
+* Scan old photos
+* Haircut
 * BYCombo work
     * Keep working on underdogs vs. outsiders
     * Demo page
@@ -19,9 +17,15 @@
     * Google Form
 * Cardio
 * Workout
+* CPAP
+    * Figure out humidifier
+        * See if new CPAP is still louder
+    * Put away old CPAP
+
+# Parents
+* Antacid
 
 # Tomorrow
-* Confirm check
 * Longan mystery
 * Lose ten pounds in May!
 * Dad's hearing aid (read article)
@@ -37,7 +41,6 @@
 * Trusted traveler
 * Take care of tadalafil
 * NeatCell laser pen
-* Redo auto pay for Delta Dental?
 * Independence breeds homogeneity
 
 # Parents
