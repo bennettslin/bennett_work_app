@@ -1,9 +1,7 @@
 # Today
-* Look into Delta Dental stuff
 * Word Joiner util
     * https://en.wikipedia.org/wiki/Word_joiner
 * Scan old photos
-* Haircut
 * BYCombo work
     * Keep working on underdogs vs. outsiders
     * Demo page
@@ -24,8 +22,11 @@
 
 # Parents
 * Antacid
+* Cereal
+* Q-Tips
 
 # Tomorrow
+* Look into Delta Dental stuff
 * Longan mystery
 * Lose ten pounds in May!
 * Dad's hearing aid (read article)
