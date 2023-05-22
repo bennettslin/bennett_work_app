@@ -1,4 +1,5 @@
 # Today
+* Make optometry appointment
 * Word Joiner util
     * https://en.wikipedia.org/wiki/Word_joiner
 * Scan old photos
@@ -21,9 +22,7 @@
     * Put away old CPAP
 
 # Parents
-* Antacid
-* Cereal
-* Q-Tips
+* Return Amazon package
 
 # Tomorrow
 * Look into Delta Dental stuff
