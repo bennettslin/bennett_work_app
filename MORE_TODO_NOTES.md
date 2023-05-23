@@ -1,11 +1,12 @@
 # Today
+* Write to Kevin
 * Make optometry appointment
-* Word Joiner util
-    * https://en.wikipedia.org/wiki/Word_joiner
 * Scan old photos
 * BYCombo work
-    * Keep working on underdogs vs. outsiders
-    * Demo page
+    * Audit home page
+    * Word Joiner util
+        * https://en.wikipedia.org/wiki/Word_joiner
+    * BY demo page
     * Make better partners section
         * Really think through what I want to call these people
             * Partners, executives, entrepreneurs, influencers
@@ -23,6 +24,7 @@
 
 # Parents
 * Return Amazon package
+* Soy milk
 
 # Tomorrow
 * Look into Delta Dental stuff
