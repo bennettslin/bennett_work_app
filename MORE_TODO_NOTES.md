@@ -1,5 +1,4 @@
 # Today
-* Write to Kevin
 * Make optometry appointment
 * Scan old photos
 * BYCombo work
