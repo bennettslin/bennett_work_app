@@ -1,11 +1,12 @@
 # Today
+* Dad's hearing aid (read article)
 * Make optometry appointment
 * Scan old photos
+* Yearling's Bobtail
+    * Add no break em dash helper
 * BYCombo work
     * Audit home page
-    * Word Joiner util
-        * https://en.wikipedia.org/wiki/Word_joiner
-    * BY demo page
+    * Begin work on BY demo page
     * Make better partners section
         * Really think through what I want to call these people
             * Partners, executives, entrepreneurs, influencers
@@ -29,7 +30,6 @@
 * Look into Delta Dental stuff
 * Longan mystery
 * Lose ten pounds in May!
-* Dad's hearing aid (read article)
 * More BD puzzles for 2023
 * Read pickle post
 
