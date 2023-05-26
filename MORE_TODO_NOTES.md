@@ -1,11 +1,8 @@
 # Today
-* Dad's hearing aid (read article)
+* Write to Anita
 * Make optometry appointment
 * Scan old photos
-* Yearling's Bobtail
-    * Add no break em dash helper
 * BYCombo work
-    * Audit home page
     * Begin work on BY demo page
     * Make better partners section
         * Really think through what I want to call these people
@@ -23,6 +20,7 @@
     * Put away old CPAP
 
 # Parents
+* Talk to Dad about hearing aid
 * Return Amazon package
 * Soy milk
 
