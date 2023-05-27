@@ -1,8 +1,8 @@
 # Today
-* Write to Anita
 * Make optometry appointment
 * Scan old photos
 * BYCombo work
+    * Continue prejudice section
     * Begin work on BY demo page
     * Make better partners section
         * Really think through what I want to call these people
@@ -12,6 +12,7 @@
         * The silent majority of unknown artists want interdependence
         * Why mess with the system that gave us the greatest rock band of all time?
     * Google Form
+* Take a walk
 * Cardio
 * Workout
 * CPAP
@@ -21,8 +22,6 @@
 
 # Parents
 * Talk to Dad about hearing aid
-* Return Amazon package
-* Soy milk
 
 # Tomorrow
 * Look into Delta Dental stuff
