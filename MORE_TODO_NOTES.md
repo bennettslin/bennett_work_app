@@ -2,7 +2,7 @@
 * Make optometry appointment
 * Scan old photos
 * BYCombo work
-    * Continue prejudice section
+    * Audit indie page sections.
     * Begin work on BY demo page
     * Make better partners section
         * Really think through what I want to call these people
@@ -21,6 +21,7 @@
     * Put away old CPAP
 
 # Parents
+* Tofu
 * Talk to Dad about hearing aid
 
 # Tomorrow
