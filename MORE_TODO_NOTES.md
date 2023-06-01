@@ -1,12 +1,11 @@
-# Today
+# Definitely do first thing tomorrow!
 * Write to Ashley
 * Make optometry appointment
-* Scan old photos
+
+# Today
 * BYCombo work
+    * Metadata for individual pages
     * Begin work on BY demo page
-        * Make album title a link
-        * Make band title a link
-        * Make overview link onesheet instead
         * Work on body text
     * Make better partners section
         * Really think through what I want to call these people
@@ -31,11 +30,9 @@
 * Before July 1: Cancel Fanbox
 
 # Tomorrow
-* Look into Delta Dental stuff
+* Scan old photos
 * Longan mystery
-* Lose ten pounds in May!
 * More BD puzzles for 2023
-* Read pickle post
 
 # Soon
 * Indie rock is the Lost Cause of music
