@@ -3,8 +3,11 @@
 * Make optometry appointment
 * Scan old photos
 * BYCombo work
-    * Audit indie page sections.
     * Begin work on BY demo page
+        * Make album title a link
+        * Make band title a link
+        * Make overview link onesheet instead
+        * Work on body text
     * Make better partners section
         * Really think through what I want to call these people
             * Partners, executives, entrepreneurs, influencers
@@ -22,8 +25,10 @@
     * Put away old CPAP
 
 # Parents
-* Tofu
 * Talk to Dad about hearing aid
+
+# Deadlines
+* Before July 1: Cancel Fanbox
 
 # Tomorrow
 * Look into Delta Dental stuff
