@@ -1,11 +1,15 @@
 # Definitely do first thing tomorrow!
 * Make optometry appointment
+* Come up with metadata for individual pages
+    * Bobtail Dominoes
+    * Bobtail Yearlings
+    * BYCombo
 
 # Today
 * BYCombo work
-    * Metadata for individual pages
     * Begin work on BY demo page
         * Work on body text
+    * Google Form
     * Make better partners section
         * Really think through what I want to call these people
             * Partners, executives, entrepreneurs, influencers
@@ -13,7 +17,6 @@
         * Managers in band
         * The silent majority of unknown artists want interdependence
         * Why mess with the system that gave us the greatest rock band of all time?
-    * Google Form
 * Take a walk
 * Cardio
 * Workout
