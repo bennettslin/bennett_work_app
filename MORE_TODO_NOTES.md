@@ -1,5 +1,4 @@
 # Definitely do first thing tomorrow!
-* Write to Ashley
 * Make optometry appointment
 
 # Today
