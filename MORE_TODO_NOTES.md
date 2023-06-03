@@ -1,11 +1,10 @@
 # Definitely do first thing tomorrow!
 * Make optometry appointment
-* Come up with metadata for individual pages
-    * Bobtail Dominoes
-    * Bobtail Yearlings
-    * BYCombo
 
 # Today
+* Come up with metadata for individual pages
+    * Test some pages for each website
+    * BYCombo
 * BYCombo work
     * Begin work on BY demo page
         * Work on body text
