@@ -2,12 +2,13 @@
 * Make optometry appointment
 
 # Today
-* Come up with metadata for individual pages
-    * Test some pages for each website
-    * BYCombo
 * BYCombo work
+    * Work on truth will prevail
+        * See if I can get far enough on it
+        * If not, abandon doing it for now
     * Begin work on BY demo page
-        * Work on body text
+        * Read onesheet, artup, and Pareto promo slides
+        * Work on one body point
     * Google Form
     * Make better partners section
         * Really think through what I want to call these people
@@ -25,9 +26,12 @@
     * Put away old CPAP
 
 # Parents
-* Talk to Dad about hearing aid
+* Visit Christopher
+* Paper towels
+* Toilet paper
 
 # Deadlines
+* June 21: Sam's birthday gift
 * Before July 1: Cancel Fanbox
 
 # Tomorrow
@@ -36,10 +40,15 @@
 * More BD puzzles for 2023
 
 # Soon
-* Indie rock is the Lost Cause of music
-    * Put in Birth of a Nation
-* Protectionism
-    * Mention in Covid Years
+* A People's History work
+    * Indie rock is the Lost Cause of music
+        * Put in Birth of a Nation
+    * Protectionism
+        * Mention in Covid Years
+* Future BYCombo work
+    * The truth will always prevail
+    * Make point about competition and privilege
+        * From BY principle
 * Index funds
 * Trusted traveler
 * Take care of tadalafil
