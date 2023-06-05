@@ -6,9 +6,6 @@
 * Change Registry to Bands
     * Artists to Apply
 * BYCombo work
-    * Work on truth will prevail
-        * See if I can get far enough on it
-        * If not, abandon doing it for now
     * Begin work on BY demo page
         * Read onesheet, artup, and Pareto promo slides
         * Work on one body point
@@ -54,9 +51,9 @@
     * Protectionism
         * Mention in Covid Years
 * Future BYCombo work
-    * All systems have runaway effects
     * The truth will always prevail
-    * Make point about competition and privilege
+    * All systems have runaway effects
+        * Make point about competition and privilege
         * From BY principle
 * Index funds
 * Trusted traveler
