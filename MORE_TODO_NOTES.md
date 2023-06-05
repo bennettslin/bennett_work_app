@@ -2,7 +2,9 @@
 * Make optometry appointment
 
 # Today
-* Doll
+* Shave pubes
+* Change Registry to Bands
+    * Artists to Apply
 * BYCombo work
     * Work on truth will prevail
         * See if I can get far enough on it
@@ -20,11 +22,19 @@
         * Why mess with the system that gave us the greatest rock band of all time?
 * Take a walk
 * Cardio
+    * With weight vest
 * Workout
 * CPAP
     * Figure out humidifier
         * See if new CPAP is still louder
     * Put away old CPAP
+
+# Workout goals
+* Zone 2:
+    * 45 minutes, 4 days
+    * Carry 5 pounds
+* VO2 max:
+    * 2 rounds at 4 minutes
 
 # Parents
 
