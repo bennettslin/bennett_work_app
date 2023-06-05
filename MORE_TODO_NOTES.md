@@ -2,6 +2,7 @@
 * Make optometry appointment
 
 # Today
+* Doll
 * BYCombo work
     * Work on truth will prevail
         * See if I can get far enough on it
@@ -26,9 +27,6 @@
     * Put away old CPAP
 
 # Parents
-* Visit Christopher
-* Paper towels
-* Toilet paper
 
 # Deadlines
 * June 21: Sam's birthday gift
@@ -46,6 +44,7 @@
     * Protectionism
         * Mention in Covid Years
 * Future BYCombo work
+    * All systems have runaway effects
     * The truth will always prevail
     * Make point about competition and privilege
         * From BY principle
