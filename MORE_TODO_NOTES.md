@@ -1,8 +1,8 @@
 # Definitely do first thing tomorrow!
-* Make optometry appointment
+* Complete optometry forms
+* Shave pubes
 
 # Today
-* Shave pubes
 * Change Registry to Bands
     * Artists to Apply
 * BYCombo work
@@ -37,7 +37,6 @@
 
 # Deadlines
 * June 21: Sam's birthday gift
-* Before July 1: Cancel Fanbox
 
 # Tomorrow
 * Scan old photos
