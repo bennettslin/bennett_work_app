@@ -1,6 +1,5 @@
 # Definitely do first thing tomorrow!
 * Complete optometry forms
-* Shave pubes
 
 # Today
 * Change Registry to Bands
@@ -34,6 +33,11 @@
     * 2 rounds at 4 minutes
 
 # Parents
+
+# Costco
+* NyQuil
+* Raisins
+* Mangoes
 
 # Deadlines
 * June 21: Sam's birthday gift
