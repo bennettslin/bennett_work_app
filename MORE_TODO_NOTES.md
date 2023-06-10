@@ -33,6 +33,8 @@
     * 2 rounds at 4 minutes
 
 # Parents
+* Soap
+* Milk
 
 # Costco
 * NyQuil
