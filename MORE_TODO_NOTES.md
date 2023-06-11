@@ -1,8 +1,10 @@
 # Definitely do first thing tomorrow!
 * Complete optometry forms
+* Begin work on demo page
 
 # Today
-* Change Registry to Bands
+* Change page names?
+    * Registry to Bands
     * Artists to Apply
 * BYCombo work
     * Begin work on BY demo page
