@@ -1,6 +1,8 @@
 # Definitely do first thing tomorrow!
-* Complete optometry forms
 * Begin work on demo page
+* Begin PE again
+* Cardio
+* Workout
 
 # Today
 * Change page names?
@@ -35,7 +37,6 @@
     * 2 rounds at 4 minutes
 
 # Parents
-* Soap
 * Milk
 
 # Costco
