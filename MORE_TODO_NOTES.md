@@ -1,8 +1,7 @@
 # Definitely do first thing tomorrow!
+* Write to Anita
 * Begin work on demo page
-* Begin PE again
-* Cardio
-* Workout
+* Get Gigapixel trial
 
 # Today
 * Change page names?
