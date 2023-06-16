@@ -1,17 +1,17 @@
 # Definitely do first thing tomorrow!
-* Write to Anita
 * Begin work on demo page
-* Get Gigapixel trial
 
 # Today
 * Change page names?
-    * Registry to Bands
     * Artists to Apply
 * BYCombo work
     * Begin work on BY demo page
         * Read onesheet, artup, and Pareto promo slides
         * Work on one body point
     * Google Form
+        * Come up with questions
+        * Hook up to Google Sheet
+        * Allow email to enter only once per six months
     * Make better partners section
         * Really think through what I want to call these people
             * Partners, executives, entrepreneurs, influencers
@@ -36,7 +36,8 @@
     * 2 rounds at 4 minutes
 
 # Parents
-* Milk
+* Soy Milk
+* NyQuil
 
 # Costco
 * NyQuil
