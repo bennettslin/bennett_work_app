@@ -1,9 +1,8 @@
 # Definitely do first thing tomorrow!
+* Figure out Eargo sync problem
 * Begin work on demo page
 
 # Today
-* Change page names?
-    * Artists to Apply
 * BYCombo work
     * Begin work on BY demo page
         * Read onesheet, artup, and Pareto promo slides
@@ -27,6 +26,7 @@
     * Figure out humidifier
         * See if new CPAP is still louder
     * Put away old CPAP
+* Study for driver's license test
 
 # Workout goals
 * Zone 2:
@@ -36,8 +36,8 @@
     * 2 rounds at 4 minutes
 
 # Parents
-* Soy Milk
-* NyQuil
+* Print documents
+* Transfer AI models
 
 # Costco
 * NyQuil
@@ -45,11 +45,9 @@
 * Mangoes
 
 # Deadlines
-* June 21: Sam's birthday gift
 
 # Tomorrow
 * Scan old photos
-* Longan mystery
 * More BD puzzles for 2023
 
 # Soon
@@ -69,16 +67,7 @@
 * NeatCell laser pen
 * Independence breeds homogeneity
 
-# Parents
-
-# Thursday
-* Make empanadas
-
 # Soon
-* Eye checkup for DMV
-* Print out documents for DMV
-* Study for DMV
-* Smog check
 * Eye nut
 * Fix chair
 * Sell climber
