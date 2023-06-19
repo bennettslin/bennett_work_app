@@ -1,5 +1,5 @@
 # Definitely do first thing tomorrow!
-* Figure out Eargo sync problem
+* Study for driver's license test
 * Begin work on demo page
 
 # Today
@@ -26,7 +26,6 @@
     * Figure out humidifier
         * See if new CPAP is still louder
     * Put away old CPAP
-* Study for driver's license test
 
 # Workout goals
 * Zone 2:
@@ -36,9 +35,7 @@
     * 2 rounds at 4 minutes
 
 # Parents
-* Print documents
-* Transfer AI models
-
+* Scan old photos and passport
 # Costco
 * NyQuil
 * Raisins
@@ -47,7 +44,6 @@
 # Deadlines
 
 # Tomorrow
-* Scan old photos
 * More BD puzzles for 2023
 
 # Soon
