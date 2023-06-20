@@ -1,6 +1,11 @@
 # Definitely do first thing tomorrow!
+* Wake earlier than 3pm
+    * Drink coffee if needed
+* Begin Grammarly corrections
 * Study for driver's license test
 * Begin work on demo page
+* Cardio
+* Workout
 
 # Today
 * BYCombo work
@@ -36,6 +41,8 @@
 
 # Parents
 * Scan old photos and passport
+* Say happy birthday to Sam
+
 # Costco
 * NyQuil
 * Raisins
