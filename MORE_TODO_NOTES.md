@@ -1,9 +1,5 @@
 # Definitely do first thing tomorrow!
-* Wake earlier than 3pm
-    * Drink coffee if needed
-* Begin Grammarly corrections
-* Study for driver's license test
-* Begin work on demo page
+* Finish work on demo page
 * Cardio
 * Workout
 
