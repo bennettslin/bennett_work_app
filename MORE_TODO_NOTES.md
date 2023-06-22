@@ -1,18 +1,21 @@
-# Definitely do first thing tomorrow!
-* Finish work on demo page
+# Definitely do tomorrow
+* Prepare for driver's test
+* DMV appointment at 4pm
+* Think about partners concept
+    * Finish partners part of demo page
+* Vacuum
+* Pump
 * Cardio
 * Workout
 
 # Today
 * BYCombo work
-    * Begin work on BY demo page
-        * Read onesheet, artup, and Pareto promo slides
-        * Work on one body point
     * Google Form
         * Come up with questions
         * Hook up to Google Sheet
         * Allow email to enter only once per six months
     * Make better partners section
+        * Finish partners section of demo page
         * Really think through what I want to call these people
             * Partners, executives, entrepreneurs, influencers
         * Beatles
@@ -28,6 +31,18 @@
         * See if new CPAP is still louder
     * Put away old CPAP
 
+# Grammarly work
+* BYCombo content
+    * Indie page
+    * Demo page
+* YB promos
+    * Onesheet
+    * Pareto package deal
+    * Artups
+* BY essays
+    * Band mission
+* YB annotations
+
 # Workout goals
 * Zone 2:
     * 45 minutes, 4 days
@@ -36,8 +51,6 @@
     * 2 rounds at 4 minutes
 
 # Parents
-* Scan old photos and passport
-* Say happy birthday to Sam
 
 # Costco
 * NyQuil
