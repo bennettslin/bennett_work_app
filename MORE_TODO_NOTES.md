@@ -1,12 +1,12 @@
 # Definitely do tomorrow
-* Prepare for driver's test
-* DMV appointment at 4pm
 * Think about partners concept
     * Finish partners part of demo page
+* Change rock music in onesheet to rock
+* Change references to stealing in annotations
 * Vacuum
-* Pump
-* Cardio
 * Workout
+* Try out headphones as hearing aids
+* Write to Anita
 
 # Today
 * BYCombo work
@@ -33,10 +33,8 @@
 
 # Grammarly work
 * BYCombo content
-    * Indie page
     * Demo page
 * YB promos
-    * Onesheet
     * Pareto package deal
     * Artups
 * BY essays
@@ -51,6 +49,7 @@
     * 2 rounds at 4 minutes
 
 # Parents
+* Soap
 
 # Costco
 * NyQuil
