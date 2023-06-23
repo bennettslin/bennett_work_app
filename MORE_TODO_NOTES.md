@@ -1,12 +1,12 @@
 # Definitely do tomorrow
-* Think about partners concept
-    * Finish partners part of demo page
+* More Grammarly fixes
 * Change rock music in onesheet to rock
 * Change references to stealing in annotations
+* Think about partners concept
+    * Finish partners part of demo page
 * Vacuum
-* Workout
 * Try out headphones as hearing aids
-* Write to Anita
+* Cardio
 
 # Today
 * BYCombo work
