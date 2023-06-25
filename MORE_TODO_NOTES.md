@@ -1,12 +1,11 @@
 # Definitely do tomorrow
-* More Grammarly fixes
-* Change rock music in onesheet to rock
-* Change references to stealing in annotations
-* Think about partners concept
+* Another Grammarly fix
+* Keep working on partners concept
     * Finish partners part of demo page
+    * Partners page
+    * Follow up with todos
 * Vacuum
-* Try out headphones as hearing aids
-* Cardio
+* VO2 max
 
 # Today
 * BYCombo work
@@ -34,11 +33,6 @@
 # Grammarly work
 * BYCombo content
     * Demo page
-* YB promos
-    * Pareto package deal
-    * Artups
-* BY essays
-    * Band mission
 * YB annotations
 
 # Workout goals
