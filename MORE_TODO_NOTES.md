@@ -1,7 +1,4 @@
 # Definitely do tomorrow
-* Buy Beatles book
-* Mention creativity in Tom Sawyer
-    * Indie labels will always take the path of least courage
 * Keep working on partners concept
     * Finish partners part of demo page
     * Partners page
