@@ -1,11 +1,12 @@
 # Definitely do tomorrow
-* Another Grammarly fix
+* Buy Beatles book
+* Mention creativity in Tom Sawyer
+    * Indie labels will always take the path of least courage
 * Keep working on partners concept
     * Finish partners part of demo page
     * Partners page
     * Follow up with todos
 * Vacuum
-* VO2 max
 
 # Today
 * BYCombo work
@@ -29,11 +30,16 @@
     * Figure out humidifier
         * See if new CPAP is still louder
     * Put away old CPAP
+* Send photos to punk account
+
+# Parents
+* Return Tylenol
 
 # Grammarly work
 * BYCombo content
     * Demo page
 * YB annotations
+    * Next up is Pchelka
 
 # Workout goals
 * Zone 2:
@@ -41,16 +47,6 @@
     * Carry 5 pounds
 * VO2 max:
     * 2 rounds at 4 minutes
-
-# Parents
-* Soap
-
-# Costco
-* NyQuil
-* Raisins
-* Mangoes
-
-# Deadlines
 
 # Tomorrow
 * More BD puzzles for 2023
