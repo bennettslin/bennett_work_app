@@ -3,7 +3,14 @@
     * Finish partners part of demo page
     * Partners page
     * Follow up with todos
-* Vacuum
+* VO2 max
+* Clamp
+* Pump
+* Extend
+
+# Thursday
+* Install guitars
+* Install pole
 
 # Today
 * BYCombo work
@@ -27,7 +34,6 @@
     * Figure out humidifier
         * See if new CPAP is still louder
     * Put away old CPAP
-* Send photos to punk account
 
 # Parents
 * Return Tylenol
