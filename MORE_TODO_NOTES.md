@@ -1,16 +1,20 @@
 # Definitely do tomorrow
+* Play Beatles songs
 * Keep working on partners concept
-    * Finish partners part of demo page
+    * Think through executives, entrepreneurs, influencers
     * Partners page
     * Follow up with todos
-* VO2 max
-* Clamp
+* Look into Parallels Hot Keys
+    * Add to reference files
+* Install guitar wall mounts
+* Install pole
 * Pump
 * Extend
+* Clamp
+* Cardio
+* Minor workout
 
-# Thursday
-* Install guitars
-* Install pole
+# Default list
 
 # Today
 * BYCombo work
@@ -19,7 +23,6 @@
         * Hook up to Google Sheet
         * Allow email to enter only once per six months
     * Make better partners section
-        * Finish partners section of demo page
         * Really think through what I want to call these people
             * Partners, executives, entrepreneurs, influencers
         * Beatles
@@ -36,11 +39,8 @@
     * Put away old CPAP
 
 # Parents
-* Return Tylenol
 
 # Grammarly work
-* BYCombo content
-    * Demo page
 * YB annotations
     * Next up is Pchelka
 
