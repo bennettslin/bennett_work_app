@@ -1,20 +1,16 @@
 # Definitely do tomorrow
-* Play Beatles songs
+* Close Parallels and don't open
+    * But do organize
 * Keep working on partners concept
-    * Think through executives, entrepreneurs, influencers
     * Partners page
     * Follow up with todos
-* Look into Parallels Hot Keys
-    * Add to reference files
-* Install guitar wall mounts
-* Install pole
-* Pump
-* Extend
-* Clamp
 * Cardio
-* Minor workout
+* Pump
+* Clamp
+* Extend
 
 # Default list
+* Workout
 
 # Today
 * BYCombo work
@@ -43,6 +39,13 @@
 # Grammarly work
 * YB annotations
     * Next up is Pchelka
+
+# Soon
+* Play Beatles songs
+* Look into Parallels Hot Keys
+    * Add to reference files
+* Install guitar wall mounts
+* Install pole
 
 # Workout goals
 * Zone 2:
