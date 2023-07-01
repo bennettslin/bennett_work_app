@@ -1,16 +1,23 @@
 # Definitely do tomorrow
-* Close Parallels and don't open
-    * But do organize
 * Keep working on partners concept
     * Partners page
     * Follow up with todos
-* Cardio
-* Pump
 * Clamp
+    * With red light
 * Extend
+    * Use glans cap
+    * Use Total Man cup
+* Cardio
+    * Walk if made some progress
+    * Bike if not
+    * Extend either way
+* Pump
+    * Also use glans cap
+* Workout
+* Organize file
+* Amazon thing
 
 # Default list
-* Workout
 
 # Today
 * BYCombo work
@@ -46,6 +53,7 @@
     * Add to reference files
 * Install guitar wall mounts
 * Install pole
+* Get new hard drive
 
 # Workout goals
 * Zone 2:
