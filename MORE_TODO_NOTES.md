@@ -1,23 +1,29 @@
 # Definitely do tomorrow
-* Keep working on partners concept
-    * Partners page
-    * Follow up with todos
+* Three explanations of someone who wants multiple jobs
+* Work on Google Form
+    * Test form
+    * Test Google sheet
+    * Link form th Google sheet
+* VO2
 * Clamp
     * With red light
 * Extend
     * Use glans cap
     * Use Total Man cup
-* Cardio
-    * Walk if made some progress
-    * Bike if not
-    * Extend either way
 * Pump
-    * Also use glans cap
-* Workout
 * Organize file
-* Amazon thing
 
 # Default list
+* Cardio
+* Workout
+* Doll
+
+# Sunday
+* Christopher
+* Amazon thing
+
+# Monday
+* Pick up Tom from therapy
 
 # Today
 * BYCombo work
@@ -40,8 +46,6 @@
     * Figure out humidifier
         * See if new CPAP is still louder
     * Put away old CPAP
-
-# Parents
 
 # Grammarly work
 * YB annotations
