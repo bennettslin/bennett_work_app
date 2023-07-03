@@ -1,29 +1,23 @@
 # Definitely do tomorrow
-* Three explanations of someone who wants multiple jobs
+* Pick up Tom from therapy
+* Where are files?
+* Vitamins
+* Write to Anita
 * Work on Google Form
     * Test form
     * Test Google sheet
-    * Link form th Google sheet
-* VO2
+    * Link form to Google sheet
 * Clamp
     * With red light
-* Extend
-    * Use glans cap
-    * Use Total Man cup
 * Pump
 * Organize file
+* Amazon thing
 
 # Default list
 * Cardio
 * Workout
+* Extend
 * Doll
-
-# Sunday
-* Christopher
-* Amazon thing
-
-# Monday
-* Pick up Tom from therapy
 
 # Today
 * BYCombo work
