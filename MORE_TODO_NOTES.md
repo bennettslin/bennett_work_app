@@ -1,30 +1,30 @@
 # Definitely do tomorrow
-* Pick up Tom from therapy
-* Where are files?
-* Vitamins
-* Write to Anita
 * Work on Google Form
-    * Test form
-    * Test Google sheet
-    * Link form to Google sheet
-* Clamp
-    * With red light
+    * Break down how pages will work
+    * Description of test form
+    * Confirmation message
+    * Questions
+        * Gender question
 * Pump
-* Organize file
-* Amazon thing
-
-# Default list
+* Extend
+* Clamp
+* Write to Anita
 * Cardio
 * Workout
-* Extend
-* Doll
+* Amazon thing
+* Look into Substack newsletter for mailing list
+
+# Default list
+
+# Costco
+* Magnesium
+
+# Parents
+* Dish soap
+* Soap
 
 # Today
 * BYCombo work
-    * Google Form
-        * Come up with questions
-        * Hook up to Google Sheet
-        * Allow email to enter only once per six months
     * Make better partners section
         * Really think through what I want to call these people
             * Partners, executives, entrepreneurs, influencers
@@ -46,6 +46,7 @@
     * Next up is Pchelka
 
 # Soon
+* Review Trusted Traveler
 * Play Beatles songs
 * Look into Parallels Hot Keys
     * Add to reference files
@@ -75,7 +76,6 @@
         * Make point about competition and privilege
         * From BY principle
 * Index funds
-* Trusted traveler
 * Take care of tadalafil
 * NeatCell laser pen
 * Independence breeds homogeneity
@@ -114,10 +114,3 @@
 # TODO Possibly never
 * Tweet Bizarro
 * Do NPM 2FA?
-
-# Projects
-* Begin work on BY Combo
-    * Google Form
-        * Embed on page
-        * Connect results to Google Sheet
-    * Link to it from band website
