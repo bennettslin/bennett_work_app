@@ -1,27 +1,26 @@
 # Definitely do tomorrow
+* Reorganize Things
 * Work on Google Form
     * Break down how pages will work
     * Description of test form
     * Confirmation message
     * Questions
         * Gender question
-* Pump
-* Extend
-* Clamp
-* Write to Anita
-* Cardio
-* Workout
 * Amazon thing
 * Look into Substack newsletter for mailing list
-
-# Default list
+* Instagram account
 
 # Costco
 * Magnesium
+* Rubbing alcohol
 
 # Parents
 * Dish soap
 * Soap
+* Toilet paper
+* Magnesium
+* Soy milk
+* NyQuil
 
 # Today
 * BYCombo work
