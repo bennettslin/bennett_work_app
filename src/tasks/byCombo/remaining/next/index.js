@@ -6,7 +6,7 @@ export default [
     },
     {
         taskName: `Google form`,
-        workedHours: 4,
+        workedHours: 6,
         neededHours: 20,
     },
 ]

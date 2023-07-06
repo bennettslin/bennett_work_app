@@ -1,26 +1,28 @@
 # Definitely do tomorrow
-* Reorganize Things
 * Work on Google Form
-    * Break down how pages will work
-    * Description of test form
-    * Confirmation message
+    * Description for each section
+        * Description overall: specify musician or artist
     * Questions
         * Gender question
-* Amazon thing
+* AWS thing
 * Look into Substack newsletter for mailing list
-* Instagram account
+* Go through Things tutorial
+* Pump
+* Extend
+* Clamp
+* Cardio
+* Workout
+* Move bed
+    * Move doll
+* Write to Anita
 
 # Costco
 * Magnesium
 * Rubbing alcohol
+* Dishwashing soap
+* Toothpaste
 
 # Parents
-* Dish soap
-* Soap
-* Toilet paper
-* Magnesium
-* Soy milk
-* NyQuil
 
 # Today
 * BYCombo work
@@ -31,6 +33,7 @@
         * Managers in band
         * The silent majority of unknown artists want interdependence
         * Why mess with the system that gave us the greatest rock band of all time?
+    * Partner Google form
 * Take a walk
 * Cardio
     * With weight vest
@@ -45,7 +48,6 @@
     * Next up is Pchelka
 
 # Soon
-* Review Trusted Traveler
 * Play Beatles songs
 * Look into Parallels Hot Keys
     * Add to reference files
