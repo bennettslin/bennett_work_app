@@ -5,7 +5,7 @@ export default [
     },
     {
         taskName: `New content.`,
-        workedHours: 2622,
+        workedHours: 2630,
     },
     {
         taskName: `BYCombo demo page`,
