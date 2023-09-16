@@ -1,5 +1,9 @@
 export default [
     {
+        taskName: `Update Willy annotations`,
+        workedHours: 4,
+    },
+    {
         taskName: `Core values`,
         workedHours: 104,
     },
