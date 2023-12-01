@@ -1,7 +1,7 @@
 export default [
     {
         taskName: `More annotation edits.`,
-        workedHours: 230,
+        workedHours: 246,
     },
     {
         taskName: `Revise Odin scenes to use dream backdrops.`,
