@@ -1,5 +1,10 @@
 export default [
     {
+        taskName: `Fix bugs related to BYCombo links.`,
+        workedHours: 0,
+        neededHours: 8,
+    },
+    {
         taskName: `More annotation edits.`,
         workedHours: 322,
     },
